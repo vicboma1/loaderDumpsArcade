@@ -27,7 +27,7 @@
   ```
   
 
-## Inputs 
+## Inputs
  
  * Player 1
    ```
@@ -72,17 +72,17 @@
   000000000000006C     00       .     Exit
   ```
   
-## Systems/Games Loaders
+## Systems/Games Loaders (wip)
 
 ### Taito Type x
-* [Cosplay 3D Mahjong]()
+* [Cosplay 3D Mahjong - 706]()
 
 ### Taito Type x2
 * []()
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]()
-* [Rastan Saga]()
+* [Rastan Saga - 882]()
 
 
 # No Roms
