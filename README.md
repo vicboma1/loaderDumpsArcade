@@ -1,8 +1,4 @@
-# Loader Dumps Arcade  
-
-
-The games need some dependencies to work on Windows.
-
+# Loader Dumps Arcade Homebrew
 
 ## Systems
  
@@ -28,6 +24,40 @@ The games need some dependencies to work on Windows.
   ```
     Arcade System Board
     Run w/ Taito Type X, X2, X Zero, X3 and X4 arcade boards
+  ```
+  
+
+## Inputs 
+ 
+ * Player 1
+ ```
+ [Display address]  [Value]  [Byte]  [Key]
+ 0000000000000000     00       .	    Start
+ 0000000000000004  	  00       .     Coin
+ 0000000000000008  	  00       .     Service
+ 000000000000000C  	  00       .     Up
+ 0000000000000010  	  00       .     Down
+ 0000000000000014  	  00       .     Left
+ 0000000000000018  	  00       .     Right
+ 000000000000001C  	  00       .     Btn 1
+ 0000000000000020  	  00       .     Btn 2
+ 0000000000000024  	  00       .     Btn 3
+ 0000000000000028  	  00       .     Btn 4
+ 000000000000002C  	  00       .     Btn 5 
+ 0000000000000030  	  00       .     Btn 6
+  ```
+    
+* Player 2
+  ```
+  
+  ```
+
+* Test Mode
+  ```
+  ```
+  
+  * Exit Mode
+  ```
   ```
   
 ## Indexes for Systems
