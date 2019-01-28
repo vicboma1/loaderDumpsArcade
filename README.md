@@ -1,4 +1,4 @@
-# Loader Dumps Arcade Homebrew
+# Loader Dumps Arcade - Homebrew
 
 ## Systems
  
@@ -72,7 +72,7 @@
   000000000000006C     00       .     Exit
   ```
   
-## Indexes for Systems
+## Systems/Games Loaders
 
 ### Taito Type x
 * [Cosplay 3D Mahjong]()
@@ -85,4 +85,4 @@
 * [Rastan Saga]()
 
 
-## No Roms
+# No Roms
