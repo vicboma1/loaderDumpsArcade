@@ -23,7 +23,7 @@
 * NESiCAxLive
   ```
     Arcade System Board
-    Run w/ Taito Type X, X2, X Zero, X3 and X4 arcade boards
+    Run w/ Taito Type X, X2, X Zero, X3 and X4
   ```
   
 
