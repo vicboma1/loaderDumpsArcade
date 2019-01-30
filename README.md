@@ -27,7 +27,9 @@
   ```
   
 
-## Inputs
+## Inputs 
+
+#### NESiCAxLive
  
  * Player 1
    ```
