@@ -75,7 +75,7 @@
   ```
   
 * Asset | monitor_input.bin
- ```
+  ```
   Need for the taito type x game to read the keyboard input 
   
   Example
