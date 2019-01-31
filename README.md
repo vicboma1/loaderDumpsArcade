@@ -1,4 +1,4 @@
-# Loader Dumps Arcade - Homebrew
+# Loader Dumps Arcade - Homebrew (reverse engineering w/board & experiments)
 
 ## Systems
  
