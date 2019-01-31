@@ -27,7 +27,7 @@
   ```
   
 
-## Inputs (WIP - Keyboard)
+## Inputs (WIP - Keyboard Arcade Cabinet)
 
 #### Taito Type & NESiCAxLive
  
