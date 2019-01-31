@@ -78,6 +78,8 @@
  ```
   Need for the taito type x game to read the keyboard input 
   
+  Example
+  
   [Display address]        [Hexa Code]             [Hexa Code]          [Ascii Code]
   0000000000000000  01 00 00 00 00 00 00 00  01 00 00 00 01 00 00 00  ................
   0000000000000010  FA 00 00 00 01 00 00 00  01 00 00 00 00 00 00 00  ................
