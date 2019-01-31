@@ -1,4 +1,6 @@
-# Loader Dumps Arcade - Homebrew (reverse engineering w/board & experiments)
+# Loader Dumps Arcade
+
+#### All this is a homebrew development with reverse engineering, without documentation and a lot of personal time.
 
 ## Systems
  
@@ -103,4 +105,5 @@
 * [Rastan Saga - 882]()
 
 
-# No Roms
+
+# No roms! 
