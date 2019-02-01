@@ -76,7 +76,7 @@
   000000000000006C     00       .     Exit
   ```
   
-* Asset | monitor_input.bin
+* Asset | binding.bin
   ```
   Need for the taito type x game to read the keyboard input 
   
@@ -91,6 +91,8 @@
   0000000000000050  26 00 00 00 25 00 00 00  24 00 00 00 23 00 00 00  &...%...$...#...
   0000000000000060  22 00 00 00 21 00 00 00  14 00 00 00 01 00 00 00  "...!...........         
   ```
+  
+* Example
   
 ## Systems/Games Loaders (wip)
 
