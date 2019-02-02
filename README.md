@@ -93,7 +93,8 @@
   ```
   
 * Example | scratch (PoF)
-  []()
+
+ ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping.gif)
   
 ## Systems/Games Loaders (wip)
 
