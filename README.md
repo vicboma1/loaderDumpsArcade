@@ -99,14 +99,14 @@
 ## Systems/Games Loaders (wip)
 
 ### Taito Type x
-* [Cosplay 3D Mahjong - 706]()
+* [Cosplay 3D Mahjong - 706]() - (WIP)
 
 ### Taito Type x2
-* []()
+
 
 ### NesicaxLive
-* [Cosplay 3D Mahjong - 401300]()
-* [Rastan Saga - 882]()
+* [Cosplay 3D Mahjong - 401300]() - (WIP)
+* [Rastan Saga - 882]() - (WIP)
 
 
 
