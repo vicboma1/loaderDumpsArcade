@@ -102,15 +102,15 @@ graphics
 ## Systems/Games Loaders (wip)
 
 ### Taito Type x
-* [Cosplay 3D Mahjong - 706]() - (WIP)
+* [Cosplay 3D Mahjong - 706]() - Video (WIP)
 
 ### Taito Type x2
 
 
 ### NesicaxLive
-* [Cosplay 3D Mahjong - 401300]() - (WIP)
-* [Rastan Saga - 882]() - (WIP)
-* [Puzzle Bobble - xxx ]() - (WIP)
+* [Cosplay 3D Mahjong - 401300]() - Video (WIP)
+* [Rastan Saga - 882]() - Inputs(OK) - Video (WIP)
+* [Puzzle Bobble - xxx ]() - Inputs (WIP) - Video (WIP)
 
 
 
