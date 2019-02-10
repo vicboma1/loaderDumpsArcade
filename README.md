@@ -32,8 +32,6 @@
 
 #### Taito Type
 
-##### Rastan Saga - 882
-
  * Player 1
    ```
    [Display address]  [Value]  [Byte]  [Key]
@@ -70,14 +68,14 @@
   0000000000000064     00       .     Btn 6
   ```
 
-* Platform 
+* Board 
   ```
   [Display address]  [Value]  [Byte]  [Key]
   0000000000000068     00       .     Test Mode
   000000000000006C     00       .     Exit
   ```
   
-* Asset | binding.bin
+* Assets | 'binding'.bin
   ```
   Need for the taito type x game to read the keyboard input 
   
