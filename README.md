@@ -32,7 +32,9 @@ graphics
 ## Inputs (WIP - Keyboard Arcade Cabinet)
 
 #### Taito Type & NESiCAxLive
- 
+
+##### Rastan Saga - 882
+
  * Player 1
    ```
    [Display address]  [Value]  [Byte]  [Key]
@@ -109,8 +111,8 @@ graphics
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
-* [Rastan Saga - 882]() - Inputs(OK) - Video (WIP)
-* [Puzzle Bobble - xxx ]() - Inputs (WIP) - Video (WIP)
+* [Rastan Saga - 882]() - Inputs | Working - Video (WIP)
+* [Puzzle Bobble - 301200 ]() - Inputs (WIP) - Video (WIP)
 
 
 
