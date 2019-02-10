@@ -28,7 +28,6 @@
     Run w/ Taito Type X, X2, X Zero, X3 and X4
   ```
   
-graphics
 ## Inputs (WIP - Keyboard Arcade Cabinet)
 
 #### Taito Type & NESiCAxLive
@@ -96,10 +95,12 @@ graphics
   
 * Example | scratch (PoF with vs2010)
 
- ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping2P.gif)
+   ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping2P.gif)
   
   
-## Graphics (WIP - Keyboard Arcade Cabinet) / wip
+## Graphics (wip)
+
+#### High Resolution (wip)
 
 ## Systems/Games Loaders (wip)
 
