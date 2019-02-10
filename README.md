@@ -30,7 +30,7 @@
   
 ## Inputs (WIP - Keyboard Arcade Cabinet)
 
-#### Taito Type & NESiCAxLive
+#### Taito Type
 
 ##### Rastan Saga - 882
 
@@ -97,7 +97,9 @@
 
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping2P.gif)
   
-  
+#### NESiCAxLive (wip)
+
+
 ## Graphics (wip)
 
 #### High Resolution (wip)
@@ -107,15 +109,16 @@
 ## Systems/Games Loaders (wip)
 
 ### Taito Type x
-* [Cosplay 3D Mahjong - 706]() - Video (WIP)
+* [Cosplay 3D Mahjong - 706]() - Inputs | Working - Video (WIP)
+* [Rastan Saga - 882]() - Inputs | Working - Video (WIP)
 
 ### Taito Type x2
 
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
-* [Rastan Saga - 882]() - Inputs | Working - Video (WIP)
-* [Puzzle Bobble - 301200 ]() - Inputs (WIP) - Video (WIP)
+* [Rastan Saga - 401500]() - Inputs - Video (WIP)
+* [Puzzle Bobble - 301200 ]() - Inputs - Video (WIP)
 
 
 
