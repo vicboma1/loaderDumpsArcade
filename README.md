@@ -94,7 +94,7 @@ graphics
   
 * Example | scratch (PoF with vs2010)
 
- ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping.gif)
+ ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/inputMapping2P.gif)
   
   
 ## Graphics (WIP - Keyboard Arcade Cabinet) / wip
