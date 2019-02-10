@@ -131,6 +131,6 @@
 
 
 # References
- * [JAMMA vs JVS](http://forum.arcadecontrols.com/index.php?topic=95942.0)
+ * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
  * [JVS conversion](https://wiki.arcadeotaku.com/images/9/97/SEGA_cabinet_JVS_conversion_manual_.pdf)
- * [I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
+ * [Naomi I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
