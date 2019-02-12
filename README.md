@@ -118,7 +118,7 @@
 
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Inputs | Working - Video (WIP)
-* [Rastan Saga - 882]() - Inputs | Working - Video (WIP)
+* [Rastan Saga - 882](https://youtu.be/pGB89NVwNDg) - Inputs & Video
 
 ### Taito Type x2
 
