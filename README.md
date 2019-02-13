@@ -33,7 +33,7 @@
    
    ```
    
-## Inputs | (WIP - Keyboard Arcade Cabinet)
+## Inputs | Based on Hook Injection
 
 #### Taito Type
 
