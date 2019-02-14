@@ -28,7 +28,7 @@
     Run w/ Taito Type X, X2, X Zero, X3 and X4
   ```
   
-## Loader | [Based on Classic Injection](https://github.com/vicboma1/Inject-DLL)
+## Loader | [Based on Classic Injection](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#createremotethread-and-loadlibrary)
    ```
    
    ```
