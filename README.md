@@ -28,7 +28,7 @@
     Run w/ Taito Type X, X2, X Zero, X3 and X4
   ```
   
-## Loader
+## Loader | [Based on Classic Injection](https://github.com/stimmy1442/EndSceneHookExample)
    ```
    
    ```
