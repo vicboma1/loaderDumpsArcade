@@ -35,7 +35,7 @@
    
 ## Inputs | Based on Hook Injection
 
-#### Taito Type
+#### Keyboard - Joystick - XInput (wip)
 
  * Player 1
    ```
