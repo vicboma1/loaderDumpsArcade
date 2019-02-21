@@ -11,14 +11,14 @@ namespace InputDevice
 {
     public class FromBinary : IFromBinary
     {
-        public static FromBinary Create() { return new FromBinary(); }
+        public static IFromBinary Create() { return new FromBinary(); }
 
         FromBinary()
         {
 
         }
 
-        public void Writer(IEDAByte data)
+        public void Reader(IEDAByte data)
         {
             if(File.Exists(Constants.FILE_NAME))
                 data._byte = File.ReadAllBytes(Constants.FILE_NAME);

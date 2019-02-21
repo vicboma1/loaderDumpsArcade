@@ -9,6 +9,6 @@ namespace FormInputDevice.Inputs.Binary.From
 {
     public interface IFromBinary
     {
-       void Writer(IEDAByte data);
+       void Reader(IEDAByte data);
     }
 }

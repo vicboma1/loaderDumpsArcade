@@ -11,7 +11,7 @@ namespace InputDevice
 {
     public class ToBinary : IToBinary
     {
-        public static ToBinary Create() { return new ToBinary(); }
+        public static IToBinary Create() { return new ToBinary(); }
 
         ToBinary()
         {
