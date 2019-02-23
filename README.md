@@ -89,9 +89,10 @@
     
   Joystick    -  X[1|2]   -  Axis[+|-][X|Y|Z]   -  256 (short)
   0xZXYA0CMN       ZY     -        YA           -    0CMN      
+  
+ 
   Example
-  
-  
+ 
   [Display address]        [Hexa Code]             [Hexa Code]          [Ascii Code]
   0000000000000000  02 00 00 00 06 00 00 00  06 00 00 00 C8 00 00 00  ................
   0000000000000010  D0 00 00 00 CB 00 00 00  CD 00 00 00 02 00 00 00  ................
