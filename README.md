@@ -87,7 +87,7 @@
   Keyboard    -  256 (short)
   0x000000XX     XX     
     
-  Joystick    -  X[1|2]   -  Axis[+|-][X|Y|Z]   -  256 (short)
+  Joystick    -  X[1|2]   -  Axis[+|-][X|Y|Z]   -  256 (btn)
   0xZXYA0CMN       ZY     -        YA           -    0CMN      
   
  
