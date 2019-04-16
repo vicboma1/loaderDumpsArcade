@@ -139,7 +139,7 @@
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
  * [JVS conversion](https://wiki.arcadeotaku.com/images/9/97/SEGA_cabinet_JVS_conversion_manual_.pdf)
  * [Naomi I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
+ * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/NVControlPanel_API.pdf)
  
  
 # No roms! 
-
