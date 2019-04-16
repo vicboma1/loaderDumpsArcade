@@ -1,6 +1,6 @@
 # Loader Dumps Arcade
 
-#### All this is a homebrew development with reverse engineering, without documentation and a lot of personal time.
+#### All this is a homebrew development with reverse engineering, with technical documentation and a lot of personal time.
 
 ## Systems
  
