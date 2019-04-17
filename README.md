@@ -29,7 +29,7 @@
   ```
   
 ## Loader | [Based on Injection's](https://github.com/vicboma1/Inject-DLL#process)
-   ```c
+   ```C
     public interface ILoaderProcessNative
     {
         Boolean isLoaded { get; }
@@ -55,7 +55,7 @@
    
    ```
    
-## Inputs | Based on Hook Injection
+## Inputs | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
 
 #### Keyboard - Joystick - XInput (wip)
 
