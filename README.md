@@ -143,4 +143,4 @@
  * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/NVControlPanel_API.pdf)
 
  
-# No roms! 
+# No roms, no games! 
