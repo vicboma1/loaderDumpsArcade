@@ -164,6 +164,6 @@
  * [Jamma Video Standard](http://daifukkat.su/files/jvs_wip.pdf)
  * [Naomi I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
  * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/NVControlPanel_API.pdf)
-
+ * [JVS](http://superusr.free.fr/arcade/JVS/JVST_VER3.pdf)
  
 # No roms, no games! 
