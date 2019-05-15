@@ -167,5 +167,6 @@
  * [JVS](http://superusr.free.fr/arcade/JVS/JVST_VER3.pdf)
  * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/JVSR.pdf)
  * [I/O Board](https://github.com/reicast/reicast-emulator/blob/master/core/hw/maple/maple_devs.cpp)
+ * [Input Keys](http://www.flint.jp/misc/?q=dik&lang=en)
  
 # No roms, no games! 
