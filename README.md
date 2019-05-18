@@ -150,7 +150,7 @@
 * [Rastan Saga - 882](https://youtu.be/pGB89NVwNDg) - Inputs & Video
 
 ### Taito Type x2
-
+* [Trouble Witches AC](https://youtu.be/eEW_f5E4UAw) - Working Video
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
