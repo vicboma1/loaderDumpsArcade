@@ -147,7 +147,7 @@
 
 ##  GUI
 
-* scratch (Pof with vs2010)
+* scratch (Pof with vs2010) (wip)
    
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif)
   
