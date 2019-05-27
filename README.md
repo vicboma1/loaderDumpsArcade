@@ -159,6 +159,7 @@
 
 ### Taito Type x2
 * [Trouble Witches AC](https://youtu.be/eEW_f5E4UAw) - Working Video
+![](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif)
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
