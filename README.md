@@ -65,6 +65,8 @@
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
  * [DIKCode](http://www.flint.jp/misc/?q=dik&lang=en)
   
+## Example
+
  * Player 1
    ```
    [Display address]  [Value]  [Byte]  [Key]
