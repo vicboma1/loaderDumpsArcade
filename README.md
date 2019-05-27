@@ -55,10 +55,16 @@
    
    ```
    
-## Inputs | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
+## Inputs
 
-#### Keyboard - Joystick - XInput (wip)
+### Keyboard/Joystick  
 
+### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
+ * [OpCode](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
+
+### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
+ * [DIKCode](http://www.flint.jp/misc/?q=dik&lang=en)
+  
  * Player 1
    ```
    [Display address]  [Value]  [Byte]  [Key]
@@ -124,7 +130,7 @@
   0000000000000050  02 00 00 X1 25 00 00 00  24 00 00 00 23 00 00 00  ........$...#...
   0000000000000060  22 00 00 00 21 00 00 00  14 00 00 00 01 00 00 00  "...!...........         
   ```
-  
+   
 * Example | scratch (PoF with vs2010)
 
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
