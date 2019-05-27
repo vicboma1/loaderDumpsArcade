@@ -155,11 +155,11 @@
 
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Inputs | Working - Video (WIP)
-* [Rastan Saga - 882](https://youtu.be/pGB89NVwNDg) - Inputs & Video
+* [Rastan Saga - 882 | Inputs & Video](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
 ### Taito Type x2
-* [Trouble Witches AC - Working Video]
+* [Trouble Witches AC - Working Video](https://www.youtube.com/watch?v=eEW_f5E4UAw)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
 ### NesicaxLive
