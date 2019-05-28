@@ -60,10 +60,11 @@
 ### Keyboard/Joystick  
 
 ### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
+ * [DIKCode](http://www.flint.jp/misc/?q=dik&lang=en)
+ 
+### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
  * [OpCode](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
-### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
- * [DIKCode](http://www.flint.jp/misc/?q=dik&lang=en)
   
 ## Example
 
