@@ -138,7 +138,52 @@
 
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
   
-  
+#### JVS I/O
+```
+Inicializando
+	Logger: 2019-06-07_00-48-04-LoggerJvs.log 
+
+	Escribo  6 bytes... -> [ E0 FF 03 F0 D9 CB ] 0xE0FF03F0D9CB
+	[E0] = SYNC_CODE OK
+	[FF] = BROADCAST A TODOS LOS NODOS
+	[03] = 
+	[F0] = RESET ALL NODES
+	[D9] 
+	[CB] = 
+	Envío    0 bytes... -> [ ]
+
+............................
+
+	Escribo  6 bytes... -> [ E0 FF 03 F1 01 F4 ] 0xE0FF03F101F4
+	[E0] = SYNC_CODE OK
+	[FF] = BROADCAST A TODOS LOS NODOS
+	[03] = 
+	[F1] = Set Address
+	[01] 
+	[F4] = 
+	Envío    6 bytes... -> [ XXXXXXXXXXX ]
+
+............................
+
+	Escribo  5 bytes... -> [ E0 01 02 10 13 ]  0xE001021013 
+	[E0] = SYNC_CODE OK
+	[01] = ESCLAVO
+	[02] = 
+	[10] = I/O IDENTIFICADOR 
+	[13] = 
+	Envío    58 bytes... -> [ XXXXXXXXXXX ]
+
+............................
+
+	Escribo  5 bytes... -> [ E0 01 02 11 14 ] 0xE001021114 
+	[E0] = SYNC_CODE OK
+	[01] = ESCLAVO
+	[02] = 
+	[11] = COMANDO REVISION FORMATO 
+	[14] = 
+	Envío    7 bytes... -> [ XXXXXXXXXXX ]
+```
+
 #### NESiCAxLive (wip)
 
 
