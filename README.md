@@ -202,18 +202,19 @@ Inicializando
 ## Systems/Games Loaders (wip)
 
 ### Taito Type x
-* [Cosplay 3D Mahjong - 706]() - Inputs | Working - Video (WIP)
+* [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 * [Rastan Saga - 882 | Inputs & Video](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+* [Raiden III](https://youtu.be/wKgiJ981Utw) - (WIP)
 
 ### Taito Type x2
-* [Trouble Witches AC - Working Video](https://www.youtube.com/watch?v=eEW_f5E4UAw)
+* [Trouble Witches AC - Working Video](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Rastan Saga - 401500]() - Inputs - Video (WIP)
-* [Puzzle Bobble - 301200 ]() - Inputs - Video (WIP)
+* [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
