@@ -182,6 +182,8 @@ Inicializando
 	[11] = COMANDO REVISION FORMATO 
 	[14] = 
 	Envío    7 bytes... -> [ XXXXXXXXXXX ]
+	
+	...
 ```
 
 #### NESiCAxLive (wip)
