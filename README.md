@@ -205,6 +205,7 @@ Inicializando
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 * [Rastan Saga - 882 | Inputs & Video](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+
 * [Raiden III](https://youtu.be/wKgiJ981Utw) - (WIP)
 
 ### Taito Type x2
