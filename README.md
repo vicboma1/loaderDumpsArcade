@@ -207,6 +207,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
 * [Raiden III](https://youtu.be/wKgiJ981Utw) - (WIP)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC - Working Video](https://youtu.be/d0Eo7ataLvg)
