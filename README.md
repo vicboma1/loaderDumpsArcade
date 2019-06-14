@@ -212,6 +212,9 @@ Inicializando
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
+* [Trouble Witches AC Hack | Working 100%](https://youtu.be/ZytAryfM6Y0)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
+
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
