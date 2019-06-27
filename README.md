@@ -199,22 +199,28 @@ Inicializando
    
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif)
   
-## Systems/Games Loaders (wip)
+## Systems/Games Loaders (wip) | [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 * [Rastan Saga - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
-* [Raiden III](https://youtu.be/wKgiJ981Utw) - (WIP)
+* [Raiden III | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
+
+* [Raiden III | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
-* [Trouble Witches AC Hack | Working 100%](https://youtu.be/ZytAryfM6Y0)
+* [Trouble Witches AC | Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
+
+* [Trouble Witches AC | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2.gif" width="800" height="480" />
 
 
 ### NesicaxLive
