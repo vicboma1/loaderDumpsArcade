@@ -210,7 +210,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
 * [Raiden III | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
