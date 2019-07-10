@@ -203,6 +203,7 @@ Inicializando
 
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
+
 * [Rastan Saga - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
@@ -211,6 +212,9 @@ Inicializando
 
 * [Raiden III | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
+
+* [Raiden III | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
