@@ -193,6 +193,8 @@ Inicializando
 
 #### High Resolution (wip)
 
+## Sound (wip)
+
 ##  GUI
 
 * scratch (Pof with vs2010) (wip)
