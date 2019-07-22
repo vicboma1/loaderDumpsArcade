@@ -207,14 +207,17 @@ Inicializando
 * [Rastan Saga - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
-* [Raiden III | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
+* [Raiden III Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
-* [Raiden III | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
+* [Raiden III Arcade (2005) | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
 
-* [Raiden III | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
+* [Raiden III Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Fullscreen & Rotation Display | WIP ](https://youtu.be/byBMfUstYLY) 
+<img src="http://s3.amazonaws.com/snd-store/a/26553114/02_02_18_508408464_aab_560x292.jpg" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
