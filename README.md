@@ -1,6 +1,19 @@
-# Loader Dumps Arcade
+# Loader Dumps Arcade | https://twitter.com/vicboma1
 
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time.
+
+## Indexes 
+
+### Systems
+* [Taito Type x](https://github.com/vicboma1/Kotlin-Koans#hello-world)
+* [Taito Type x2](https://github.com/vicboma1/Kotlin-Koans#java-to-kotlin-conversion)
+* [NESiCAxLive](https://github.com/vicboma1/Kotlin-Koans#named-arguments)
+
+### Loader
+* [Injections](https://github.com/vicboma1/Kotlin-Koans#hello-world)
+
+### Inputs
+* [Keyboard/Joystick](https://github.com/vicboma1/Kotlin-Koans#hello-world)
 
 ## Systems
  
