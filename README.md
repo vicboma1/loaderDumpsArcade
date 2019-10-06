@@ -268,18 +268,73 @@ Inicializando
 * [Rastan Saga - 401500]() - Inputs (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
-# [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+# [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
 <img src="http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg" width="400" height="240" />
 
-* [005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
 <img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
-[![005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg)](http://www.youtube.com/watch?v=H7lU8WMDZrY "005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk")
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
-[![005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://img.youtube.com/vi/sNqQlEhafkM/0.jpg)](http://www.youtube.com/watch?v=sNqQlEhafkM "005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D")
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 # Code Ratio
 
 ```
