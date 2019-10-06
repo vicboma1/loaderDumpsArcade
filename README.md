@@ -18,7 +18,17 @@
 * [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
 
+### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
+* [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 
+### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
+
+### [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
+
+## [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
+
+## [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip--video-playlist)
+## [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 
 ## Systems
  
@@ -203,9 +213,6 @@ Inicializando
 	
 	...
 ```
-
-#### NESiCAxLive (wip)
-
 
 ## Graphics (wip)
 
