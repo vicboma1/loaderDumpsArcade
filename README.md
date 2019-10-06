@@ -27,6 +27,10 @@ Twitter : https://twitter.com/vicboma1
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
+* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
+* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
+* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
+
 ### [Dev Video PlayList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-playlist)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
@@ -268,6 +272,13 @@ Inicializando
 
 * [005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
 <img src="http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg" width="400" height="240" />
+
+* [005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+
+[![005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg)](http://www.youtube.com/watch?v=H7lU8WMDZrY "005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk")
+
+[![005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://img.youtube.com/vi/sNqQlEhafkM/0.jpg)](http://www.youtube.com/watch?v=sNqQlEhafkM "005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D")
 
 # Code Ratio
 
