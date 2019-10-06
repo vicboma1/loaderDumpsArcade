@@ -26,7 +26,8 @@ Twitter : https://twitter.com/vicboma1
 
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
-### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip--video-playlist)
+### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
+### [Dev Video PlayList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-playlist)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 
@@ -227,7 +228,7 @@ Inicializando
    
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif)
   
-## Systems/Games Loaders (wip) | [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+## Systems/Games Loaders (wip)
 
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
@@ -262,6 +263,11 @@ Inicializando
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Rastan Saga - 401500]() - Inputs (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
+
+# [Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+
+* [005 - Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
+<img src="http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg" width="400" height="240" />
 
 # Code Ratio
 
