@@ -275,53 +275,33 @@ Inicializando
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen & Rotation Display](http://www.youtube.com/watch?v=sNqQlEhafkM)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Windowed](https://youtu.be/KSZ0gIxmzU0)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Error Direct3Dバックバッファ取得失敗](https://youtu.be/wXJ1pOcU54E)
-* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Spot Light Type](https://youtu.be/1fW33Jc9ZZ8
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Spot Light Type](https://youtu.be/1fW33Jc9ZZ8)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Diffuse CyberPunk Lights](https://youtu.be/wBOByMJZJb4)
+* [Trouble Witches AC - Taito Type x2 | Texture Filtering in runtime | Nearest-Point](https://youtu.be/QmNS6zFTKpg)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Reverse pixel mode in runtime](https://youtu.be/x2dFOSd8rVI)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Filters in runtime](https://youtu.be/L5Bl5P3vHvo)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Working 100% ](https://youtu.be/CqVhs1MV7fc)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Rendered entities without alpha](https://youtu.be/YXoffBoCQFA)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Rotation Native Screen 90º](https://youtu.be/OJDhNMZ-WDA)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Proof of concept screen rotation 0 - 90 - 180 - 270](https://youtu.be/GdglTFiwsGk)
+* [Trouble Witches AC - Taito Type x2 | Primitives to render ](https://youtu.be/1BOFofAWJCQ)
+* [Trouble Witches AC - Taito Type x2 | Fetch stream vertex](https://youtu.be/2GzN8lyw67s)
+* [Trouble Witches AC - Taito Type x2 | No filter stretch](https://youtu.be/WdVXEIHrdOE)
+* [Trouble Witches AC - Taito Type x2 | Hidden background](https://youtu.be/ZytAryfM6Y0)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | JVS working](https://youtu.be/ApofTCfae-Y)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Hooking Display](https://youtu.be/0MQ7qit3hw0)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | I/O Error PC](https://youtu.be/wKgiJ981Utw)
+* [Trouble Witches AC - Taito Type x2 | JVS I/O Coin Error overflow w/ +40000 credits ](https://youtu.be/bXRC05W12IY)
+* [Trouble Witches AC - Taito Type x2 | Test Mode + keyinput mapping w/ JVS I/O](https://youtu.be/FkcUcNCo7BI)
+* [Trouble Witches AC - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
+* [Trouble Witches AC - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
+* [Trouble Witches AC - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
+* [Trouble Witches AC - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
+* [Rastan Saga (ラスタンサーガ) - Taito Type x | Windowed size Optimization](https://youtu.be/7OtyeKExRcU)
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
 # Code Ratio
 
 ```
