@@ -31,14 +31,13 @@ Twitter : https://twitter.com/vicboma1
 * [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
 
-### [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
+### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
 
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
- * [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
-
-### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
-* [Hooking dsound]()
+### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound)
+### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage)
+### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display)
 
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
@@ -120,7 +119,7 @@ Twitter : https://twitter.com/vicboma1
  * [OpCode](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
   
-### Example
+#### Example
 
  * Player 1
    ```
@@ -192,9 +191,9 @@ Twitter : https://twitter.com/vicboma1
 
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
   
-## JVS I/O
+## JVS I/O Emulation
 
-### Example
+#### Example
 ```
 Inicializando
 	Logger: 2019-06-07_00-48-04-LoggerJvs.log 
@@ -242,19 +241,33 @@ Inicializando
 	...
 ```
 
-## Graphics (wip)
+## Graphics
+ * No filter stretch
+ * Fetch stream vertex
+ * Primitives to render
+ * Rendered entities without alpha
+ * Filters in runtime
+ * Reverse pixel mode in runtime / Nearest-Point
+ * Diffuse CyberPunk Lights
+ * Spot Light Type
 
-#### High Resolution (wip)
+## Sound
+ * Sound Create
+ * Sound Capture 
+ * Sound Full Duplex
+ * Sound Full Duplex Create
+ * Sound EnumerateA
+ * Sound EnumerateW
+ * Sound Buffer
 
-## Sound (wip)
+## Virtual Storage
+ * Dynamic virtual Hard Disk (VHD)
 
-### Hooking dsound
- * DirectSoundCreate8
- * DirectSoundCaptureCreate8
- * DirectSoundFullDuplexCreate
- * DirectSoundFullDuplexCreate8
- * DirectSoundEnumerateA
- * DirectSoundEnumerateW
+## Rotation Display
+ * 0
+ * 90
+ * 180
+ * 270
 
 ##  GUI
 
