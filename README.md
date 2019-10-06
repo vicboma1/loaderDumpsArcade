@@ -3,7 +3,7 @@
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
 Twitter : https://twitter.com/vicboma1
 
-## Indexes 
+## Table of Contents
 
 ### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#systems-1)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x)
@@ -261,13 +261,13 @@ Inicializando
  * Sound Buffer
 
 ## Virtual Storage
- * Dynamic virtual Hard Disk (VHD)
+ * Dynamic virtual Hard Disk (VHD) in runtime
 
 ## Rotation Display
- * 0
- * 90
- * 180
- * 270
+ * 0°
+ * 90°
+ * 180°
+ * 270°
 
 ##  GUI
 
@@ -371,6 +371,7 @@ C/C++ Header                   736          36663          81900         140867
 C#                             101           1267           3550           8267
 C++                             54           2209           2609           8016
 C                                8            393            364           5277
+Assembler                       14              0             34           1867
 MSBuild script                  16              0             49           1532
 INI                              5            107             91            531
 Markdown                         2              4              0             44
@@ -379,7 +380,7 @@ JSON                             6              0              0              6
 DOS Batch                        1              0              0              3
 Bourne Shell                     1              0              1              2
 -------------------------------------------------------------------------------
-SUM:                          1046          40817          88909         447339
+SUM:                          1060          40817          88943         449206
 -------------------------------------------------------------------------------
 ```
 
