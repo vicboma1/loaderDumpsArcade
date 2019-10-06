@@ -307,6 +307,7 @@ Inicializando
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx size hooking](https://youtu.be/7KRQW63Cxtw)
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx Display hooking II](https://youtu.be/ZvJ_Y1MpI3U)
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx Display hooking I](https://youtu.be/VEUg6j_JLqw)
+* [Inject Dll - Remote thread](https://youtu.be/8mL-wPzPZHw)
 * [Api Hook - MessageBox | 32bits](https://youtu.be/kHs7gUDr03s)
 * [Api Hook - Keyboard Async GUI | 32bits](https://youtu.be/Agw_1XLF7fY)
 * [Inject Dll - Interoperabilidad entre C# y C Nativo (APIENTRY DllMain)](https://youtu.be/zQpBnYENabU)
@@ -314,9 +315,6 @@ Inicializando
 * [Inject Dll - Suspend Process](https://youtu.be/K2dtFfwR12Q)
 * [Inject Dll - Capture Handlers](https://youtu.be/51Dj0L7bFiw)
 * [Launcher Process Async](https://youtu.be/gVZMo1s0FPE)
-* [Inject Dll - Remote thread](https://youtu.be/8mL-wPzPZHw)
-
-
 
 
 # Code Ratio
