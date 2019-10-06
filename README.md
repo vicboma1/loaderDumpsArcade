@@ -38,6 +38,8 @@ Twitter : https://twitter.com/vicboma1
  * [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
+* [Hooking dsound]()
+
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
@@ -245,6 +247,14 @@ Inicializando
 #### High Resolution (wip)
 
 ## Sound (wip)
+
+### Hooking dsound
+ * DirectSoundCreate8
+ * DirectSoundCaptureCreate8
+ * DirectSoundFullDuplexCreate
+ * DirectSoundFullDuplexCreate8
+ * DirectSoundEnumerateA
+ * DirectSoundEnumerateW
 
 ##  GUI
 
