@@ -4,16 +4,21 @@
 
 ## Indexes 
 
-### Systems
-* [Taito Type x](https://github.com/vicboma1/Kotlin-Koans#hello-world)
-* [Taito Type x2](https://github.com/vicboma1/Kotlin-Koans#java-to-kotlin-conversion)
-* [NESiCAxLive](https://github.com/vicboma1/Kotlin-Koans#named-arguments)
+### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#systems-1)
+* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x)
+* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x2)
+* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#nesicaxlive)
 
 ### Loader
-* [Injections](https://github.com/vicboma1/Kotlin-Koans#hello-world)
+* [Injections](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
 
-### Inputs
-* [Keyboard/Joystick](https://github.com/vicboma1/Kotlin-Koans#hello-world)
+### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
+* [Keyboard/Joystick](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#keyboardjoystick)
+* [Direct Input](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#direct-input--based-on-hooks)
+* [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
+* [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
+
+
 
 ## Systems
  
