@@ -1,6 +1,7 @@
-# Loader Dumps Arcade | https://twitter.com/vicboma1
+# Loader Dumps Arcade
 
-#### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time.
+#### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
+Twitter : https://twitter.com/vicboma1
 
 ## Indexes 
 
@@ -19,16 +20,23 @@
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
 
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
-* [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
+ * [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
+ * []()
+
+### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
+ * []()
+
+### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip--video-playlist)
+ * []()
+
+### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
+ * []()
 
 ### [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
+ * []()
 
-## [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
-
-## [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip--video-playlist)
-## [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 
 ## Systems
  
