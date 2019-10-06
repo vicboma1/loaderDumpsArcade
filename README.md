@@ -10,8 +10,20 @@ Twitter : https://twitter.com/vicboma1
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x2)
 * [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#nesicaxlive)
 
-### Loader
-* [Injections](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
+### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
+
+### Injections
+#### [Process](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#process)
+  * CreateRemoteThread and LoadLibrary
+  * Portable Execute
+  * Hook Injection
+#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
+  * Hook Api
+  * Hook Virtual Methods
+  * Hook Trampoline/Columpio
+  * DetourFunction
+ #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
+  * Addressing
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
 * [Keyboard/Joystick](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#keyboardjoystick)
@@ -33,6 +45,11 @@ Twitter : https://twitter.com/vicboma1
 
 ### [Dev Video PlayList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-playlist-1)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
+* C/C++ Header              
+* C/C++/C#/Assembler
+* Scripting
+* MSBuild script
+
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 
 
