@@ -17,7 +17,7 @@
 
 ## Systems
  
- * Taito Type x
+ ### Taito Type x
     ```
     Year : 2005
     CPU : Celeron - Pentium 4
@@ -26,7 +26,7 @@
     SO: Windows XP Embedded
     ```
     
-* Taito Type x2
+### Taito Type x2
   ```
     Year : 2005
     CPU : Intel Core 2 Duo E6400／Pentium 4 651／Celeron D 352
@@ -35,7 +35,7 @@
     SO: Microsoft Windows XP Embedded SP2
   ```
 
-* NESiCAxLive
+### NESiCAxLive
   ```
     Arcade System Board
     Run w/ Taito Type X, X2, X Zero, X3 and X4
