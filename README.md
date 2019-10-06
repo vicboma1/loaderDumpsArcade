@@ -34,10 +34,10 @@ Twitter : https://twitter.com/vicboma1
 ### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
 
-### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
-### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound)
-### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage)
-### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display)
+### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
+### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
+### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
+### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
