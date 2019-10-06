@@ -19,23 +19,16 @@ Twitter : https://twitter.com/vicboma1
 * [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
 
+### [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
+
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
  * [High Resolution](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
 
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#graphics-wip)
- * []()
-
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
- * []()
-
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip--video-playlist)
- * []()
-
+### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
- * []()
-
-### [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
- * []()
 
 
 ## Systems
@@ -270,6 +263,29 @@ Inicializando
 * [Rastan Saga - 401500]() - Inputs (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
+# Code Ratio
+
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+XML                            114            173            345         282779
+C/C++ Header                   736          36663          81900         140867
+C#                             101           1267           3550           8267
+C++                             54           2209           2609           8016
+C                                8            393            364           5277
+MSBuild script                  16              0             49           1532
+INI                              5            107             91            531
+Markdown                         2              4              0             44
+XAML                             2              1              0             15
+JSON                             6              0              0              6
+DOS Batch                        1              0              0              3
+Bourne Shell                     1              0              1              2
+-------------------------------------------------------------------------------
+SUM:                          1046          40817          88909         447339
+-------------------------------------------------------------------------------
+```
+
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
  * [JVS conversion](https://wiki.arcadeotaku.com/images/9/97/SEGA_cabinet_JVS_conversion_manual_.pdf)
@@ -281,5 +297,6 @@ Inicializando
  * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/JVSR.pdf)
  * [I/O Board](https://github.com/reicast/reicast-emulator/blob/master/core/hw/maple/maple_devs.cpp)
  * [Input Keys](http://www.flint.jp/misc/?q=dik&lang=en)
+ * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
  
 # No roms, no games, no dumps! 
