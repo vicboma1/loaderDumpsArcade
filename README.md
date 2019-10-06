@@ -240,13 +240,13 @@ Inicializando
 * [Rastan Saga - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
-* [Raiden III Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
-* [Raiden III Arcade (2005) | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
 
-* [Raiden III Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Fullscreen & Rotation Display | WIP ](https://youtu.be/byBMfUstYLY) 
@@ -271,25 +271,12 @@ Inicializando
 # [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
-<img src="http://img.youtube.com/vi/H7lU8WMDZrY/0.jpg" width="400" height="240" />
-
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen & Rotation Display](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/byBMfUstYLY/0.jpg" width="400" height="240" />
-
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Windowed](https://youtu.be/KSZ0gIxmzU0)
-<img src="http://img.youtube.com/vi/KSZ0gIxmzU0/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
-
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-<img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Error Direct3Dバックバッファ取得失敗](https://youtu.be/wXJ1pOcU54E)
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Spot Light Type](https://youtu.be/1fW33Jc9ZZ8
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Diffuse CyberPunk Lights](https://youtu.be/wBOByMJZJb4)
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
 <img src="http://img.youtube.com/vi/sNqQlEhafkM/0.jpg" width="400" height="240" />
