@@ -272,7 +272,7 @@ Inicializando
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen & Rotation Display](http://www.youtube.com/watch?v=sNqQlEhafkM)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen & Rotation Display](https://youtu.be/byBMfUstYLY)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Windowed](https://youtu.be/KSZ0gIxmzU0)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Error Direct3Dバックバッファ取得失敗](https://youtu.be/wXJ1pOcU54E)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Spot Light Type](https://youtu.be/1fW33Jc9ZZ8)
