@@ -318,6 +318,7 @@ Inicializando
 
 # [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Intro gamePlay](https://youtu.be/cGrcoSgKhCY)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
