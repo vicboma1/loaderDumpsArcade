@@ -296,7 +296,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_intro_60_.gif" width="800" height="480" />
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="800" height="480" />
 
 ### Taito Type x2
 * [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
