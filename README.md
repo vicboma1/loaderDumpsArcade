@@ -4,55 +4,23 @@
 Twitter : https://twitter.com/vicboma1
 
 ## Table of Contents
+#### Systems
+#### Loader
+#### Injections - Process
+#### Injections - Hooks
+#### Segmentation memory
+#### Inputs
+#### JVS I/O Emulation
+#### Graphics
+#### Sound
+#### Virtual Storage
+#### Rotation Display
+#### GUI
+#### Systems/Games Loaders
+#### Dev Video PlayList
+#### Code Ratio
+#### References
 
-### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#systems-1)
-* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x)
-* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x2)
-* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#nesicaxlive)
-
-### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
-
-### Injections
-#### [Process](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#process)
-  * CreateRemoteThread and LoadLibrary
-  * Portable Execute
-  * Hook Injection
-#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
-  * Hook Api
-  * Hook Virtual Methods
-  * Hook Trampoline/Columpio
-  * DetourFunction
- #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
-  * Addressing
-
-### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-* [Keyboard/Joystick](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#keyboardjoystick)
-* [Direct Input](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#direct-input--based-on-hooks)
-* [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
-* [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
-
-### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
-* [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
-
-### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
-### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
-### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
-### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
-
-### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
-### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
-* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
-* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
-* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
-
-### [Dev Video PlayList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-playlist-1)
-### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
-* C/C++ Header              
-* C/C++/C#/Assembler
-* Scripting
-* MSBuild script
-
-### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 
 
 ## Systems
