@@ -38,7 +38,7 @@ Twitter : https://twitter.com/vicboma1
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
-
+### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
@@ -271,6 +271,10 @@ Inicializando
  * 180°
  * 270°
 
+## TaskBar Menu
+ * Show
+ * Hidden
+
 ##  GUI
 
 * scratch (Pof with vs2010) (wip)
@@ -318,6 +322,7 @@ Inicializando
 
 # [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Inject Dll - Inject Dll - Show Hidden TaskBar Desktop Menu | Windows Hack](https://youtu.be/3WKRyFa2IsI)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Intro gamePlay](https://youtu.be/cGrcoSgKhCY)
