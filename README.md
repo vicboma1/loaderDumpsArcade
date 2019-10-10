@@ -354,7 +354,7 @@ Inicializando
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
-* [Trouble Witches AC - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | Windowed size Optimization](https://youtu.be/7OtyeKExRcU)
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | icon set hwnd](https://youtu.be/Rcl8FS5NELs)
 * [Rastan Saga (ラスタンサーガ) - Taito Type x | Windowed screen](https://youtu.be/PjmyWyBUKKs)
