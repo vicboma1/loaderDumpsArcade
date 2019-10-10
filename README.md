@@ -351,7 +351,7 @@ Inicializando
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | I/O Error PC](https://youtu.be/wKgiJ981Utw)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | JVS I/O Coin Error overflow w/ +40000 credits ](https://youtu.be/bXRC05W12IY)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Test Mode + keyinput mapping w/ JVS I/O](https://youtu.be/FkcUcNCo7BI)
-* [Trouble Witches AC - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
 * [Trouble Witches AC - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
