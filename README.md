@@ -37,6 +37,7 @@ Twitter : https://twitter.com/vicboma1
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
+### [Cache Storage](https://github.com/vicboma1/loaderDumpsArcade#cache-storage-1)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 ### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
@@ -263,7 +264,10 @@ Inicializando
  * Sound Buffer
 
 ## Virtual Storage
- * Dynamic virtual Hard Disk (VHD) in runtime
+ * Dynamic virtual Hard Disk (VHD) in runtime for D: & E: 
+
+## Cache Storage
+ * setting.dat 
 
 ## Rotation Display
  * 0°
