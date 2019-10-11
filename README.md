@@ -326,7 +326,12 @@ Inicializando
 
 # [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Inject Dll - Inject Dll - Show Hidden TaskBar Desktop Menu | Windows Hack](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-4](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-3](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-2](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-1](https://youtu.be/3WKRyFa2IsI)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Long GamePlay](https://youtu.be/3WKRyFa2IsI)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Intro gamePlay](https://youtu.be/cGrcoSgKhCY)
