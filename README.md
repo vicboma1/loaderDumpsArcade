@@ -308,7 +308,7 @@ Inicializando
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="800" height="480" />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Alpha Blending | 60 fps](https://youtu.be/rKWLGtFMKw0) 
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Alpha Blending | 60 fps](https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
 
 ### Taito Type x2
@@ -329,12 +329,12 @@ Inicializando
 
 # [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5]()
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-4](https://youtu.be/fXngq9ocQlw)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-3](https://youtu.be/_GxWZOsMh3w)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-2](https://youtu.be/jeKVfM5r6l0)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-1](https://youtu.be/pnU_iFDJB1g)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Long GamePlay](https://youtu.be/rKWLGtFMKw0)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Long GamePlay](https://youtu.be/WVF5NIfcazw)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Intro gamePlay](https://youtu.be/cGrcoSgKhCY)
