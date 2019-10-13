@@ -273,9 +273,9 @@ Inicializando
 
 ## Display
  * Windowed
- * Auto center
- * Custom size [W-H]
- * Fullscreen
+ * Windowed Center
+ * Fullscreen (Windowed Magnifier)
+ * Fullscreen Native
  
 ## Rotation Display
  * 0°
