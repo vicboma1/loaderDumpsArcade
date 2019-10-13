@@ -268,7 +268,8 @@ Inicializando
  * Dynamic virtual Hard Disk (VHD) in runtime for D: & E: 
 
 ## Cache Storage
- * setting.dat 
+ * Save/Config0000.bin
+ * setting.dat
 
 ## Display
  * Windowed
