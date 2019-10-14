@@ -335,7 +335,7 @@ Inicializando
 * [Rastan Saga - 401500]() - Inputs (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
-# [Dev Video PlayList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+# [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
