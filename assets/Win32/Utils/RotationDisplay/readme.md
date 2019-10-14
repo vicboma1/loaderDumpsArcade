@@ -19,6 +19,9 @@ switch (rotation) {
   case DMDO_180     : protationDisplay->_180();     break;
   case DMDO_270     : protationDisplay->_270();     break;
 
-  default: MessageBox(NULL, "Rotacion desconocida","ERROR",MB_OK);
+  default: { 
+    protationDisplay->stop();
+    MessageBox(NULL, "Rotacion desconocida","ERROR",MB_OK);
+  }
 }
 ```
