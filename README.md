@@ -47,7 +47,7 @@ Twitter : https://twitter.com/vicboma1
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
 * [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
 
-### [Dev Video PlayList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-playlist-1)
+### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-devlist-1)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 * C/C++ Header              
 * C/C++/C#/Assembler
