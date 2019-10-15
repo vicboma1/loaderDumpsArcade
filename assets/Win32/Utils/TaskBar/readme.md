@@ -4,12 +4,12 @@
 
 ```c++
 //File with external configuration
-PProperties *pproperties = new Properties();
-pproperties->read();
+Properties *properties = new Properties();
+properties->read();
 
 //Read value
 // hidden = 1 | show = 0
-bool _taskBar = pproperties->getBoolean("TASKBAR");
+auto _taskBar = pproperties->getBoolean("TASKBAR");
 ShowTaskBar *pshowTask = new ShowTaskBar(_taskBar);
 
 //initialize game
