@@ -20,13 +20,11 @@ properties->read();
 // WINDOWED_ROTATION_180
 // WINDOWED_ROTATION_270
 
-auto rotation = properties->getEnum("RESOLUTION_DISPLAY");
 ResolutionDisplay *resolutionDisplay = new ResolutionDisplay();
-
-auto value = pResolutionDisplay->toEnum(_keyResolution.c_str());
+auto display = properties->getEnum("RESOLUTION_DISPLAY");
+auto value = pResolutionDisplay->toEnum(display.c_str());
 
 switch (value) {
-
   case  WINDOWED_ROTATION_90:
   case  FULLSCREEN_ROTATION_90:
   case  WINDOWED_CENTER_ROTATION_90:
