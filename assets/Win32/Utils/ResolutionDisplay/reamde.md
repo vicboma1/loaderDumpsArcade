@@ -1,4 +1,4 @@
-# Resolution Display (Command Pattern)
+# Resolution Display
 
 ```c
 //File with external configuration
