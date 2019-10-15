@@ -21,7 +21,7 @@ properties->read();
 // WINDOWED_ROTATION_270
 
 ResolutionDisplay *resolutionDisplay = new ResolutionDisplay();
-auto display = properties->getEnum("RESOLUTION_DISPLAY");
+auto display = properties->getString("RESOLUTION_DISPLAY");
 auto value = pResolutionDisplay->toEnum(display.c_str());
 
 switch (value) {
