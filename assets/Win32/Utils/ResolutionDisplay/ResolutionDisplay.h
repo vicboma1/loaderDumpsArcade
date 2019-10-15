@@ -2,7 +2,7 @@
 #define _READ_RESOLUTION_DISPLAY_H_
 
 #include "stdafx.h"
-#include "Macros.h"
+#include "macros.h"
 
 #define FOREACH_RESOLUTION(RESOLUTION)   		\
 	RESOLUTION(FULLSCREEN_NATIVE)			\
