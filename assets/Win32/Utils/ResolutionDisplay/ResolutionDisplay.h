@@ -27,7 +27,6 @@ public:
 
 	ResolutionDisplay();
 	~ResolutionDisplay();
-	const char* toString(CONFIG_RESOLUTION_ENUM i);
 	CONFIG_RESOLUTION_ENUM toEnum(string i);
 
 
