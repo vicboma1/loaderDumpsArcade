@@ -6,19 +6,19 @@
 class RotationDisplay {
 
 private :
-	bool start(int rotate);
-	bool stop(int rotate);
+	bool _stdcall start(int rotate);
+	bool _stdcall stop(int rotate);
 
 public:
 
 	RotationDisplay();
 	~RotationDisplay();
 
-	bool _DEFAULT();
-	bool _90();
-	bool _180();
-	bool _270();
-	bool stop();
+	bool _stdcall _DEFAULT();
+	bool _stdcall _90();
+	bool _stdcall _180();
+	bool _stdcall _270();
+	bool _stdcall stop();
 };
 
 #endif
