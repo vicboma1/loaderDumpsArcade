@@ -1,4 +1,4 @@
-# Loader Dumps Arcade
+# Loader Dumps Arcade (wip)
 
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
 Twitter : https://twitter.com/vicboma1
@@ -116,17 +116,71 @@ Twitter : https://twitter.com/vicboma1
 
 ### Keyboard/Joystick  
 
-### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
- * [DIKCode](http://www.flint.jp/misc/?q=dik&lang=en)
- 
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
- * [OpCode](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
+ * [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
+#### Example | File.properties
+
+* Player 1
+ ```
+ P1_SERVICE = 55
+ P1_START = 49
+ P1_COIN = 53
+ P1_UP = 38
+ P1_DOWN = 40
+ P1_LEFT = 37
+ P1_RIGHT = 39
+ P1_BUTTON_1 = 90
+ P1_BUTTON_2 = 88
+ P1_BUTTON_3 = 67
+ P1_BUTTON_4 = 77
+ P1_BUTTON_5 = 78
+ P1_BUTTON_6 = 79
+ ```
   
-#### Example
+* Player 2
+ ```
+ P2_SERVICE = 89
+ P2_START = 50
+ P2_COIN = 54
+ P2_UP = 87
+ P2_DOWN = 83
+ P2_LEFT = 65
+ P2_RIGHT = 68
+ P2_BUTTON_1 = 71
+ P2_BUTTON_2 = 72
+ P2_BUTTON_3 = 74
+ P2_BUTTON_4 = 75
+ P2_BUTTON_5 = 76
+ P2_BUTTON_6 = 79	
+ ```
+  
+ * Board
+ ```
+ TEST_TILT1 = 51
+ TEST_TILT2 = 52
+ TEST_TILT3 = 57
+ TEST_MODE = 84
+ EXIT_CODE = 27
+ ```
+ 
+ * Manual
+ ```
+ Need for the taito type x game to read the keyboard input 
+ 
+ ENUM = 1 virtual-key-code represented like 2 bytes
+ 
+ [ - WIP -]
+ ENUM = Ascii code
+ ```
+  
+### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
+ * [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
+ 
+#### Example | File.bin
 
  * Player 1
-   ```
+ ```
    [Display address]  [Value]  [Byte]  [Key]
    0000000000000000     00       .     Start
    0000000000000004     00       .     Coin
@@ -141,10 +195,10 @@ Twitter : https://twitter.com/vicboma1
    0000000000000028     00       .     Btn 4
    000000000000002C     00       .     Btn 5 
    0000000000000030     00       .     Btn 6
-   ```
+ ```
     
 * Player 2
-  ```
+ ```
   [Display address]  [Value]  [Byte]  [Key] 
   0000000000000034     00       .     Start
   0000000000000038     00       .     Coin
@@ -159,17 +213,17 @@ Twitter : https://twitter.com/vicboma1
   000000000000005C     00       .     Btn 4
   0000000000000060     00       .     Btn 5 
   0000000000000064     00       .     Btn 6
-  ```
+ ```
 
 * Board 
-  ```
+ ```
   [Display address]  [Value]  [Byte]  [Key]
   0000000000000068     00       .     Test Mode
   000000000000006C     00       .     Exit
-  ```
+ ```
   
-* Assets | 'binding'.bin
-  ```
+* Manual 
+ ```
   Need for the taito type x game to read the keyboard input 
   
   Keyboard    -  256 (short)
@@ -189,11 +243,12 @@ Twitter : https://twitter.com/vicboma1
   0000000000000040  2F 00 00 00 2E 00 00 00  01 00 00 X1 03 00 00 X1  /...............
   0000000000000050  02 00 00 X1 25 00 00 00  24 00 00 00 23 00 00 00  ........$...#...
   0000000000000060  22 00 00 00 21 00 00 00  14 00 00 00 01 00 00 00  "...!...........         
-  ```
+ ```
    
-* Example | scratch (PoF with vs2010)
+* Input Tool to map output file *.bin | scratch (PoF with vs2010)
 
    ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
+  
   
 ## JVS I/O Emulation
 
