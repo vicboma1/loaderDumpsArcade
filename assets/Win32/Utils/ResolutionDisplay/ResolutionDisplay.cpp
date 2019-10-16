@@ -9,7 +9,7 @@ ResolutionDisplay::ResolutionDisplay() {
 ResolutionDisplay::~ResolutionDisplay() {
 	LOGGER();
 	if (this)
-		free(this);
+		delete this;
 }
 
 CONFIG_RESOLUTION_ENUM ResolutionDisplay::toEnum (string i) {
