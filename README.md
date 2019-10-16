@@ -26,10 +26,8 @@ Twitter : https://twitter.com/vicboma1
   * Addressing
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-* [Keyboard/Joystick](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#keyboardjoystick)
-* [Direct Input](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#direct-input--based-on-hooks)
 * [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
-* [Examples](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#example)
+* [Direct Input](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#direct-input--based-on-hooks)
 
 ### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
@@ -114,10 +112,8 @@ Twitter : https://twitter.com/vicboma1
    
 ## Inputs
 
-### Keyboard/Joystick  
 
-### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate)
- * [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
+### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
 #### Example | File.properties
 
@@ -174,8 +170,7 @@ Twitter : https://twitter.com/vicboma1
  ENUM = Ascii code
  ```
   
-### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks)
- * [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
+### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks) | [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
  
 #### Example | File.bin
 
@@ -247,7 +242,7 @@ Twitter : https://twitter.com/vicboma1
    
 * Input Tool to map output file *.bin | scratch (PoF with vs2010)
 
-   ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
+  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
   
   
 ## JVS I/O Emulation
