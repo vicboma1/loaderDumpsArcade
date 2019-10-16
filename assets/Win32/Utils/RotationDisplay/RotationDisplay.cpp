@@ -9,7 +9,7 @@ RotationDisplay::RotationDisplay() {
 RotationDisplay::~RotationDisplay() {
 	LOGGER();
 	if (this)
-		free(this);
+		delete this;
 }
 
 bool _stdcall RotationDisplay::start(int angle) {
