@@ -119,55 +119,52 @@ Twitter : https://twitter.com/vicboma1
 
 * Player 1
  ```
- P1_SERVICE = 55
- P1_START = 49
- P1_COIN = 53
- P1_UP = 38
- P1_DOWN = 40
- P1_LEFT = 37
- P1_RIGHT = 39
- P1_BUTTON_1 = 90
- P1_BUTTON_2 = 88
- P1_BUTTON_3 = 67
- P1_BUTTON_4 = 77
- P1_BUTTON_5 = 78
- P1_BUTTON_6 = 79
+ P1_SERVICE = 3
+ P1_START = 1
+ P1_COIN = 5
+ P1_UP = UP
+ P1_DOWN = DOWN
+ P1_LEFT = LEFT
+ P1_RIGHT = ALT
+ P1_BUTTON_1 = SPACE
+ P1_BUTTON_2 = CTRL
+ P1_BUTTON_3 = C
+ P1_BUTTON_4 = A
+ P1_BUTTON_5 = V
+ P1_BUTTON_6 = B
  ```
   
 * Player 2
  ```
- P2_SERVICE = 89
- P2_START = 50
- P2_COIN = 54
- P2_UP = 87
- P2_DOWN = 83
- P2_LEFT = 65
- P2_RIGHT = 68
- P2_BUTTON_1 = 71
- P2_BUTTON_2 = 72
- P2_BUTTON_3 = 74
- P2_BUTTON_4 = 75
- P2_BUTTON_5 = 76
- P2_BUTTON_6 = 79	
+ P2_SERVICE = 4
+ P2_START = 2
+ P2_COIN = 6
+ P2_UP = R
+ P2_DOWN = F
+ P2_LEFT = G
+ P2_RIGHT = D
+ P2_BUTTON_1 = A
+ P2_BUTTON_2 = S
+ P2_BUTTON_3 = E
+ P2_BUTTON_4 = Q
+ P2_BUTTON_5 = W
+ P2_BUTTON_6 = E	
  ```
   
  * Board
  ```
- TEST_TILT1 = 51
- TEST_TILT2 = 52
- TEST_TILT3 = 57
- TEST_MODE = 84
- EXIT_CODE = 27
+ TEST_TILT1 = 3
+ TEST_TILT2 = 7 
+ TEST_TILT3 = 8
+ TEST_MODE = T
+ EXIT_CODE = ESC
  ```
  
  * Manual
  ```
  Need for the taito type x game to read the keyboard input 
  
- ENUM = 1 virtual-key-code represented like 2 bytes
- 
- [ - WIP -]
- ENUM = Ascii code
+ ENUM = Ascii code keyboard
  ```
   
 ### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks) | [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
