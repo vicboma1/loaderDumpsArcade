@@ -1,7 +1,0 @@
-# Input
-
-### ENUM
-
-```text
-
-```
