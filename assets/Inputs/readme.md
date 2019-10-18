@@ -26,6 +26,6 @@ switch (value) {
 		break;
 
 	default : MessageBox(NULL, "Input Congig no especificado", "Informacion", 0);
-	}
+}
   
 ```
