@@ -14,7 +14,7 @@ static map<std::string, int> mapString2VK_Code = {
 {"PAUSE"   		  ,19},
 {"CAP LOCK"		  ,20},
 {"ESC"            ,27},
-{"SPACEBAR"       ,32},
+{"SPACE"          ,32},
 {"LEFT"           ,37},
 {"UP"             ,38},
 {"RIGHT"          ,39},
