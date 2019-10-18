@@ -56,6 +56,7 @@ switch (value) {
       ExitProcess(-3);
     }
     break;
+    
   case FULLSCREEN_NATIVE :
   case FULLSCREEN :
   case WINDOWED :
