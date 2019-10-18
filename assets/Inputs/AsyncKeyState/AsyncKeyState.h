@@ -5,7 +5,7 @@
 
 static map<std::string, int> mapString2VK_Code = {
 {"BACKSPACE"	  ,8},
-{"TAB"			 ,9},
+{"TAB"	,9},
 {"CLEAR"   	  ,12},
 {"ENTER"   	  ,13},
 {"SHIFT"   	  ,16},
