@@ -26,8 +26,8 @@ Twitter : https://twitter.com/vicboma1
   * Addressing
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-* [Async-KeyState](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#getasynckeystate)
-* [Direct Input](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#direct-input--based-on-hooks)
+* Async-KeyState
+* Direct Input
 
 ### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
 * [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
