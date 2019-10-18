@@ -115,7 +115,7 @@ Twitter : https://twitter.com/vicboma1
 
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
-#### Example | File.properties
+#### Example | [File.properties](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Inputs/AsyncKeyState/readme.md)
 
 * Player 1
  ```
