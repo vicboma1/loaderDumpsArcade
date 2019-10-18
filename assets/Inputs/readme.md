@@ -17,15 +17,15 @@ auto _key = properties->getString("CONFIG_INPUT");
 auto value = inputConfig->toEnum(_key);
 
 switch (value) {
-case INPUT_ASYNC_KEY_STATE:		
-        InputAsyncKeyState(); 
-    break;
-    
-case INPUT_DIRECT:				
-        InputDirect();        
-    break;
+	case INPUT_ASYNC_KEY_STATE:		
+		InputAsyncKeyState(); 
+		break;
 
-		default : MessageBox(NULL, "Input Congig no especificado", "Informacion", 0);
+	case INPUT_DIRECT:				
+		InputDirect();        
+		break;
+
+	default : MessageBox(NULL, "Input Congig no especificado", "Informacion", 0);
 	}
   
 ```
