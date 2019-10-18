@@ -56,6 +56,12 @@ switch (value) {
       ExitProcess(-3);
     }
     break;
+  case FULLSCREEN_NATIVE :
+  case FULLSCREEN :
+  case WINDOWED :
+  case WINDOWED_CENTER :
+  break;
+   
   default: { 
     MessageBox(NULL, "Display desconocido","ERROR",MB_OK);
   }
