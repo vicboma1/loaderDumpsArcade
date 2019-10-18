@@ -1,4 +1,4 @@
-# AsyncKeyState ENUM
+# AsyncKeyState
 
 ENUM
 ```text
