@@ -312,7 +312,8 @@ Inicializando
  * Sound Buffer
 
 ## Virtual Storage
- * Dynamic virtual Hard Disk (VHD) in runtime for D: & E: 
+ * Dynamic virtual Hard Disk (VHD)
+ * Substitute a drive letter for local path
 
 ## Cache Storage
  * Save/Config0000.bin
@@ -384,6 +385,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Substitute a drive letter for local path](https://youtu.be/jsZaTRLHZ0k)
 * [Hooking - Capturing pop-up window when mounting a VHD in runtime](https://youtu.be/uPD4WT60gv4)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
