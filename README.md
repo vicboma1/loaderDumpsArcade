@@ -478,5 +478,6 @@ SUM:                          1060          40817          88943         449206
  * [I/O Board](https://github.com/reicast/reicast-emulator/blob/master/core/hw/maple/maple_devs.cpp)
  * [Input Keys](http://www.flint.jp/misc/?q=dik&lang=en)
  * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
+ * [Use DLL Native with C/C++ in C# Project](https://mark-borg.github.io/blog/2017/interop/)
  
 # No roms, no games, no dumps! 
