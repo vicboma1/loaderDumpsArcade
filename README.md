@@ -385,6 +385,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [VHD vs SUBST to mount a drive letter](https://youtu.be/YLcdkaPVlgw)
 * [Substitute a drive letter for local path](https://youtu.be/jsZaTRLHZ0k)
 * [Hooking - Capturing pop-up window when mounting a VHD in runtime](https://youtu.be/uPD4WT60gv4)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
