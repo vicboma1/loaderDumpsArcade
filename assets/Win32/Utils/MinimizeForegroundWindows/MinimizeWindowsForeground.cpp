@@ -14,9 +14,11 @@ BOOL CALLBACK SendWMCloseMsg(HWND hwnd, LPARAM lParam)
 	if (*title == '\0')
 		return TRUE;
 
-	if (strstr(title, "D:\\") != NULL)
+	if (strstr(title, "D:\\") != NULL){
 		isReady = true;
-
+		if(!ReleaseMutex(mutex);		
+	}
+	
 	ShowWindow(hwnd, SW_MINIMIZE);
 
 	return TRUE;
@@ -32,12 +34,15 @@ PreLoader::~PreLoader() {
 
 bool PreLoader::execute() {
 	try {
-
-		while (!isReady ) {
-			EnumWindows(&SendWMCloseMsg, NULL);
+		mutex = CreateMutex(NULL, FALSE, NULL);
+		DWORD res = WaitForSingleObject(mutex, 5000);
+		while (!isReady && WAIT_OBJECT_0 == res) {
+			EnumWindows(&SendWMCloseMsg, 0);
 			Sleep(200);
 		}
 
+		CloseHandler(mutex);
+		
 		return true;
 	}
 	catch (...) {
