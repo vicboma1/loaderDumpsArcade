@@ -16,7 +16,7 @@ BOOL CALLBACK SendWMCloseMsg(HWND hwnd, LPARAM lParam)
 
 	if (strstr(title, "D:\\") != NULL){
 		isReady = true;
-		if(!ReleaseMutex(mutex);		
+		ReleaseMutex(mutex);		
 	}
 	
 	ShowWindow(hwnd, SW_MINIMIZE);
