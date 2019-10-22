@@ -43,7 +43,7 @@ namespace DestroProcessAsync
                     ps = Process.GetProcesses();
                     for (int i = 0; i < ps.Length && (!m1 || !m2); i++)
                     {
-                        if (ps[i].MainWindowTitle.Contains(PROCESS) && !m1)
+                        if (ps[i].MainWindowTitle.Contains(PROCESS_WIN_NAME) && !m1)
                         {
                             _p = ps[i];
                             m1 = true;
