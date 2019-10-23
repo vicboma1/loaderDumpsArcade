@@ -385,7 +385,8 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Loader & Demon - Capture Process w ThreadKernel]( https://youtu.be/s7Lad-j6L2o)
+* [Splash Async - intro game]()
+* [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
 * [VHD vs SUBST to mount a drive letter](https://youtu.be/YLcdkaPVlgw)
 * [Substitute a drive letter for local path](https://youtu.be/jsZaTRLHZ0k)
 * [Hooking - Capturing pop-up window when mounting a VHD in runtime](https://youtu.be/uPD4WT60gv4)
