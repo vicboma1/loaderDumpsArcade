@@ -377,6 +377,9 @@ Inicializando
 * [Trouble Witches AC | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2.gif" width="800" height="480" />
 
+* [Trouble Witches AC | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
+
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
