@@ -375,7 +375,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
 
 * [Trouble Witches AC | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="800" height="480" />
 
 * [Trouble Witches AC | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
