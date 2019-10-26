@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PartitionDisk
+namespace HasLetterDrive
 {
     class Program {
 		
