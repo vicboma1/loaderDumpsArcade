@@ -10,6 +10,48 @@ namespace Common.Async
 {
     public class Process
     {
+        public static Thread AsyncThread(String file)
+            => AsyncThread(file, String.Empty,Thread.CurrentThread.Name + file, ThreadPriority.Normal);
+
+        public static Thread AsyncThread(String file, String command)
+           => AsyncThread(file, command, Thread.CurrentThread.Name + file, ThreadPriority.Normal);
+        
+        public static Thread AsyncThread(String file, String command, String threaName, ThreadPriority priority)
+        {
+            var t = new Thread(() =>
+            {
+                var process = new System.Diagnostics.Process()
+                {
+                    StartInfo = new ProcessStartInfo()
+                    {
+                        FileName = file,
+                        UseShellExecute = false,
+                        Arguments = command,
+                        WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden,
+                        CreateNoWindow = true
+                    },
+                    EnableRaisingEvents = true
+                };
+
+                process.Exited += (sender, _args) =>
+                {
+                    if (null == process)
+                        return;
+
+                    process.Close();
+                };
+                process.Start();
+            })
+            {
+                IsBackground = true,
+                Name = threaName,
+                Priority = priority
+            };
+
+            t.Start();
+            return t;
+        }
+        
         public static Task<int> Async(String file, String command, String _args)
         {
             var tcs = new TaskCompletionSource<int>();
