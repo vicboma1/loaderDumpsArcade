@@ -17,18 +17,16 @@ namespace DestroProcessAsync
 
         static void Main(string[] args)
         {
-		if (null == args || args.Length > 2 )
-                return;
-			
-		if( 1 == args.Length)
-			PROCESS_WIN_NAME = args[0];
+	     if (null == args || args.Length > 2 )
+  	          return;
+
+	     if( 1 == args.Length)
+		  PROCESS_WIN_NAME = args[0];
 			
             Task.WaitAny(MainAsync());
-			
-            if (Application.AllowQuit)
-                Application.ExitThread();
-            else
-                Application.Exit();
+			           
+	    Application.ExitThread();
+	    Application.Exit();
         }
 
 
