@@ -13,24 +13,14 @@ namespace HasLetterDrive
 		
         private static String D = @"D:\";
 
-         static int Main(string[] args)
+        static int Main(string[] args)
         {
-            if (args.Length <= 0)
-            {
-                MessageBox.Show(null, "Falta parametros de entrada", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return -1;
-            }
-
             var allDrives = DriveInfo.GetDrives();
             foreach (DriveInfo d in allDrives)
-            {
-                if (d.Name.ToLower().Equals(D.ToLower()))
-                    return 1;
-               
-            }
-			
-			return 0;
-
+		    if (d.Name.ToLower().Equals(D.ToLower()))
+                    	return 1;
+        		
+	    return 0;
         }
           
     }
