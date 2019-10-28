@@ -290,6 +290,17 @@ Inicializando
 	Envío    7 bytes... -> [ XXXXXXXXXXX ]
 	
 	...
+	
+
+............................
+	
+	Escribo  5 bytes... -> [ E0 00 02 00 02 ]
+	[E0] = SYNC_CODE OK
+	[00] = MAESTRO
+	[02] =
+	[00] = RESETEANDO MAQUINA (Exit Game)
+	[02] = 
+	Envío    6 bytes... -> [ XXXXXXXXXXX ]
 ```
 
 ## Graphics
