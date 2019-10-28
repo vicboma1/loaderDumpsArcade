@@ -388,6 +388,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
 * [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
 * [VHD vs SUBST to mount a drive letter](https://youtu.be/YLcdkaPVlgw)
