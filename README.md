@@ -379,17 +379,20 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
 
 ### Taito Type x2
-* [Trouble Witches AC | Working 100%](https://youtu.be/d0Eo7ataLvg)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
-* [Trouble Witches AC | Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
 
-* [Trouble Witches AC | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="800" height="480" />
 
-* [Trouble Witches AC | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
+
+* [Homura (ほむら) Arcade | WIP]()
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.gif" width="800" height="480" />
 
 
 ### NesicaxLive
@@ -399,6 +402,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Homura () - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
 * [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
 * [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
