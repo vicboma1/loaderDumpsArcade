@@ -53,7 +53,7 @@ Twitter : https://twitter.com/vicboma1
 * MSBuild script
 
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
-
+### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
 
 
 
@@ -504,4 +504,36 @@ SUM:                          1060          40817          88943         449206
  * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
  * [Use DLL Native with C/C++ in C# Project](https://mark-borg.github.io/blog/2017/interop/)
  
+# About
+
+Loader Dump Arcade is programmed by vicboma1, all this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time.
+ 
+Twitter : https://twitter.com/vicboma1.
+
+This software is provided as-is, and is licensed under the MIT License. 
+
+```
+MIT License
+
+Copyright (c) 2019 Victor Bolinches
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 # No roms, no games, no dumps! 
