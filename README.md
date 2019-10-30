@@ -18,9 +18,9 @@ Twitter : https://twitter.com/vicboma1
   * Portable Execute
   * Hook Injection
 #### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
-  * Hook Api
-  * Hook Virtual Methods
-  * Hook Trampoline/Columpio
+  * Api
+  * Virtual Methods
+  * Trampoline/Columpio
   * DetourFunction
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
   * Addressing
