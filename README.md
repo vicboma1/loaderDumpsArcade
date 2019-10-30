@@ -392,7 +392,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
 
 * [Homura (ほむら) Arcade | WIP]()
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
 
 
 ### NesicaxLive
@@ -402,7 +402,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Homura () - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
+* [Homura (ほむら) Arcade - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
 * [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
 * [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
