@@ -402,7 +402,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Homura (ほむら) Arcade (2005) - Windowed]()
+* [Homura (ほむら) Arcade (2005) - Windowed](https://youtu.be/rYHs7Pm8j6c)
 * [Homura (ほむら) Arcade (2005) - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
 * [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
