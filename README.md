@@ -357,7 +357,7 @@ Inicializando
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 
-* [Rastan Saga - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
@@ -379,19 +379,19 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
 
 ### Taito Type x2
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Working 100%](https://youtu.be/d0Eo7ataLvg)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008)| Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="800" height="480" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
 
-* [Homura (ほむら) Arcade | WIP](https://youtu.be/TRQ8mhcG3n0)
+* [Homura (ほむら) Arcade (2005) | WIP](https://youtu.be/TRQ8mhcG3n0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
 
 
@@ -402,14 +402,15 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Homura (ほむら) Arcade - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
+* [Homura (ほむら) Arcade (2005) - Windowed]()
+* [Homura (ほむら) Arcade (2005) - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
 * [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
 * [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
 * [VHD vs SUBST to mount a drive letter](https://youtu.be/YLcdkaPVlgw)
 * [Substitute a drive letter for local path](https://youtu.be/jsZaTRLHZ0k)
 * [Hooking - Capturing pop-up window when mounting a VHD in runtime](https://youtu.be/uPD4WT60gv4)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-4](https://youtu.be/fXngq9ocQlw)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-3](https://youtu.be/_GxWZOsMh3w)
@@ -433,29 +434,29 @@ Inicializando
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Rendered entities without alpha](https://youtu.be/YXoffBoCQFA)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Rotation Native Screen 90º](https://youtu.be/OJDhNMZ-WDA)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Proof of concept screen rotation 0 - 90 - 180 - 270](https://youtu.be/GdglTFiwsGk)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Working 100% ](https://youtu.be/d0Eo7ataLvg)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Primitives to render ](https://youtu.be/1BOFofAWJCQ)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Fetch stream vertex](https://youtu.be/2GzN8lyw67s)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Utils bad text rendering ](https://youtu.be/_bpLo6YR2-A)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | No filter stretch](https://youtu.be/WdVXEIHrdOE)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Hidden background](https://youtu.be/ZytAryfM6Y0)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Working 100% ](https://youtu.be/d0Eo7ataLvg)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Primitives to render ](https://youtu.be/1BOFofAWJCQ)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Fetch stream vertex](https://youtu.be/2GzN8lyw67s)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Utils bad text rendering ](https://youtu.be/_bpLo6YR2-A)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | No filter stretch](https://youtu.be/WdVXEIHrdOE)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Hidden background](https://youtu.be/ZytAryfM6Y0)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | JVS working](https://youtu.be/ApofTCfae-Y)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Hooking Display](https://youtu.be/0MQ7qit3hw0)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | I/O Error PC](https://youtu.be/wKgiJ981Utw)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | JVS I/O Coin Error overflow w/ +40000 credits ](https://youtu.be/bXRC05W12IY)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Test Mode + keyinput mapping w/ JVS I/O](https://youtu.be/FkcUcNCo7BI)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Windowed size Optimization](https://youtu.be/7OtyeKExRcU)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | icon set hwnd](https://youtu.be/Rcl8FS5NELs)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Windowed screen](https://youtu.be/PjmyWyBUKKs)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Hook input keyboard](https://youtu.be/uG3ttaLP6Z0)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx vertical hooking](https://youtu.be/n9h24hYXedQ)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx size hooking](https://youtu.be/7KRQW63Cxtw)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx Display hooking II](https://youtu.be/ZvJ_Y1MpI3U)
-* [Rastan Saga (ラスタンサーガ) - Taito Type x | Directx Display hooking I](https://youtu.be/VEUg6j_JLqw)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Test Mode + keyinput mapping w/ JVS I/O](https://youtu.be/FkcUcNCo7BI)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Windowed size Optimization](https://youtu.be/7OtyeKExRcU)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | icon set hwnd](https://youtu.be/Rcl8FS5NELs)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Windowed screen](https://youtu.be/PjmyWyBUKKs)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Hook input keyboard](https://youtu.be/uG3ttaLP6Z0)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Directx vertical hooking](https://youtu.be/n9h24hYXedQ)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Directx size hooking](https://youtu.be/7KRQW63Cxtw)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Directx Display hooking II](https://youtu.be/ZvJ_Y1MpI3U)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - Taito Type x | Directx Display hooking I](https://youtu.be/VEUg6j_JLqw)
 * [Inject Dll - Remote thread](https://youtu.be/8mL-wPzPZHw)
 * [Api Hook - MessageBox | 32bits](https://youtu.be/kHs7gUDr03s)
 * [Api Hook - Keyboard Async GUI | 32bits](https://youtu.be/Agw_1XLF7fY)
