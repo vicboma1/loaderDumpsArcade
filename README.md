@@ -404,8 +404,9 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Homura (ほむら) Arcade (2005) - Windowed](https://youtu.be/42s62PBZFDs)
-* [Homura (ほむら) Arcade (2005) - Hooking Video](https://youtu.be/TRQ8mhcG3n0)
+* [Homura (ほむら) Arcade (2005) - Taito Type x2 | Fullscreen Rotation](https://youtu.be/Fe_goXXkpM4)
+* [Homura (ほむら) Arcade (2005) - Taito Type x2 | Windowed](https://youtu.be/42s62PBZFDs)
+* [Homura (ほむら) Arcade (2005) - Taito Type x2 | Hooking Video](https://youtu.be/TRQ8mhcG3n0)
 * [Launcher Sync vs Async](https://youtu.be/v1pjWTGenAc)
 * [Launcher Async + Destroyer Process + Modularity addons](https://youtu.be/VTdmDnnGWlA)
 * [Loader & Demon - Capture Process w ThreadKernel](https://youtu.be/s7Lad-j6L2o)
