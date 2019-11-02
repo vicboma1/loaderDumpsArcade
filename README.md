@@ -378,6 +378,12 @@ Inicializando
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Alpha Blending | 60 fps](https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
 
+* [Homura (ほむら) Arcade (2005) | WIP](https://youtu.be/TRQ8mhcG3n0)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
+
+* [Homura (ほむら) Arcade (2005) | Windowed ](https://youtu.be/42s62PBZFDs)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraWindowed.gif" width="800" height="480" />
+
 ### Taito Type x2
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
@@ -390,12 +396,6 @@ Inicializando
 
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
-
-* [Homura (ほむら) Arcade (2005) | WIP](https://youtu.be/TRQ8mhcG3n0)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
-
-* [Homura (ほむら) Arcade (2005) | Windowed ](https://youtu.be/42s62PBZFDs)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraWindowed.gif" width="800" height="480" />
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
