@@ -329,6 +329,7 @@ Inicializando
 ## Cache Storage
  * Save/Config0000.bin
  * setting.dat
+ * hiscore.dat
 
 ## Display
  * Windowed
