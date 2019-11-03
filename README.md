@@ -405,11 +405,11 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 4 ]()
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 3 ]()
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Hack Stretch Rendered ]()
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 ]()
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° ]()
+* Homura (ほむら) Arcade (2005) - Taito Type x | Level 4 
+* Homura (ほむら) Arcade (2005) - Taito Type x | Level 3 
+* Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Hack Stretch Rendered 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 ](https://youtu.be/ZulUZrCqbTM)
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° - 60 FPS](https://youtu.be/iaOecZxfWU4)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° - Bad FPS...](https://youtu.be/Fe_goXXkpM4)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Windowed](https://youtu.be/42s62PBZFDs)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Hooking Video](https://youtu.be/TRQ8mhcG3n0)
