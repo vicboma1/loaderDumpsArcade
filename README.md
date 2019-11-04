@@ -346,6 +346,7 @@ Inicializando
 ## TaskBar Menu
  * Show
  * Hidden
+ * Animation
 
 ##  GUI
 
