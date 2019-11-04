@@ -10,9 +10,9 @@ AutoTaskBar::~AutoTaskBar() {
 		delete this;
 }
 
-UINT_PTR _stdcall AutoTaskBar::autoHideTaskbar() { return setTaskbarState(TASKBAR_AUTO_HIDE); }
+UINT_PTR _stdcall AutoTaskBar::autoHide() { return setTaskbarState(TASKBAR_AUTO_HIDE); }
 
-UINT_PTR _stdcall AutoTaskBar::autoAutoTaskBar() { return setTaskbarState(TASKBAR_AUTO_TOP); }
+UINT_PTR _stdcall AutoTaskBar::autoShow() { return setTaskbarState(TASKBAR_AUTO_TOP); }
 
 UINT_PTR _stdcall AutoTaskBar::setTaskbarState(APP_BAR_STATE state)
 {
@@ -23,7 +23,7 @@ UINT_PTR _stdcall AutoTaskBar::setTaskbarState(APP_BAR_STATE state)
 	return SHAppBarMessage(SET_STATE, &msgData);
 }
 
-APP_BAR_STATE _stdcall AutoTaskBar::getTaskbarState()
+APP_BAR_STATE _stdcall AutoTaskBar::getState()
 {
 	APPBARDATA msgData;
 	msgData.cbSize = sizeof(msgData);
