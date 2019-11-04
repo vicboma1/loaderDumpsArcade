@@ -5,8 +5,8 @@
 #include <cstdint>
 
 enum APP_BAR_STATE {
-	AUTO_HIDE = 0x01,
-	ON_TOP = 0x02
+	TASKBAR_AUTO_HIDE = 0x01,
+	TASKBAR_AUTO_TOP = 0x02
 };
 
 enum APP_BAR_MESSAGE
@@ -48,51 +48,8 @@ public:
 	AutoTaskBar(bool);
 	~AutoTaskBar();
 
-	UINT_PTR _stdcall hide(void);
-	UINT_PTR _stdcall autoShowTaskbar(void);
-	APP_BAR_STATE _stdcall getTaskbarState();
-
-
+	UINT_PTR _stdcall autoHide(void);
+	UINT_PTR _stdcall autoShow(void);
+	APP_BAR_STATE _stdcall getState(void);
 };
 #endif
-
-
-
-#include "stdafx.h"
-
-AutoTaskBar::AutoTaskBar(bool value) {
-}
-
-AutoTaskBar::~AutoTaskBar() {
-	if (this)
-		delete this;
-}
-
-UINT_PTR _stdcall AutoTaskBar::autoHideTaskbar() { return setTaskbarState(TASKBAR_AUTO_HIDE); }
-
-UINT_PTR _stdcall AutoTaskBar::autoAutoTaskBar() { return setTaskbarState(TASKBAR_AUTO_TOP); }
-
-UINT_PTR _stdcall AutoTaskBar::setTaskbarState(APP_BAR_STATE state)
-{
-	APPBARDATA msgData;
-	msgData.cbSize = sizeof(msgData);
-	msgData.hWnd = FindWindow("Shell_TrayWnd", NULL);
-	if (msgData.hWnd == 0)
-		msgData.hWnd = FindWindow("System_TrayWnd", NULL);
-	if (msgData.hWnd == 0)
-		msgData.hWnd = FindWindow("Button", NULL);
-	msgData.lParam = state;
-	return SHAppBarMessage(SET_STATE, &msgData);
-}
-
-APP_BAR_STATE _stdcall AutoTaskBar::getTaskbarState()
-{
-	APPBARDATA msgData;
-	msgData.cbSize = sizeof(msgData);
-	msgData.hWnd = FindWindow("Shell_TrayWnd", NULL);
-	if (msgData.hWnd == 0)
-		msgData.hWnd = FindWindow("System_TrayWnd", NULL);
-	if (msgData.hWnd == 0)
-		msgData.hWnd = FindWindow("Button", NULL);
-	return (APP_BAR_STATE)SHAppBarMessage(GET_STATE, &msgData);
-}
