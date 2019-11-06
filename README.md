@@ -414,7 +414,7 @@ Inicializando
 
 * Homura (ほむら) Arcade (2005) - Taito Type x | Level 4 
 * Homura (ほむら) Arcade (2005) - Taito Type x | Level 3 
-* Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Hack Stretch Rendered 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Hack Stretch Rendered](https://youtu.be/yAC5v9YL1Vk)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 ](https://youtu.be/ZulUZrCqbTM)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° - 60 FPS](https://youtu.be/iaOecZxfWU4)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° - Bad FPS...](https://youtu.be/Fe_goXXkpM4)
