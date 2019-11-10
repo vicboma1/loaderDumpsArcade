@@ -379,6 +379,10 @@ Inicializando
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
 
+<p align="center">
+    <img src="assets/images/logo_raiden4.png" align="center" height="150" width="450">
+</p>
+
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Intro gameplay](https://youtu.be/byBMfUstYLY) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_intro_60_.gif" width="800" height="480" />
 
@@ -387,6 +391,10 @@ Inicializando
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Alpha Blending | 60 fps](https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
+
+<p align="center">
+    <img src="assets/images/logo_homura.png" align="center" height="100" width="300">
+</p>
 
 * [Homura (ほむら) Arcade (2005) | WIP](https://youtu.be/TRQ8mhcG3n0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
