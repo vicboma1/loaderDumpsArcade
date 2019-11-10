@@ -409,6 +409,11 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="800" height="480" />
 
 ### Taito Type x2
+
+<p align="center">
+    <img src="assets/images/logo_troublewitches.png" align="center" height="150" width="400">
+</p>
+
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Working 100%](https://youtu.be/d0Eo7ataLvg)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
 
