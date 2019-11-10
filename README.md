@@ -412,9 +412,11 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing game exit](https://youtu.be/8kmfgJgGs90)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing Back buffer](https://youtu.be/EzyGZH9q7PQ)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 4](https://youtu.be/CueDP9Eo2F0)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 3](https://youtu.be/J_44bRZj10k)
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2](https://youtu.be/K7ml_DnExFg)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Hack Stretch Rendered](https://youtu.be/yAC5v9YL1Vk)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 ](https://youtu.be/ZulUZrCqbTM)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fullscreen Rotation 90° - 60 FPS](https://youtu.be/iaOecZxfWU4)
