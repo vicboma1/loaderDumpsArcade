@@ -359,8 +359,16 @@ Inicializando
 ### Taito Type x
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 
+<p align="center">
+    <img src="assets/images/logo_rastan.png" >
+</p>
+
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+
+<p align="center">
+    <img src="assets/images/logo_raiden3.png" align="center" height="200" width="350">
+</p>
 
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
