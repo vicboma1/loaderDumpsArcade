@@ -379,7 +379,7 @@ Inicializando
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
 
-* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Hack Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
+* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
 
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
@@ -405,10 +405,10 @@ Inicializando
 * [Homura (ほむら) Arcade (2005) | Working 100% ](https://youtu.be/ZulUZrCqbTM)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraL1.gif" width="800" height="480" />
 
-* [Homura (ほむら) Arcade (2005) | Hack Stretch Rendered | Working 100% ](https://youtu.be/ZulUZrCqbTM)
+* [Homura (ほむら) Arcade (2005) | Stretch Rendered | Working 100% ](https://youtu.be/ZulUZrCqbTM)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="800" height="480" />
 
-* [Homura (ほむら) Arcade (2005) | Invert Color Texture Hack | Working 100% ](https://youtu.be/Yj7jjW3M0xc)
+* [Homura (ほむら) Arcade (2005) | Invert Color Texture | Working 100% ](https://youtu.be/Yj7jjW3M0xc)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
 
 
@@ -425,10 +425,10 @@ Inicializando
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008)| Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Hack Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="800" height="480" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Hack Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
 
 ### NesicaxLive
