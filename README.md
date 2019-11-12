@@ -402,17 +402,15 @@ Inicializando
     <img src="assets/images/logo_homura.png" align="center" height="100" width="300">
 </p>
 
-* [Homura (ほむら) Arcade (2005) | WIP](https://youtu.be/TRQ8mhcG3n0)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
-
-* [Homura (ほむら) Arcade (2005) | Windowed ](https://youtu.be/42s62PBZFDs)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraWindowed.gif" width="800" height="480" />
-
 * [Homura (ほむら) Arcade (2005) | Working 100% ](https://youtu.be/ZulUZrCqbTM)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraL1.gif" width="800" height="480" />
 
 * [Homura (ほむら) Arcade (2005) | Hack Stretch Rendered | Working 100% ](https://youtu.be/ZulUZrCqbTM)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="800" height="480" />
+
+* [Homura (ほむら) Arcade (2005) | Invert Color Texture Hack | Working 100% ](https://youtu.be/Yj7jjW3M0xc)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
+
 
 ### Taito Type x2
 
@@ -440,6 +438,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Invert color texture ](https://youtu.be/Yj7jjW3M0xc)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing game exit](https://youtu.be/8kmfgJgGs90)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing Back buffer](https://youtu.be/EzyGZH9q7PQ)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 4](https://youtu.be/CueDP9Eo2F0)
