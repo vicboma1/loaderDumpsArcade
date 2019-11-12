@@ -551,6 +551,7 @@ SUM:                          1060          40817          88943         449206
  * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
  * [Use DLL Native with C/C++ in C# Project](https://mark-borg.github.io/blog/2017/interop/)
  * [Function Pointers](https://www.codeproject.com/Articles/7150/Member-Function-Pointers-and-the-Fastest-Possible)
+ * [Windows Native API - Roger Orr [ACCU 2019]](https://www.youtube.com/watch?v=a0KozcRhotM)
  
 # About
 
