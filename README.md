@@ -304,6 +304,7 @@ Inicializando
 ```
 
 ## Graphics
+ * Color Inverting per-stage texture processing
  * No filter stretch
  * Fetch stream vertex
  * Primitives to render
