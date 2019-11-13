@@ -27,5 +27,9 @@ switch (value) {
 
 	default : MessageBox(NULL, "Input Congig no especificado", "Informacion", 0);
 }
+  ```
   
+LOOP TIME
+```
+INPUT_LOOP_DELAY_MS = 20
 ```
