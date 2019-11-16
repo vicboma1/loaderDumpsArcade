@@ -438,6 +438,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 Invert color texture ](https://youtu.be/Yj7jjW3M0xc)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing game exit](https://youtu.be/8kmfgJgGs90)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing Back buffer](https://youtu.be/EzyGZH9q7PQ)
