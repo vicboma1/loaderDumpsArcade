@@ -18,7 +18,9 @@ Twitter : https://twitter.com/vicboma1
   * Portable Execute
   * Hook Injection
 #### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
-  * Api
+  * Api Windows
+  * Api Native NTxxx
+  * Api Native ZWxxx
   * Virtual Methods
   * Trampoline/Columpio
   * DetourFunction
@@ -438,8 +440,9 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Intro Gameplay](https://youtu.be/jh4URJZgbbo)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Intro Gameplay ](https://youtu.be/2cBvG9guv68)
-* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
+* [Homura (ほむら) Arcade (2005)xTaito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 Invert color texture ](https://youtu.be/Yj7jjW3M0xc)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing game exit](https://youtu.be/8kmfgJgGs90)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing Back buffer](https://youtu.be/EzyGZH9q7PQ)
@@ -459,20 +462,20 @@ Inicializando
 * [Substitute a drive letter for local path](https://youtu.be/jsZaTRLHZ0k)
 * [Hooking - Capturing pop-up window when mounting a VHD in runtime](https://youtu.be/uPD4WT60gv4)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Alpha Blending Longplay](https://youtu.be/l4f-RL1lFWg)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-4](https://youtu.be/fXngq9ocQlw)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-3](https://youtu.be/_GxWZOsMh3w)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-2](https://youtu.be/jeKVfM5r6l0)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Level-1](https://youtu.be/pnU_iFDJB1g)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Alpha Blending Longplay](https://youtu.be/WVF5NIfcazw)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Intro gamePlay](https://youtu.be/cGrcoSgKhCY)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Fullscreen & Rotation Display](https://youtu.be/byBMfUstYLY)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Windowed](https://youtu.be/KSZ0gIxmzU0)
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) Taito Type X | Error Direct3Dバックバッファ取得失敗](https://youtu.be/wXJ1pOcU54E)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Level-5](https://youtu.be/OWQjTKIyIYs)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Level-4](https://youtu.be/fXngq9ocQlw)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Level-3](https://youtu.be/_GxWZOsMh3w)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Level-2](https://youtu.be/jeKVfM5r6l0)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Level-1](https://youtu.be/pnU_iFDJB1g)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Alpha Blending Longplay](https://youtu.be/WVF5NIfcazw)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Fullscreen 60 fps ](https://youtu.be/UbR_rJappac)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Demostration gamePlay](https://youtu.be/cGrcoSgKhCY)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Automatic virtual disk](http://www.youtube.com/watch?v=H7lU8WMDZrY)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Partition disk D](http://www.youtube.com/watch?v=sNqQlEhafkM)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Fullscreen & Rotation Display](https://youtu.be/byBMfUstYLY)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Windowed](https://youtu.be/KSZ0gIxmzU0)
+* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Error Direct3Dバックバッファ取得失敗](https://youtu.be/wXJ1pOcU54E)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Spot Light Type](https://youtu.be/1fW33Jc9ZZ8)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Diffuse CyberPunk Lights](https://youtu.be/wBOByMJZJb4)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) - Taito Type x2 | Texture Filtering in runtime | Nearest-Point](https://youtu.be/QmNS6zFTKpg)
