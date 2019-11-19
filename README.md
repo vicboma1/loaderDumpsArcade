@@ -566,6 +566,7 @@ SUM:                          1060          40817          88943         449206
  * [Function Pointers](https://www.codeproject.com/Articles/7150/Member-Function-Pointers-and-the-Fastest-Possible)
  * [Windows Native API - Roger Orr [ACCU 2019]](https://www.youtube.com/watch?v=a0KozcRhotM)
  * [Previous Mode](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/previousmode?redirectedfrom=MSDN)
+ * [Kernel Native](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/index.htm)
  
 # About
 
