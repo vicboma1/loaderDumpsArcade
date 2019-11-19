@@ -413,6 +413,13 @@ Inicializando
 * [Homura (ほむら) Arcade (2005) | Invert Color Texture | Working 100% ](https://youtu.be/Yj7jjW3M0xc)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
 
+<p align="center">
+    <img src="assets/images/logo_chaosBreaker.jpg" align="center" height="100" width="300">
+</p>
+
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X]()
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
+
 
 ### Taito Type x2
 
