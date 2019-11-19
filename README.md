@@ -414,10 +414,10 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_chaosBreaker.jpg" align="center" height="100" width="300">
+    <img src="assets/images/logo_chaosBreaker.jpg" align="center" height="125" width="300">
 </p>
 
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X]()
+* Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
 
 
@@ -447,7 +447,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X]()
+* Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X - wip
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Intro Gameplay Fixed](https://youtu.be/jh4URJZgbbo)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Intro Gameplay Fixed ](https://youtu.be/2cBvG9guv68)
 * [Homura (ほむら) Arcade (2005)xTaito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
