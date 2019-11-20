@@ -447,7 +447,10 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X - wip
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Improve FPS]()
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Fullscreen]()
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD]()
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/5VerBuQEkcU)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Intro Gameplay Fixed](https://youtu.be/jh4URJZgbbo)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Intro Gameplay Fixed ](https://youtu.be/2cBvG9guv68)
 * [Homura (ほむら) Arcade (2005)xTaito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
