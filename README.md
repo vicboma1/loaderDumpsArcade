@@ -448,7 +448,7 @@ Inicializando
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Improve FPS]()
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Fullscreen]()
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Fullscreen](https://youtu.be/_NgRjtBGzIU )
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD]()
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/5VerBuQEkcU)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Intro Gameplay Fixed](https://youtu.be/jh4URJZgbbo)
