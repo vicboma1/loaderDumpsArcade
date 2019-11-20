@@ -417,7 +417,7 @@ Inicializando
     <img src="assets/images/logo_chaosBreaker.jpg" align="center" height="125" width="300">
 </p>
 
-* Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_HD.gif" width="800" height="480" />
 
 
