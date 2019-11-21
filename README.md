@@ -421,6 +421,8 @@ Inicializando
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_HD.gif" width="800" height="480" />
 
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="800" height="480" />
 
 ### Taito Type x2
 
@@ -448,7 +450,8 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Improve 60FPS](https://youtu.be/tPvLwHai0ME)
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
+* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Improving 60FPS](https://youtu.be/tPvLwHai0ME)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Fullscreen](https://youtu.be/_NgRjtBGzIU)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/5VerBuQEkcU)
