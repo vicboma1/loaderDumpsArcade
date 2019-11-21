@@ -334,7 +334,8 @@ Inicializando
  * Save/Config0000.bin
  * setting.dat
  * hiscore.dat
-
+ * game.dat
+ 
 ## Display
  * Windowed
  * Windowed Center
