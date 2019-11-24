@@ -316,6 +316,7 @@ Inicializando
  * Reverse pixel mode in runtime / Nearest-Point
  * Diffuse CyberPunk Lights
  * Spot Light Type
+ * Anisotropic Filter
 
 ## Sound
  * Sound Create
@@ -451,6 +452,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [[Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Anisotropico Filter](https://www.youtube.com/watch?v=yyglkZDB6U8)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Improving 60FPS](https://youtu.be/tPvLwHai0ME)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Fullscreen](https://youtu.be/_NgRjtBGzIU)
