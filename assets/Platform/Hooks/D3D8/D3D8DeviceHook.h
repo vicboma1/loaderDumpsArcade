@@ -1,4 +1,4 @@
- #ifdef _DIRECT_D3D8_
+#ifdef _DIRECT_D3D8_
 #include <windows.h>
 #include <d3d8.h>
 
