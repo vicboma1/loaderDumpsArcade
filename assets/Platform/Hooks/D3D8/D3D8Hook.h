@@ -1,3 +1,4 @@
+#ifdef _DIRECT_D3D8_
 #include <windows.h>
 #include <d3d8.h>
 
@@ -22,3 +23,5 @@ struct D3D8Hook : IUnknown {
 	virtual HRESULT STDMETHODCALLTYPE CheckDeviceMultiSampleType(UINT Adapter, D3DDEVTYPE DeviceType, D3DFORMAT SurfaceFormat, BOOL Windowed, D3DMULTISAMPLE_TYPE MultiSampleType);
 	
 };
+
+#endif
