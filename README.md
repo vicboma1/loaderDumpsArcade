@@ -452,6 +452,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Raiden IV (雷電IV Raiden Fō) Arcade 2007 Taito Type X | Anisotropico Filter](https://youtu.be/hFtfWKUp-tw)
 * [Raiden IV (雷電IV Raiden Fō) Arcade 2007 Taito Type X | Invert Colors](https://youtu.be/KwUDml91B7g)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Anisotropico Filter](https://www.youtube.com/watch?v=yyglkZDB6U8)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
