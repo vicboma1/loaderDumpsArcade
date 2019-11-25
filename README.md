@@ -461,7 +461,7 @@ Inicializando
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/5VerBuQEkcU)
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) - Taito Type X | Intro Gameplay Fixed](https://youtu.be/jh4URJZgbbo)
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) - Taito Type x | Intro Gameplay Fixed ](https://youtu.be/2cBvG9guv68)
-* [Homura (ほむら) Arcade (2005)xTaito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Level 2 Invert color texture ](https://youtu.be/AaY-lbOMRHU)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Level 1 Invert color texture ](https://youtu.be/Yj7jjW3M0xc)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing game exit](https://youtu.be/8kmfgJgGs90)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Fixing Back buffer](https://youtu.be/EzyGZH9q7PQ)
