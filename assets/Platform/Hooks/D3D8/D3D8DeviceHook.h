@@ -1,3 +1,4 @@
+ #ifdef _DIRECT_D3D8_
 #include <windows.h>
 #include <d3d8.h>
 
@@ -101,5 +102,6 @@ struct D3D8_Device_Hook : IUnknown {
 	virtual HRESULT STDMETHODCALLTYPE DrawRectPatch(UINT Handle, const float *pNumSegs, const D3DRECTPATCH_INFO *pRectPatchInfo);
 	virtual HRESULT STDMETHODCALLTYPE DrawTriPatch(UINT Handle, const float *pNumSegs, const D3DTRIPATCH_INFO *pTriPatchInfo);
 	virtual HRESULT STDMETHODCALLTYPE DeletePatch(UINT Handle);
-
 };
+
+#endif
