@@ -1,0 +1,48 @@
+#ifndef _SAMPLER_H_
+#define _SAMPLER_H_
+
+#include "stdafx.h"
+#include "Macros.h"
+
+#define FOREACH_SAMPLER(SAMPLER)  	\
+    SAMPLER(LINEAR)   				\
+	SAMPLER(POINTER)				\
+	SAMPLER(ANISOTROPICO)			\
+	SAMPLER(PYRAMIDALQUAD)			\
+	SAMPLER(GAUSSIANQUAD)			\
+	SAMPLER(CONVOLUTIONMONO)
+
+
+enum CONFIG_SAMPLER_ENUM {
+	FOREACH_SAMPLER(GENERATE_ENUM)
+};
+
+static const char *CONFIG_SAMPLER_ENUM_STRING[] = {
+	FOREACH_SAMPLER(GENERATE_STRING)
+};
+
+
+class Sampler
+{
+
+public:
+
+	Sampler();
+	~Sampler();
+	const char* toString(CONFIG_SAMPLER_ENUM i);
+	CONFIG_SAMPLER_ENUM toEnum(const char* i);
+
+
+private:
+
+	map<string, CONFIG_SAMPLER_ENUM>  mapStringEnum = {
+	   { CONFIG_SAMPLER_ENUM_STRING[0], LINEAR},
+	   { CONFIG_SAMPLER_ENUM_STRING[1], POINTER},
+	   { CONFIG_SAMPLER_ENUM_STRING[2], ANISOTROPICO},
+	   { CONFIG_SAMPLER_ENUM_STRING[3], PYRAMIDALQUAD},
+	   { CONFIG_SAMPLER_ENUM_STRING[4], GAUSSIANQUAD},
+	   { CONFIG_SAMPLER_ENUM_STRING[5], CONVOLUTIONMONO}
+	};
+
+};
+#endif
