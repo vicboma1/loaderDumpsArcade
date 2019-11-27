@@ -426,6 +426,14 @@ Inicializando
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="800" height="480" />
 
+<p align="center">
+    <img src="assets/images/logo_gigawings.png" align="center" height="125" width="300">
+</p>
+
+* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/y-PWoBVzcZU)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
+
+
 ### Taito Type x2
 
 <p align="center">
