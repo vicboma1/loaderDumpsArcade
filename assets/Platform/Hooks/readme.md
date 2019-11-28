@@ -11,8 +11,8 @@
 
 | Name | Library |   
 | :-------: | :------: |
-| MessageBoxA   | user32.dll |
-| MessageBoxW   | user32.dll |
+| NtClose   | ntdll.dll |
+| NtCreateFile   | ntdll.dll |
 
 
 # Windows
