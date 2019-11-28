@@ -29,6 +29,16 @@
 | AdjustWindowRect   | user32.dll |
 | ChangeDisplaySettingsA   | user32.dll |
 | ChangeDisplaySettingsW   | user32.dll |
+| ClientToScreen   | user32.dll |
+| CreateWindowExA   | user32.dll |
+| CreateWindowExW   | user32.dll |
+| SystemParametersInfoA   | user32.dll |
+| ShowCursor   | user32.dll |
+| LoadCursorA   | user32.dll |
+| SetCursorPos   | user32.dll |
+| CloseHandle   | user32.dll |
+| CoCreateInstance   | user32.dll |
+| GetWindowPlacement   | user32.dll |
 | CreateFileA   | kernel32.dll |
 | CreateFileW   | kernel32.dll |
 | WriteFile   | kernel32.dll |
@@ -38,3 +48,4 @@
 | timeGetTime   | Winmm.dll |
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
+
