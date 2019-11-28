@@ -430,7 +430,7 @@ Inicializando
     <img src="assets/images/logo_gigawings.png" align="center" height="125" width="300">
 </p>
 
-* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/y-PWoBVzcZU)
+* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="800" height="480" />
 
 
@@ -460,6 +460,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Working 100% Stage 3-4](https://youtu.be/T3URlwacrdk)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Working 100% Stage 1-2](https://youtu.be/4M54WQgAMu0)
 * [Raiden IV (雷電IV Raiden Fō) Arcade 2007 Taito Type X | Anisotropico Filter](https://youtu.be/hFtfWKUp-tw)
