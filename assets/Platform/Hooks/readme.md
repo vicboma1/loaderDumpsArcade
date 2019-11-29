@@ -6,6 +6,10 @@
 | :-------: | :------: |
 | ZwClose   | ntdll.dll|
 | ZwCreateFile   | ntdll.dll |
+| ZwOpenFile   | ntdll.dll |
+| ZwReadFile   | ntdll.dll |
+| ZwQueryInformationThread   | ntdll.dll |
+| ZwQueryInformationProcess   | ntdll.dll |
 
 # Api Native Nt
 
@@ -13,7 +17,10 @@
 | :-------: | :------: |
 | NtClose   | ntdll.dll |
 | NtCreateFile   | ntdll.dll |
-
+| NtOpenFile   | ntdll.dll |
+| NtReadFile   | ntdll.dll |
+| NtQueryInformationThread   | ntdll.dll |
+| NtQueryInformationProcess   | ntdll.dll |
 
 # Windows
 
