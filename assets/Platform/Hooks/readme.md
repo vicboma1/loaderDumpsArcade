@@ -10,6 +10,7 @@
 | ZwReadFile   | ntdll.dll |
 | ZwQueryInformationThread   | ntdll.dll |
 | ZwQueryInformationProcess   | ntdll.dll |
+| ZwSetValueKey | ntdll.dll |
 
 # Api Native Nt
 
@@ -21,6 +22,7 @@
 | NtReadFile   | ntdll.dll |
 | NtQueryInformationThread   | ntdll.dll |
 | NtQueryInformationProcess   | ntdll.dll |
+| NtSetValueKey | ntdll.dll |
 
 # Windows
 
