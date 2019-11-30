@@ -32,9 +32,7 @@ Twitter : https://twitter.com/vicboma1
 * Async-KeyState
 * Direct Input
 
-### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation)
-* [Examples](https://github.com/vicboma1/loaderDumpsArcade#example-1)
-
+### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation-1)
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
@@ -47,14 +45,8 @@ Twitter : https://twitter.com/vicboma1
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
 * [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
-
 ### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-devlist-1)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
-* C/C++ Header              
-* C/C++/C#/Assembler
-* Scripting
-* MSBuild script
-
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references)
 ### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
 
@@ -247,6 +239,7 @@ Twitter : https://twitter.com/vicboma1
   
 ## JVS I/O Emulation
 
+### [OpCodes](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Protocol/JVS/JVSEnums.h)
 #### Example
 ```
 Inicializando
