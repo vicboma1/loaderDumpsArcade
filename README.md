@@ -14,20 +14,26 @@ Twitter : https://twitter.com/vicboma1
   * CreateRemoteThread and LoadLibrary
   * Portable Execute
   * Hook Injection
-#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
-  * Api Windows
-  * Api Native NTxxx
-  * Api Native ZWxxx
-  * Virtual Methods
+### Techniques
+  * Virtual Method Table 
+  * Vectored Exception Handling
   * Trampoline/Columpio
   * DetourFunction
+#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks) | []
+  * [Api Windows](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#windows)
+  * [Api Native NTxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-nt)
+  * [Api Native ZWxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-zw)
+  * [D3D8](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D8/D3D8Hook.h)
+  * [D3D8Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D8/D3D8DeviceHook.h)
+  * [DSound8](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DSound8/DSound8Hook.h)
+  * [DSoundBuffer](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DSoundBuffer/DSoundBufferHook.h)
+  * [D3D9](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9Hook.h)
+  * D3D9ex
+  * D3D9Device
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
   * Addressing
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-* Async-KeyState
-* Direct Input
-
 ### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation-1)
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
