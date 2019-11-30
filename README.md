@@ -460,7 +460,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Longplay GameHacking](https://youtu.be/I5Y6RVpW7sQ)
+* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Longplay GameHacking]( https://youtu.be/qh9ARTth-NA)
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Bad Stencil Graphic](https://youtu.be/ek1_2ivwp70 )
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Working 100% Stage 3-4](https://youtu.be/T3URlwacrdk)
