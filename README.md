@@ -14,12 +14,12 @@ Twitter : https://twitter.com/vicboma1
   * CreateRemoteThread and LoadLibrary
   * Portable Execute
   * Hook Injection
-### Techniques
+#### Techniques
   * Virtual Method Table 
   * Vectored Exception Handling
   * Trampoline/Columpio
   * DetourFunction
-#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks) | []
+#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
   * [Api Windows](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#windows)
   * [Api Native NTxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-nt)
   * [Api Native ZWxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-zw)
