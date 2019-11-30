@@ -6,10 +6,6 @@ Twitter : https://twitter.com/vicboma1
 ## Table of Contents (wip)
 
 ### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#systems-1)
-* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x)
-* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#taito-type-x2)
-* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#nesicaxlive)
-
 ### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
 
 ### Injections
@@ -240,7 +236,7 @@ Twitter : https://twitter.com/vicboma1
 ## JVS I/O Emulation
 
 ### [OpCodes](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Protocol/JVS/JVSEnums.h)
-#### Example
+#### Semantic Trace
 ```
 Inicializando
 	Logger: 2019-06-07_00-48-04-LoggerJvs.log 
@@ -550,21 +546,20 @@ Inicializando
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-XML                            114            173            345         282779
-C/C++ Header                   736          36663          81900         140867
-C#                             101           1267           3550           8267
-C++                             54           2209           2609           8016
-C                                8            393            364           5277
-Assembler                       14              0             34           1867
-MSBuild script                  16              0             49           1532
-INI                              5            107             91            531
-Markdown                         2              4              0             44
+XML                            142            173            345         286219
+C/C++ Header                   795          38483          84272         147221
+C++                            114           4477           4607          16206
+C                               14            747            711          10235
+C#                             118           1478           3894           9043
+MSBuild script                  18              0             49           1653
+Markdown                         3              4              0             46
+DOS Batch                        8              1              0             27
 XAML                             2              1              0             15
-JSON                             6              0              0              6
-DOS Batch                        1              0              0              3
-Bourne Shell                     1              0              1              2
+JSON                             5              0              0              5
+Bourne Shell                     2              7             22              4
+Assembly                         1              1              2              1
 -------------------------------------------------------------------------------
-SUM:                          1060          40817          88943         449206
+SUM:                          1222          45372          93902         470675
 -------------------------------------------------------------------------------
 ```
 
