@@ -586,6 +586,7 @@ SUM:                          1222          45372          93902         470675
  * [Windows Native API - Roger Orr [ACCU 2019]](https://www.youtube.com/watch?v=a0KozcRhotM)
  * [Previous Mode](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/previousmode?redirectedfrom=MSDN)
  * [Kernel Native](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/index.htm)
+ * [C++ : Gestión de memoria con std::unique_ptr (Smart Pointers)](https://www.youtube.com/watch?v=MSk__71a41Q)
  
 # About
 
