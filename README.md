@@ -29,7 +29,7 @@ Twitter : https://twitter.com/vicboma1
   * [DSoundBuffer](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DSoundBuffer/DSoundBufferHook.h)
   * [D3D9](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9Hook.h)
   * D3D9ex
-  * D3D9Device
+  * [D3D9Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9DeviceHook.h)
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
   * Addressing
 
