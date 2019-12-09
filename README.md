@@ -428,6 +428,9 @@ Inicializando
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg3.gif" width="800" height="480" />
 
+* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Working 100%](https://youtu.be/qh9ARTth-NA)
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg4.gif" width="800" height="480" />
+
 
 ### Taito Type x2
 
