@@ -1,6 +1,7 @@
 #include "stdafx.h" 
 #include "MinimizeWindowsForeground.h"
 
+//refactor: https://github.com/vicboma1/loaderDumpsArcade/issues/45
 using namespace std;
 
 static bool isReady;
@@ -28,8 +29,8 @@ PreLoader::PreLoader() {
 }
 
 PreLoader::~PreLoader() {
-	if (this)
-		delete this;
+	//if (this)
+	//	delete this;
 }
 
 bool PreLoader::execute() {
