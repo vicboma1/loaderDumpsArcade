@@ -10,8 +10,8 @@ TaskBar::TaskBar(bool value) {
 
 TaskBar::~TaskBar() {
 	LOGGER();
-	if(this)
-		delete this;
+//	if(this)
+//		delete this;
 }
 
 void _stdcall TaskBar(HWND handle, bool status) {
