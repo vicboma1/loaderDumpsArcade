@@ -12,3 +12,5 @@ if(state == TASKBAR_AUTO_TOP)
   pTaskBar->autoHideTaskbar();
 
 ```
+
+[refactor with unique_ptr & make_ptr](https://github.com/vicboma1/loaderDumpsArcade/issues/45)
