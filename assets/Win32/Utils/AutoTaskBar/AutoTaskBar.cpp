@@ -1,13 +1,15 @@
 #include "stdafx.h"
 #include "AutoTaskBar.h"
 
+//refactor: https://github.com/vicboma1/loaderDumpsArcade/issues/45
+
 AutoTaskBar::AutoTaskBar(bool value) {
 
 }
 
 AutoTaskBar::~AutoTaskBar() {
-	if (this)
-		delete this;
+	//if (this)
+	//	delete this;
 }
 
 UINT_PTR _stdcall AutoTaskBar::autoHide() { return setTaskbarState(TASKBAR_AUTO_HIDE); }
