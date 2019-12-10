@@ -2,6 +2,7 @@
 #include "MountVHD.h"
 using namespace std;
 
+//refactor: https://github.com/vicboma1/loaderDumpsArcade/issues/45
 MountVHD::MountVHD() {
 	pIsOpen = false;
 	pIsCreate = false;
@@ -9,8 +10,8 @@ MountVHD::MountVHD() {
 }
 
 MountVHD::~MountVHD() {
-	if (this)
-		delete this;
+	//if (this)
+	//	delete this;
 }
 
 bool __stdcall MountVHD::isCreate(void) {
