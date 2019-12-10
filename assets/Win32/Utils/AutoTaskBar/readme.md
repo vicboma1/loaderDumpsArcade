@@ -1,7 +1,7 @@
 # AutoTaskBar -> Animation
 
 ```c++
-std::unique_ptr *pTaskBar = std::make_ptr<AutoTaskBar>();
+std::unique_ptr pTaskBar = std::make_ptr<AutoTaskBar>();
 or
 auto *pTaskBar = make_ptr<AutoTaskBar>();
 
