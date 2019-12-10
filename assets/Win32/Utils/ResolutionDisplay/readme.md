@@ -25,10 +25,10 @@
 RESOLUTION_DISPLAY = WINDOWED
 
 //File with external configuration
-Properties *properties = new Properties();
+std::unique_ptr properties = std::make_ptr<Properties>();
 properties->read();
 
-ResolutionDisplay *resolutionDisplay = new ResolutionDisplay();
+std::unique_ptr resolutionDisplay = std::make_ptr<ResolutionDisplay>();
 auto display = properties->getString("RESOLUTION_DISPLAY");
 auto value = pResolutionDisplay->toEnum(display.c_str());
 
@@ -75,3 +75,5 @@ switch (value) {
   }
 }
 ```
+
+Refactor: [unique_ptr & make_ptr](https://github.com/vicboma1/loaderDumpsArcade/issues/45)
