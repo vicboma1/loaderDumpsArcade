@@ -2,7 +2,7 @@
 
 ```c
 //File with external configuration
-Properties *properties = new Properties();
+std::unique_ptr properties = std::make_ptr<Properties>();
 properties->read();
 
 //Read value
@@ -11,7 +11,7 @@ properties->read();
 // DMDO_180
 // DMDO_270
 auto rotation = properties->getEnum("ROTATION_DISPLAY");
-RotationDisplay *rotationDisplay = new RotationDisplay();
+std::unique_ptr rotationDisplay = std::make_ptr<RotationDisplay>();
 
 switch (rotation) {
   case MDO_DEFAULT  : rotationDisplay->_DEFAULT(); break;
@@ -25,3 +25,4 @@ switch (rotation) {
   }
 }
 ```
+Refactor: [unique_ptr & make_ptr](https://github.com/vicboma1/loaderDumpsArcade/issues/45)
