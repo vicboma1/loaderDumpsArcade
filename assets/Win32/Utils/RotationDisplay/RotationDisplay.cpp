@@ -2,14 +2,15 @@
 
 using namespace std;
 
+//Refactor: https://github.com/vicboma1/loaderDumpsArcade/issues/45
 RotationDisplay::RotationDisplay() {
 	LOGGER();
 }
 
 RotationDisplay::~RotationDisplay() {
 	LOGGER();
-	if (this)
-		delete this;
+	//if (this)
+	//	delete this;
 }
 
 bool _stdcall RotationDisplay::start(int angle) {
