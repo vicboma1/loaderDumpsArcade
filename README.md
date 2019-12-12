@@ -591,6 +591,7 @@ SUM:                          1222          45372          93902         470675
  * [Previous Mode](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/previousmode?redirectedfrom=MSDN)
  * [Kernel Native](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/index.htm)
  * [C++ : Gestión de memoria con std::unique_ptr (Smart Pointers)](https://www.youtube.com/watch?v=MSk__71a41Q)
+ * [Specification games](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Documentation/Games)
  
 # About
 
