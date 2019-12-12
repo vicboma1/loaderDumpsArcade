@@ -4,5 +4,5 @@
 | :-------: | :------: | :------: |
 | data   | Folder | 408 MB |
 | game.exe   |  File | 1084 kb |
-| game.inf   | File | 1kb |
+| game.inf   | File | 1 kb |
 
