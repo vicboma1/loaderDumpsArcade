@@ -58,3 +58,20 @@
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
 
+# Opengl (wip)
+
+| Name | Library |   
+| :-------: | :------: |
+| wglSwapBuffers   | opengl32.dll|
+| glViewport   | opengl32.dll |
+| glScissor   | opengl32.dll |
+| glFrustum   | opengl32.dll |
+| glOrtho   | opengl32.dll |
+
+# GLU (wip)
+
+| Name | Library |   
+| :-------: | :------: |
+| gluOrtho2D   | glu32.dll|
+| glutReshapeWindow   | glu32.dll |
+| glutInitWindowSize   | glu32.dll |
