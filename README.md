@@ -459,7 +459,8 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) - Game Hacking](https://youtu.be/YPl0_GEEgik)
+* [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Viewport Hacking](https://youtu.be/WA80-iZ062w )
+* [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Game Hacking](https://youtu.be/YPl0_GEEgik)
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Longplay GameHacking]( https://youtu.be/qh9ARTth-NA)
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Bad Stencil Graphic](https://youtu.be/ek1_2ivwp70 )
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
