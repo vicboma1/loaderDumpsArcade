@@ -58,7 +58,7 @@
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
 
-# Opengl (wip)
+# Opengl
 
 | Name | Library |   
 | :-------: | :------: |
@@ -70,7 +70,7 @@
 | glMatrixMode | opengl32.dll |
 | glLoadIdentity | opengl32.dll |
 
-# GLU (wip)
+# GLU
 
 | Name | Library |   
 | :-------: | :------: |
