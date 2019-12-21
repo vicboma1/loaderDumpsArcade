@@ -239,7 +239,7 @@ Twitter : https://twitter.com/vicboma1
    
 * Input Tool to map output file *.bin
 
-  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/eyInputMappingAsyncV2.gif.gif)
+  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/eyInputMappingAsyncV2.gif)
   
   
 ## JVS I/O Emulation
