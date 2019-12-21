@@ -237,9 +237,9 @@ Twitter : https://twitter.com/vicboma1
   0000000000000060  22 00 00 00 21 00 00 00  14 00 00 00 01 00 00 00  "...!...........         
  ```
    
-* Input Tool to map output file *.bin | scratch (PoF with vs2010)
+* Input Tool to map output file *.bin
 
-  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/InputMapping2P_v2.gif)
+  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/eyInputMappingAsyncV2.gif.gif)
   
   
 ## JVS I/O Emulation
