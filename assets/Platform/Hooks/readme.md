@@ -57,6 +57,7 @@
 | timeGetTime   | Winmm.dll |
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
+| joyGetNumDevs | Winmm.dll |
 
 # Opengl
 
