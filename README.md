@@ -85,29 +85,18 @@ Twitter : https://twitter.com/vicboma1
   
 ## Loader | [Based on Injection's](https://github.com/vicboma1/Inject-DLL#process)
    ```C
-    public interface ILoaderProcessNative
-    {
-        Boolean isLoaded { get; }
-        Boolean isActive();
-
-        int Open(String name);
-        Task OpenAsync(String name);
-
-        Kernel32Native.PROCESS_INFORMATION Create(String name, uint securityAttr);
-
-        Boolean Attach(String name);
-        Boolean InjectDLL(String name);
-
-        List<IntPtr> SuspendAllThreads();
-          
-        Boolean ReadMemory(IntPtr processID, IntPtr address, int numOfBytes, byte[] buffer, out int bytesRead);
-        Boolean WriteMemory(IntPtr hProc, IntPtr address, byte [] buffer, out int bytesWrited);
-
-        List<IntPtr> ResumeAllThreads();
-
-        Boolean Terminate();
-    }
-   
+   Boolean isLoaded { get; }
+   Boolean isActive();
+   int Open(String name);
+   Task OpenAsync(String name);
+   Kernel32Native.PROCESS_INFORMATION Create(String name, uint securityAttr);
+   Boolean Attach(String name);
+   Boolean InjectDLL(String name);
+   List<IntPtr> SuspendAllThreads();
+   Boolean ReadMemory(IntPtr processID, IntPtr address, int numOfBytes, byte[] buffer, out int bytesRead);
+   Boolean WriteMemory(IntPtr hProc, IntPtr address, byte [] buffer, out int bytesWrited);
+   List<IntPtr> ResumeAllThreads();
+   Boolean Terminate();
    ```
    
 ## Inputs
@@ -442,6 +431,12 @@ Inicializando
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005)](https://youtu.be/7vc35kFPJvY)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/TGM3.gif" width="800" height="480" />
 
+<p align="center">
+    <img src="assets/images/logo_spicaAdventureArcade.png" align="center" height="200" width="350">
+</p>
+
+* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) / Windowed Mode](https://youtu.be/0atLTgOaOIk )
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureArcade.gif" width="800" height="480" />
 
 ### Taito Type x2
 
@@ -469,6 +464,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) / Windowed Mode](https://youtu.be/0atLTgOaOIk )
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen Mode](https://youtu.be/7vc35kFPJvY)
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen w/Border](https://youtu.be/XyL1E2oFUNE)
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Windowed Mode](https://youtu.be/DxavhhYSmpE )
