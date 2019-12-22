@@ -464,6 +464,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/24xwVvKhKUs)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen Mode](https://youtu.be/7vc35kFPJvY)
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen w/Border](https://youtu.be/XyL1E2oFUNE)
