@@ -438,6 +438,9 @@ Inicializando
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureArcade.gif" width="800" height="480" />
 
+* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/VxmwMzMFHwY )
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureBoss.gif" width="800" height="480" />
+
 ### Taito Type x2
 
 <p align="center">
@@ -464,6 +467,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Level 3 - Space Invader Boss](https://youtu.be/VxmwMzMFHwY)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/24xwVvKhKUs)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen Mode](https://youtu.be/7vc35kFPJvY)
