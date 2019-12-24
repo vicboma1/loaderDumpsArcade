@@ -59,7 +59,7 @@
 | timeEndPeriod   | Winmm.dll |
 | joyGetNumDevs | Winmm.dll |
 
-# Opengl
+# OpenGL
 
 | Name | Library |   
 | :-------: | :------: |
