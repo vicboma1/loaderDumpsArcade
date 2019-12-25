@@ -52,6 +52,7 @@ Twitter : https://twitter.com/vicboma1
 * [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
 ### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-devlist-1)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
+### [Highlights](https://github.com/vicboma1/loaderDumpsArcade#highlights-1)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
 ### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
 
@@ -588,6 +589,9 @@ Assembly                         1              1              2              1
 SUM:                          1222          45372          93902         470675
 -------------------------------------------------------------------------------
 ```
+
+# Highlights
+ * [Retrogaming: Una misión posible en sistemas Arcade de nueva generación - Retropolis 2019](https://www.inf.upv.es/www/etsinf/es/retropolis-valencia-2019-regresa-el-sabado-4-de-mayo-a-etsinf/)
 
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
