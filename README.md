@@ -592,7 +592,8 @@ SUM:                          1222          45372          93902         470675
 
 # Highlights
  * [Retrogaming: Una misión posible en sistemas Arcade de nueva generación - Retropolis 2019](https://www.inf.upv.es/www/etsinf/es/retropolis-valencia-2019-regresa-el-sabado-4-de-mayo-a-etsinf/)
-
+ * [Podcast Taberna Nintendera - T02E16 - 037 - Programa 12_05_2019](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/audio/vlc-record-2019-12-25-22h03m56s-Taberna-Nintendera-T02E16-037-Programa-12_05_2019-.mp3)
+ 
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
  * [JVS conversion](https://wiki.arcadeotaku.com/images/9/97/SEGA_cabinet_JVS_conversion_manual_.pdf)
