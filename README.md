@@ -466,7 +466,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagaI.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/RastanSagaI.gif" width="800" height="480" />
 
 <p align="center">
     <img src="assets/images/logo_elevator.png" align="center" height="150" width="400">
