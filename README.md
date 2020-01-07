@@ -359,13 +359,6 @@ Inicializando
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 
 <p align="center">
-    <img src="assets/images/logo_rastan.png" >
-</p>
-
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) - 882 | Working 100%](https://youtu.be/pGB89NVwNDg) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
-
-<p align="center">
     <img src="assets/images/logo_raiden3.png" align="center" height="200" width="350">
 </p>
 
@@ -463,8 +456,17 @@ Inicializando
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
-* [Rastan Saga - 401500]() - Inputs (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
+
+<p align="center">
+    <img src="assets/images/logo_rastan.png" >
+</p>
+
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Working 100%](https://youtu.be/pGB89NVwNDg) 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Invert Color NesicaxLive](https://youtu.be/pGB89NVwNDg) 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
 <p align="center">
     <img src="assets/images/logo_elevator.png" align="center" height="150" width="400">
@@ -479,6 +481,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Invert Color NesicaxLive](https://youtu.be/pGB89NVwNDg) 
 * [Elevator Action (エレベーターアクション) - Arcade (2014) | Fullscreen Hack NesicaxLive](https://youtu.be/aPLpg5CJqGY)
 * [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack NesicaxLive](https://youtu.be/dPL_xJyc9C8)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Level 3 - Space Invader Boss](https://youtu.be/VxmwMzMFHwY)
