@@ -470,13 +470,17 @@ Inicializando
     <img src="assets/images/logo_elevator.png" align="center" height="150" width="400">
 </p>
 
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack](https://youtu.be/dPL_xJyc9C8) 
+* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack NesicaxLive](https://youtu.be/dPL_xJyc9C8) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="800" height="480" />
+
+* [Elevator Action (エレベーターアクション) - Arcade (2014) | Fullscreen Hack NesicaxLive](https://youtu.be/aPLpg5CJqGY )
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="800" height="480" />
 
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack](https://youtu.be/dPL_xJyc9C8)
+* [Elevator Action (エレベーターアクション) - Arcade (2014) | Fullscreen Hack NesicaxLive](https://youtu.be/aPLpg5CJqGY)
+* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack NesicaxLive](https://youtu.be/dPL_xJyc9C8)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Level 3 - Space Invader Boss](https://youtu.be/VxmwMzMFHwY)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/24xwVvKhKUs)
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
