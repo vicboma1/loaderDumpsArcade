@@ -462,31 +462,35 @@ Inicializando
     <img src="assets/images/logo_rastan.png" >
 </p>
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Working 100%](https://youtu.be/pGB89NVwNDg) 
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Working 100%](https://youtu.be/pGB89NVwNDg) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Invert Color NesicaxLive](https://youtu.be/pGB89NVwNDg) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagaI.gif" width="800" height="480" />
 
 <p align="center">
     <img src="assets/images/logo_elevator.png" align="center" height="150" width="400">
 </p>
 
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack NesicaxLive](https://youtu.be/dPL_xJyc9C8) 
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Windowed Hack](https://youtu.be/dPL_xJyc9C8) 
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="800" height="480" />
 
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Fullscreen Hack NesicaxLive](https://youtu.be/aPLpg5CJqGY )
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Fullscreen Hack](https://youtu.be/aPLpg5CJqGY )
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="800" height="480" />
+
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Invert Color](https://youtu.be/FAi624hILlI) 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" width="800" height="480" />
 
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) | Invert Color NesicaxLive](https://youtu.be/pGB89NVwNDg) 
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Fullscreen Hack NesicaxLive](https://youtu.be/aPLpg5CJqGY)
-* [Elevator Action (エレベーターアクション) - Arcade (2014) | Windowed Hack NesicaxLive](https://youtu.be/dPL_xJyc9C8)
-* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Level 3 - Space Invader Boss](https://youtu.be/VxmwMzMFHwY)
-* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/24xwVvKhKUs)
-* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4 ) 
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/FAi624hILlI)
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Fullscreen Hack](https://youtu.be/aPLpg5CJqGY)
+* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Windowed Hack](https://youtu.be/dPL_xJyc9C8)
+* [Spica Adventure (スピカアドベンチャー) Arcade (2005) - NesicaxLive | Level 3 - Space Invader Boss](https://youtu.be/VxmwMzMFHwY)
+* [Spica Adventure (スピカアドベンチャー) Arcade (2005) - NesicaxLive | Fullscreen Mode](https://youtu.be/24xwVvKhKUs)
+* [Spica Adventure (スピカアドベンチャー) Arcade (2005) - NesicaxLive| Windowed Mode](https://youtu.be/0atLTgOaOIk )
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen Mode](https://youtu.be/7vc35kFPJvY)
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Fullscreen w/Border](https://youtu.be/XyL1E2oFUNE)
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005) | Windowed Mode](https://youtu.be/DxavhhYSmpE )
