@@ -28,7 +28,7 @@ Twitter : https://twitter.com/vicboma1
   * [DSound8](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DSound8/DSound8Hook.h)
   * [DSoundBuffer](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DSoundBuffer/DSoundBufferHook.h)
   * [D3D9](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9Hook.h)
-  * D3D9ex
+  * [D3D9ex](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3Dx9/D3Dx9Hook.h)
   * [D3D9Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9DeviceHook.h)
   * [Opengl32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#opengl)
   * [Glu32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#glu)
