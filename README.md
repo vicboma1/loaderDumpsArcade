@@ -372,7 +372,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="ahttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
 </p>
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Intro gameplay](https://youtu.be/byBMfUstYLY) 
@@ -398,7 +398,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.jpg" align="center" height="125" width="300">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.png" align="center" height="125" width="300">
 </p>
 
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
@@ -459,7 +459,7 @@ Inicializando
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
 <p align="center">
-    <img src="ahttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png" >
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png" >
 </p>
 
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Working 100%](https://youtu.be/pGB89NVwNDg) 
