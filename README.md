@@ -357,7 +357,7 @@ Inicializando
 ### Taito Type x
 
 <p align="center">
-    <img src="hhttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/mahjong.png" >
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/mahjong.png" >
 </p>
 
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
