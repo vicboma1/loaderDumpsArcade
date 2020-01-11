@@ -353,13 +353,13 @@ Inicializando
 ### Taito Type x
 
 <p align="center">
-    <img src="assets/images/logo_mahjong.png" >
+    <img src="hhttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/mahjong.png" >
 </p>
 
 * [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
 
 <p align="center">
-    <img src="assets/images/logo_raiden3.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="350">
 </p>
 
 * [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
@@ -372,7 +372,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_raiden4.png" align="center" height="150" width="450">
+    <img src="ahttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
 </p>
 
 * [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Intro gameplay](https://youtu.be/byBMfUstYLY) 
@@ -385,7 +385,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_homura.png" align="center" height="100" width="300">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/homura.png" align="center" height="100" width="300">
 </p>
 
 * [Homura (ほむら) Arcade (2005) | Working 100% ](https://youtu.be/ZulUZrCqbTM)
@@ -398,7 +398,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_chaosBreaker.jpg" align="center" height="125" width="300">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.jpg" align="center" height="125" width="300">
 </p>
 
 * [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
@@ -408,7 +408,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_gigawings.png" align="center" height="125" width="300">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/gigawings.png" align="center" height="125" width="300">
 </p>
 
 * [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
@@ -419,14 +419,14 @@ Inicializando
 
 
 <p align="center">
-    <img src="assets/images/logo_TGM3.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/TGM3.png" align="center" height="200" width="350">
 </p>
 
 * [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005)](https://youtu.be/7vc35kFPJvY)
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/TGM3.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/log_spica.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spica.png" align="center" height="200" width="350">
 </p>
 
 * [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
@@ -438,7 +438,7 @@ Inicializando
 ### Taito Type x2
 
 <p align="center">
-    <img src="assets/images/logo_troublewitches.png" align="center" height="150" width="400">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
 </p>
 
 
@@ -459,7 +459,7 @@ Inicializando
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
 <p align="center">
-    <img src="assets/images/logo_rastan.png" >
+    <img src="ahttps://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png" >
 </p>
 
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Working 100%](https://youtu.be/pGB89NVwNDg) 
@@ -469,7 +469,7 @@ Inicializando
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/RastanSagaI.gif" width="800" height="480" />
 
 <p align="center">
-    <img src="assets/images/logo_elevator.png" align="center" height="150" width="400">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
 </p>
 
 * [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Windowed Hack](https://youtu.be/dPL_xJyc9C8) 
