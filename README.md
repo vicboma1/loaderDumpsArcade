@@ -229,8 +229,10 @@ Twitter : https://twitter.com/vicboma1
    
 * Input Tool to map output file *.bin
 
-  ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/keyInputMappingAsyncV2.gif)
-  
+<p align="center">
+    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/keyInputMappingAsyncV2.gif">
+</p>
+
   
 ## JVS I/O Emulation
 
@@ -345,8 +347,10 @@ Inicializando
 ##  GUI
 
 * scratch (Pof with vs2010) (wip)
-   
-   ![](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif">
+</p>
   
 ## Systems/Games Loaders (wip)
 
@@ -483,6 +487,7 @@ Inicializando
 
 </p>
 
+
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
 </p>
@@ -491,9 +496,11 @@ Inicializando
 	
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="280" height="250" />
 
+
 <img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" wwidth="280" height="250"  />
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" width="280" height="250" />
 
 </p>
 
