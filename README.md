@@ -362,27 +362,29 @@ Inicializando
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="350">
 </p>
 
-* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Working 100%](https://www.youtube.com/watch?v=L5Bl5P3vHvo)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="800" height="480" />
+<p align="center">
+	
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="280" height="250" />
 
-* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Filters in Runtime | Working 100%](https://youtu.be/wKgiJ981Utw) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="280" height="250" />
 
-* [Raiden III (雷電III, Raiden Surī) Arcade (2005) | Creating a voxel Hack which cancels the inner toplights for the main sprite | Working 100%](https://youtu.be/1fW33Jc9ZZ8) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="280" height="250"/>
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
 </p>
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Intro gameplay](https://youtu.be/byBMfUstYLY) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_intro_60_.gif" width="800" height="480" />
+<p align="center">
+	
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_intro_60_.gif" width="280" height="250" />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Working 100% | 60 fps](https://youtu.be/WWz7wMm-rPA) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
 
-* [Raiden IV (雷電IV Raiden Fō) Arcade (2007) | Alpha Blending | 60 fps](https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/homura.png" align="center" height="100" width="300">
