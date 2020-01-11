@@ -390,71 +390,82 @@ Inicializando
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/homura.png" align="center" height="100" width="300">
 </p>
 
-* [Homura (ほむら) Arcade (2005) | Working 100% ](https://youtu.be/ZulUZrCqbTM)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraL1.gif" width="800" height="480" />
+<p align="center">
+	
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraL1.gif" width="280" height="250" />
 
-* [Homura (ほむら) Arcade (2005) | Stretch Rendered | Working 100% ](https://youtu.be/ZulUZrCqbTM)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
 
-* [Homura (ほむら) Arcade (2005) | Invert Color Texture | Working 100% ](https://youtu.be/Yj7jjW3M0xc)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="280" height="250"  />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.png" align="center" height="125" width="300">
 </p>
 
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Windowed HD](https://youtu.be/y-PWoBVzcZU)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_HD.gif" width="800" height="480" />
+<p align="center">
 
-* [Chaos Breaker (カオスブレイカー) Arcade (2004) - Taito Type X | Invert Color](https://youtu.be/heXYJ6bYnkM)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_HD.gif" width="280" height="250"  />
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="280" height="250"  />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/gigawings.png" align="center" height="125" width="300">
 </p>
 
-* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Windowed Mode](https://youtu.be/C3unm3GpX-Q)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg3.gif" width="800" height="480" />
+<p align="center">
 
-* [Giga wing Generation (翼神ギガウイング ジェネレーションズ) Arcade (2004) - Taito Type X | Working 100%](https://youtu.be/qh9ARTth-NA)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg4.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg3.gif" width="280" height="250" />
 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg4.gif" width="280" height="250"  />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/TGM3.png" align="center" height="200" width="350">
 </p>
 
-* [Tetris The Grand Master 3 Terror Instinct / TGM3 (の認定モードに挑戦のムービー) Arcade (2005)](https://youtu.be/7vc35kFPJvY)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/TGM3.gif" width="800" height="480" />
+<p align="center">
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/TGM3.gif" width="280" height="250"  />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spica.png" align="center" height="200" width="350">
 </p>
 
-* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Windowed Mode](https://youtu.be/0atLTgOaOIk )
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureArcade.gif" width="800" height="480" />
+<p align="center">
 
-* [Spica Adventure (スピカアドベンチャー) - Arcade (2005) | Fullscreen Mode](https://youtu.be/VxmwMzMFHwY )
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureBoss.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureArcade.gif" width="280" height="250"  />
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureBoss.gif" width="280" height="250"  />
+
+</p>
 
 ### Taito Type x2
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
 </p>
+<p align="center">
 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="280" height="250" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Working 100%](https://youtu.be/d0Eo7ataLvg)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="280" height="250" />
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008)| Hack Hidden Background | Working 100%](https://youtu.be/ZytAryfM6Y0)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="800" height="480" />
+</p>
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Rendered entities without alpha | Working 100%](https://www.youtube.com/watch?v=hwjk6pUyw8g)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="800" height="480" />
+<p align="center">
 
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) | Stretch Rendered | Working 100%](https://www.youtube.com/watch?v=WdVXEIHrdOE)
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="280" height="250"  />
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="280" height="250" />
+
+</p>
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
@@ -464,25 +475,27 @@ Inicializando
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png" >
 </p>
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Working 100%](https://youtu.be/pGB89NVwNDg) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="800" height="480" />
+<p align="center">
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/RastanSagaI.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="280" height="250" />
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/RastanSagaI.gif" width="280" height="250" />
+
+</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
 </p>
 
-* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Windowed Hack](https://youtu.be/dPL_xJyc9C8) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="800" height="480" />
+<p align="center">
+	
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="280" height="250" />
 
-* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Fullscreen Hack](https://youtu.be/aPLpg5CJqGY )
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="280" height="250" />
 
-* [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Invert Color](https://youtu.be/FAi624hILlI) 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" width="800" height="480" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" wwidth="280" height="250"  />
 
+</p>
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
