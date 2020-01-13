@@ -101,7 +101,8 @@ Twitter : https://twitter.com/vicboma1
    ```
    
 ## Inputs
-
+* Taito Type
+* NESICAxLive
 
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
