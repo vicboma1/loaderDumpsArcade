@@ -659,6 +659,7 @@ SUM:                          1222          45372          93902         470675
  * [Kernel Native](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/index.htm)
  * [C++ : Gestión de memoria con std::unique_ptr (Smart Pointers)](https://www.youtube.com/watch?v=MSk__71a41Q)
  * [Game System Requirements](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Documentation/Games)
+ * [FAST I/O PCB](https://wiki.arcadeotaku.com/w/JVS#Taito_Fast_I.2FO_PCB)
  
 # About
 
