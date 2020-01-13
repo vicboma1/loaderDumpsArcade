@@ -37,7 +37,7 @@ Twitter : https://twitter.com/vicboma1
   * Addressing
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-### [JVS I/O Emulation](https://github.com/vicboma1/loaderDumpsArcade#jvs-io-emulation-1)
+### [Emulators](https://github.com/vicboma1/loaderDumpsArcade#emulators-1)
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
@@ -235,10 +235,12 @@ Twitter : https://twitter.com/vicboma1
 </p>
 
   
-## JVS I/O Emulation
+## Emulators
+
+### JVS I/O 
 
 ### [OpCodes](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Protocol/JVS/JVSEnums.h)
-#### Semantic Trace
+#### Semantic Trace for Taito Type
 ```
 Inicializando
 	Logger: 2019-06-07_00-48-04-LoggerJvs.log 
@@ -296,6 +298,7 @@ Inicializando
 	[02] = 
 	Envío    6 bytes... -> [ XXXXXXXXXXX ]
 ```
+### [Fast I/O - WIP ](https://github.com/vicboma1/loaderDumpsArcade/issues/79)
 
 ## Graphics
  * Color Inverting per-stage texture processing
