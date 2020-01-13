@@ -38,6 +38,8 @@ Twitter : https://twitter.com/vicboma1
 
 ### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
 ### [Emulators](https://github.com/vicboma1/loaderDumpsArcade#emulators-1)
+* [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
+* [FAST I/O](https://github.com/vicboma1/loaderDumpsArcade#fast-io)
 ### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
 ### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
@@ -298,7 +300,7 @@ Inicializando
 	[02] = 
 	Envío    6 bytes... -> [ XXXXXXXXXXX ]
 ```
-### [Fast I/O - WIP ](https://github.com/vicboma1/loaderDumpsArcade/issues/79)
+### [Fast I/O](https://github.com/vicboma1/loaderDumpsArcade/issues/79)
 
 ## Graphics
  * Color Inverting per-stage texture processing
