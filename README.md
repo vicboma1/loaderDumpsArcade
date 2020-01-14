@@ -32,6 +32,7 @@ Twitter : https://twitter.com/vicboma1
   * [D3D9Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9DeviceHook.h)
   * [Opengl32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#opengl)
   * [Glu32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#glu)
+  * [iDmacDrv32]()
   
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
   * Addressing
@@ -512,7 +513,9 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4 ) 
+* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Hooking iDmacDrv32](https://youtu.be/sZzW9e6lu0M)
+* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Fast-io Error](https://youtu.be/8ZXGqbU1aSY)
+* [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
 * [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/FAi624hILlI)
 * [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Fullscreen Hack](https://youtu.be/aPLpg5CJqGY)
 * [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Windowed Hack](https://youtu.be/dPL_xJyc9C8)
