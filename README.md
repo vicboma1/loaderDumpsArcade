@@ -47,7 +47,7 @@ Twitter : https://twitter.com/vicboma1
 ### [Display](https://github.com/vicboma1/loaderDumpsArcade#display-1)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 ### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
-### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui)
+### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui-deprecated)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
@@ -350,7 +350,7 @@ Inicializando
  * Hidden
  * Animation
 
-##  GUI
+##  GUI - deprecated
 
 * scratch (Pof with vs2010) (wip)
 
