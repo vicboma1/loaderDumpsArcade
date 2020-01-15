@@ -301,7 +301,7 @@ Inicializando
 	[02] = 
 	Envío    6 bytes... -> [ XXXXXXXXXXX ]
 ```
-### [Fast I/O](https://github.com/vicboma1/loaderDumpsArcade/issues/79)
+### [Fast I/O](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
 
 ## Graphics
  * Color Inverting per-stage texture processing
