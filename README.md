@@ -57,6 +57,7 @@ Twitter : https://twitter.com/vicboma1
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 ### [Highlights](https://github.com/vicboma1/loaderDumpsArcade#highlights-1)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
+### [Miscelanea Projects](https://github.com/vicboma1/loaderDumpsArcade#miscelanea-projects-1)
 ### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
 
 
@@ -665,6 +666,10 @@ SUM:                          1222          45372          93902         470675
  * [C++ : Gestión de memoria con std::unique_ptr (Smart Pointers)](https://www.youtube.com/watch?v=MSk__71a41Q)
  * [Game System Requirements](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Documentation/Games)
  * [FAST I/O PCB](https://wiki.arcadeotaku.com/w/JVS#Taito_Fast_I.2FO_PCB)
+
+# Miscelanea projects
+* [hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
+* [iDmacDrv dll](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
  
 # About
 
