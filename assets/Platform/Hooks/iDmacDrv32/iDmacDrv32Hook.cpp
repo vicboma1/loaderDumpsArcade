@@ -146,7 +146,7 @@ int __cdecl Hook_iDmacDrvMemoryReadExt(int a1, DWORD BytesReturned, int a3, LPVO
 	return res;
 }
 
-int __cdecl Hook_iDmacDrvMemoryWriteExt(int a1, int a2, int a3, LPVOID Src, rsize_t DstSize, LPVOID lp) {
+int __cdecl _H_iDmacDrvMemoryWriteExt(int a1, int a2, int a3, LPVOID Src, rsize_t DstSize, LPVOID lp) {
 	LOG_NL_HOOK_FASTIO();
 	loggerFastIO("    (a1: %d | a2: %d | a3: %d | Src: %08X | DstSize: %u | lp:  %08X )  -->  %08X\n", a1, a2, a3, Src, DstSize, lp, 0);
 
@@ -158,7 +158,7 @@ int __cdecl Hook_iDmacDrvMemoryWriteExt(int a1, int a2, int a3, LPVOID Src, rsiz
 	return res;
 }
 
-int __cdecl Hook_iDmacDrvMemoryBufferRead(int a1, DWORD BytesReturned, LPVOID lp, UINT_PTR ucb, LPVOID a5) {
+int __cdecl _H_iDmacDrvMemoryBufferRead(int a1, DWORD BytesReturned, LPVOID lp, UINT_PTR ucb, LPVOID a5) {
 
 	LOG_NL_HOOK_FASTIO();
 	loggerFastIO("    (a1: %d | BytesReturned: %d | lp: %08X | ucb: %08X | a5: %08X )  -->  %08X\n", a1, BytesReturned, lp, ucb, a5, 0);
@@ -171,7 +171,7 @@ int __cdecl Hook_iDmacDrvMemoryBufferRead(int a1, DWORD BytesReturned, LPVOID lp
 	return res;
 }
 
-int __cdecl Hook_iDmacDrvMemoryBufferWrite(int a1, int a2, LPVOID lp, UINT_PTR ucb, LPVOID a5) {
+int __cdecl _H_iDmacDrvMemoryBufferWrite(int a1, int a2, LPVOID lp, UINT_PTR ucb, LPVOID a5) {
 
 	LOG_NL_HOOK_FASTIO();
 	loggerFastIO("    (a1: %d | a2: %d | lp: %08X | ucb: %08X | a5: %08X )  -->  %08X\n", a1, a2, lp, ucb, a5, 0);
