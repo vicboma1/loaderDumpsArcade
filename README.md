@@ -65,13 +65,13 @@ Twitter : https://twitter.com/vicboma1
 ## Systems
  
  ### Taito Type x
-    ```
+ ```
     Year : 2005
     CPU : Celeron - Pentium 4
     Chipset: Intel 865G
     GPU: ATI Radeon 9600SE/9600XT(128 MB) / X700PRO (256 MB), Bahia AGP 2.0/3.0 Soporte 1x/4x/8x
     SO: Windows XP Embedded
-    ```
+ ```
     
 ### Taito Type x2
   ```
