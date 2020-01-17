@@ -527,8 +527,8 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* NESICAxLive - Hooking iDmacDrv32 iDmacDrvRegisterRead | PCB FAST I/O
-* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Hooking iDmacDrv32](https://youtu.be/sZzW9e6lu0M)
+* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive - Hooking iDmacDrvRegisterRead | PCB FAST I/O](https://youtu.be/_sfDGUkdqjs)
+* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Hooking iDmacDrv32Open | PCB FAST I/O](https://youtu.be/sZzW9e6lu0M)
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Fast-io Error](https://youtu.be/8ZXGqbU1aSY)
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
 * [Elevator Action (エレベーターアクション) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/FAi624hILlI)
