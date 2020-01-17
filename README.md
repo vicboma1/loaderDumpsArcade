@@ -512,8 +512,22 @@ Inicializando
 
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spaceInvaders.png" align="center" height="150" width="400">
+</p>
+
+<p align="center">
+	<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="280" height="250" />
+</p>
+
+<p align="center">
+	<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spaceInvadersBreak.jpg" width="280" height="250" />
+</p>
+
+
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* NESICAxLive - Hooking iDmacDrv32 iDmacDrvRegisterRead | PCB FAST I/O
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Hooking iDmacDrv32](https://youtu.be/sZzW9e6lu0M)
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Fast-io Error](https://youtu.be/8ZXGqbU1aSY)
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Invert Color ](https://youtu.be/cBHUyZpkjb4) 
