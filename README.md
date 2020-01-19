@@ -516,14 +516,14 @@ Inicializando
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spaceInvaders.png" align="center" height="150" width="400">
 </p>
 
-<p align="center">
-	<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/wip.jpg" width="280" height="250" />
-</p>
+<hr>
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" height="250" />
-</p>
+<img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" 
 
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spaceInvaders.gif" width="280" height="250" />
+	
+</p>
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
