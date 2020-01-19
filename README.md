@@ -495,7 +495,6 @@ Inicializando
 
 </p>
 
-
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
 </p>
@@ -516,12 +515,10 @@ Inicializando
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spaceInvaders.png" align="center" height="150" width="400">
 </p>
 
-<hr>
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" 
+<img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spaceInvaders.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/SpaceInvaders.gif" width="280" height="250" />
 	
 </p>
 
