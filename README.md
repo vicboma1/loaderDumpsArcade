@@ -527,6 +527,7 @@ Inicializando
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive | Windowed Hack](https://youtu.be/nV8hnL5wIkM)
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive - iDmacDrv32 | PCB FAST I/O Buttons Board Test](https://youtu.be/5DMMDt6eaik)
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive - Hooking iDmacDrv32 | PCB FAST I/O Coin Error](https://youtu.be/bxspBGE5lIU)
 * [Space Invader (スペースインベーダー) Arcade (2012) NESICAxLive - Hooking iDmacDrvRegisterRead | PCB FAST I/O](https://youtu.be/_sfDGUkdqjs)
