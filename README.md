@@ -744,7 +744,7 @@ SUM:                          1222          45372          93902         470675
 
 # Highlights
  * [Retrogaming: Una misión posible en sistemas Arcade de nueva generación - Retropolis 2019](https://www.inf.upv.es/www/etsinf/es/retropolis-valencia-2019-regresa-el-sabado-4-de-mayo-a-etsinf/)
- * [Podcast Taberna Nintendera - T02E16 - 037 - Programa 12_05_2019](https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/audio/vlc-record-2019-12-25-22h03m56s-Taberna-Nintendera-T02E16-037-Programa-12_05_2019-.mp3)
+ * [Podcast Taberna Nintendera - T02E16 - 037 - Programa 12_05_2019](https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade-media/master/Assets/Audio/vlc-record-2019-12-25-22h03m56s-Taberna-Nintendera-T02E16-037-Programa-12_05_2019-.mp3)
  
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
@@ -752,9 +752,9 @@ SUM:                          1222          45372          93902         470675
  * [JVS protocols](https://wiki.arcadeotaku.com/w/JVS)
  * [Jamma Video Standard](http://daifukkat.su/files/jvs_wip.pdf)
  * [Naomi I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
- * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade-media/raw/master/assets/pdf/NVControlPanel_API.pdf)
+ * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Pdf/NVControlPanel_API.pdf)
  * [JVS](http://superusr.free.fr/arcade/JVS/JVST_VER3.pdf)
- * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade-media/raw/master/assets/pdf/JVSR.pdf)
+ * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Pdf/JVSR.pdf)
  * [I/O Board](https://github.com/reicast/reicast-emulator/blob/master/core/hw/maple/maple_devs.cpp)
  * [Input Keys](http://www.flint.jp/misc/?q=dik&lang=en)
  * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
