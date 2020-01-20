@@ -385,7 +385,7 @@ Leyendo datos
 ...
 
 Cerrando conexion
-	Hook_iDmacDrvClose			(deviceId: 1 | access: 0FF20034)
+	Hook_iDmacDrvClose			(deviceId: 1 | access: 004E4BDC) -> You can only close game with Test Mode  
 
 ```
 
