@@ -442,7 +442,7 @@ Cerrando conexion
 * scratch (Pof with vs2010) (wip)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade-media/master/assets/images/GUI_v.0.0.1.gif">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/GUI_v.0.0.1.gif">
 </p>
   
 ## Systems/Games Loaders (wip)
