@@ -304,6 +304,90 @@ Inicializando
 ```
 ### [Fast I/O](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
 
+```
+Inicializando
+	Logger: 2020-01-19_14-50-21-LoggerFAST-io.log 
+
+Abriendo conexion
+	Hook_iDmacDrvOpen[_in_]			(deviceId: 1 | outBuffer: 00000000 | flags: 00000000)
+	Hook_iDmacDrvOpen[_out_]		(deviceId: 1 | outBuffer: 00000001 | flags: FFFFFFFF)
+
+............................
+
+Leyendo datos
+	Hook_iDmacDrvRegisterRead
+		Discovery [0x400]
+		XXXXXXXXX [0x4000] ?
+		XXXXXXXXX [0x4004] ?
+		XXXXXXXXX [0x4000] ?
+	
+	
+............................
+
+** FOR:
+
+Escribiendo datos
+	Hook_iDmacDrvRegisterWrite
+		XXXXXXXXX [0x4000] ?
+		
+............................
+
+Leyendo datos
+	Hook_iDmacDrvRegisterRead
+		XXXXXXXXX [0x4004] ?
+		
+............................
+
+Escribiendo datos
+	Hook_iDmacDrvRegisterWrite
+		XXXXXXXXX [0x4004] ?
+		
+............................
+		
+Leyendo datos
+	Hook_iDmacDrvRegisterRead
+		Input Key P1 - P2 [0x4120]
+		XXXXXXXXX         [0x4124] ?
+		XXXXXXXXX         [0x4128] ?
+		XXXXXXXXX         [0x412C] ?
+		XXXXXXXXX         [0x41A0] ?
+		XXXXXXXXX         [0x41A4] ?
+		XXXXXXXXX         [0x41A8] ?
+		XXXXXXXXX         [0x41AC] ?
+
+............................	
+
+Escribiendo datos
+	Hook_iDmacDrvRegisterWrite
+		XXXXXXXX          [0x4100] ?
+		XXXXXXXX          [0x4104] ?
+		XXXXXXXX          [0x4108] ?
+		XXXXXXXX          [0x410C] ?
+		Coin Input P1 	  [0x4140]
+		Coin Input P2 	  [0x4144]
+		XXXXXXXX          [0x4180] ?
+		XXXXXXXX          [0x4184] ?
+		XXXXXXXX          [0x4188] ?
+		XXXXXXXX          [0x418C] ?
+
+............................
+		
+Leyendo datos
+	Hook_iDmacDrvRegisterRead
+		Coin Input P1 	 [0x4140]
+		Coin Input P2 	 [0x4144]
+		Coin Input P2 	 [0x4144]
+                XXXXXXXX         [0x41C0] ?
+                XXXXXXXX         [0x41C4] ?
+** FOR
+
+...
+
+Cerrando conexion
+	Hook_iDmacDrvClose			(deviceId: 1 | access: 0FF20034)
+
+```
+
 ## Graphics
  * Color Inverting per-stage texture processing
  * No filter stretch
