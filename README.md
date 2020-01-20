@@ -303,6 +303,7 @@ Inicializando
 	Envío    6 bytes... -> [ XXXXXXXXXXX ]
 ```
 ### [Fast I/O](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
+#### Semantic Trace for NESICAxLive
 
 ```
 Inicializando
