@@ -235,7 +235,7 @@ Twitter : https://twitter.com/vicboma1
 * Input Tool to map output file *.bin
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/keyInputMappingAsyncV2.gif">
+    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade-media/master/assets/images/keyInputMappingAsyncV2.gif">
 </p>
 
   
@@ -442,7 +442,7 @@ Cerrando conexion
 * scratch (Pof with vs2010) (wip)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade/master/assets/images/GUI_v.0.0.1.gif">
+    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade-media/master/assets/images/GUI_v.0.0.1.gif">
 </p>
   
 ## Systems/Games Loaders (wip)
@@ -461,11 +461,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden3_3.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/raiden3_3.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/raiden32.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/raiden32.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden3_Light_60_.gif" width="280" height="250"/>
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden3_Light_60_.gif" width="280" height="250"/>
 
 </p>
 
@@ -475,11 +475,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_intro_60_.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_intro_60_.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
 
 </p>
 
@@ -489,11 +489,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/homuraL1.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/homuraL1.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/HL1_invert.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/HL1_invert.gif" width="280" height="250"  />
 
 </p>
 
@@ -503,9 +503,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_HD.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/CB_HD.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/CB_I.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/CB_I.gif" width="280" height="250"  />
 
 </p>
 
@@ -515,9 +515,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg3.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/gwg3.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/gwg4.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/gwg4.gif" width="280" height="250"  />
 
 </p>
 
@@ -527,7 +527,7 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/TGM3.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/TGM3.gif" width="280" height="250"  />
 
 </p>
 
@@ -537,9 +537,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureArcade.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/spicaAdventureArcade.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/spicaAdventureBoss.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/spicaAdventureBoss.gif" width="280" height="250"  />
 
 </p>
 
@@ -550,17 +550,17 @@ Cerrando conexion
 </p>
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/troubleWitches5.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/troubleWitches5.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujasHack2_600.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/brujasHack2_600.gif" width="280" height="250" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/_h2_hd.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/_h2_hd.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/brujas2hachstretch.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/brujas2hachstretch.gif" width="280" height="250" />
 
 </p>
 
@@ -574,9 +574,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/rastanSagattx.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/rastanSagattx.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/RastanSagaI.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/RastanSagaI.gif" width="280" height="250" />
 
 </p>
 
@@ -586,13 +586,13 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoraction.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoraction.gif" width="280" height="250" />
 
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionF.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoractionF.gif" width="280" height="250" />
 
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/elevatoractionI.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoractionI.gif" width="280" height="250" />
 
 </p>
 
@@ -603,7 +603,7 @@ Cerrando conexion
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/images/SpaceInvaders.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/SpaceInvaders.gif" width="280" height="250" />
 	
 </p>
 
@@ -744,7 +744,7 @@ SUM:                          1222          45372          93902         470675
 
 # Highlights
  * [Retrogaming: Una misión posible en sistemas Arcade de nueva generación - Retropolis 2019](https://www.inf.upv.es/www/etsinf/es/retropolis-valencia-2019-regresa-el-sabado-4-de-mayo-a-etsinf/)
- * [Podcast Taberna Nintendera - T02E16 - 037 - Programa 12_05_2019](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/audio/vlc-record-2019-12-25-22h03m56s-Taberna-Nintendera-T02E16-037-Programa-12_05_2019-.mp3)
+ * [Podcast Taberna Nintendera - T02E16 - 037 - Programa 12_05_2019](https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/audio/vlc-record-2019-12-25-22h03m56s-Taberna-Nintendera-T02E16-037-Programa-12_05_2019-.mp3)
  
 # References
  * [JVS vs JAMMA](http://forum.arcadecontrols.com/index.php?topic=95942.0)
@@ -752,9 +752,9 @@ SUM:                          1222          45372          93902         470675
  * [JVS protocols](https://wiki.arcadeotaku.com/w/JVS)
  * [Jamma Video Standard](http://daifukkat.su/files/jvs_wip.pdf)
  * [Naomi I/O Board](https://wiki.arcadeotaku.com/images/d/db/Capcom_io_jp_manual.pdf)
- * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/NVControlPanel_API.pdf)
+ * [Manual Programmer NV API ](https://github.com/vicboma1/loaderDumpsArcade-media/raw/master/assets/pdf/NVControlPanel_API.pdf)
  * [JVS](http://superusr.free.fr/arcade/JVS/JVST_VER3.pdf)
- * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade/raw/master/assets/images/JVSR.pdf)
+ * [JVS Original](https://github.com/vicboma1/loaderDumpsArcade-media/raw/master/assets/pdf/JVSR.pdf)
  * [I/O Board](https://github.com/reicast/reicast-emulator/blob/master/core/hw/maple/maple_devs.cpp)
  * [Input Keys](http://www.flint.jp/misc/?q=dik&lang=en)
  * [Cloc](https://es.osdn.net/projects/sfnet_cloc/)
