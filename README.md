@@ -768,7 +768,8 @@ SUM:                          1222          45372          93902         470675
  * [FAST I/O PCB](https://wiki.arcadeotaku.com/w/JVS#Taito_Fast_I.2FO_PCB)
 
 # Miscelanea projects
-* [hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
+* [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
+* [Animations](https://github.com/vicboma1/loaderDumpsArcade-media)
 * [iDmacDrv dll](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
  
 # About
