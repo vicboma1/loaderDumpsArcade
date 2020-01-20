@@ -235,7 +235,7 @@ Twitter : https://twitter.com/vicboma1
 * Input Tool to map output file *.bin
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/vicboma1/loaderDumpsArcade-media/master/assets/images/keyInputMappingAsyncV2.gif">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/keyInputMappingAsyncV2.gif">
 </p>
 
   
