@@ -461,11 +461,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/raiden3_3.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/raiden3_3.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/raiden32.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/raiden32.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden3_Light_60_.gif" width="280" height="250"/>
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden3_Light_60_.gif" width="280" height="250"/>
 
 </p>
 
@@ -475,11 +475,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_intro_60_.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_intro_60_.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
 
 </p>
 
@@ -489,11 +489,11 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/homuraL1.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/homuraL1.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/HL1_invert.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/HL1_invert.gif" width="280" height="250"  />
 
 </p>
 
@@ -503,9 +503,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/CB_HD.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/CB_HD.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/CB_I.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/CB_I.gif" width="280" height="250"  />
 
 </p>
 
@@ -515,9 +515,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/gwg3.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/gwg3.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/gwg4.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/gwg4.gif" width="280" height="250"  />
 
 </p>
 
@@ -527,7 +527,7 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/TGM3.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/TGM3.gif" width="280" height="250"  />
 
 </p>
 
@@ -537,9 +537,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/spicaAdventureArcade.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/spicaAdventureArcade.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/spicaAdventureBoss.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/spicaAdventureBoss.gif" width="280" height="250"  />
 
 </p>
 
@@ -550,17 +550,17 @@ Cerrando conexion
 </p>
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/troubleWitches5.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/troubleWitches5.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/brujasHack2_600.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/brujasHack2_600.gif" width="280" height="250" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/_h2_hd.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/_h2_hd.gif" width="280" height="250"  />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/brujas2hachstretch.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/brujas2hachstretch.gif" width="280" height="250" />
 
 </p>
 
@@ -574,9 +574,9 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/rastanSagattx.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/rastanSagattx.gif" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/RastanSagaI.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/RastanSagaI.gif" width="280" height="250" />
 
 </p>
 
@@ -586,13 +586,13 @@ Cerrando conexion
 
 <p align="center">
 	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoraction.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoraction.gif" width="280" height="250" />
 
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoractionF.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionF.gif" width="280" height="250" />
 
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/elevatoractionI.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionI.gif" width="280" height="250" />
 
 </p>
 
@@ -603,7 +603,7 @@ Cerrando conexion
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" height="250" />
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/assets/images/SpaceInvaders.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/SpaceInvaders.gif" width="280" height="250" />
 	
 </p>
 
