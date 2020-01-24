@@ -609,6 +609,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Rotation & Windowed Hack](https://youtu.be/ibgZqxGOmFw)
 * [Space Invaders (スペースインベーダー) Arcade (2012) NESICAxLive | Fullscreen](https://youtu.be/3elK8CwSkEU )
 * [Space Invaders (スペースインベーダー) Arcade (2012) NESICAxLive | Windowed Hack](https://youtu.be/nV8hnL5wIkM)
 * [Space Invaders (スペースインベーダー) Arcade (2012) NESICAxLive - iDmacDrv32 | PCB FAST I/O Buttons Board Test](https://youtu.be/5DMMDt6eaik)
