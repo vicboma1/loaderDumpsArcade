@@ -543,6 +543,16 @@ Cerrando conexion
 
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
+</p>
+
+<p align="center">
+
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/tree/master/Assets/Images/wip.jpg" width="280" height="250"  />
+
+</p>
+
 ### Taito Type x2
 
 <p align="center">
