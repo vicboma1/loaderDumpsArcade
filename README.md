@@ -619,6 +619,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/iOz2-JD8HD4 )
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Improve FPS](https://youtu.be/k1O7kFDUB1I)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Rotation & Windowed Hack](https://youtu.be/ibgZqxGOmFw)
 * [Space Invaders (スペースインベーダー) Arcade (2012) NESICAxLive | Fullscreen](https://youtu.be/3elK8CwSkEU )
