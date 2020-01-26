@@ -579,7 +579,7 @@ Cerrando conexion
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
 </p>
 <p align="center">
-	
+	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_1.gif" width="280" height="250" />
 </p>
 
 ### NesicaxLive
