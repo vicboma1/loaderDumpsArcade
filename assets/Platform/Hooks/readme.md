@@ -59,18 +59,6 @@
 | timeEndPeriod   | Winmm.dll |
 | joyGetNumDevs | Winmm.dll |
 
-# OpenGL
-
-| Name | Library |   
-| :-------: | :------: |
-| wglSwapBuffers   | opengl32.dll|
-| glViewport   | opengl32.dll |
-| glScissor   | opengl32.dll |
-| glFrustum   | opengl32.dll |
-| glOrtho   | opengl32.dll |
-| glMatrixMode | opengl32.dll |
-| glLoadIdentity | opengl32.dll |
-
 # GLU
 
 | Name | Library |   
