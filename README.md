@@ -30,7 +30,7 @@ Twitter : https://twitter.com/vicboma1
   * [D3D9](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9Hook.h)
   * [D3D9ex](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3Dx9/D3Dx9Hook.h)
   * [D3D9Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9DeviceHook.h)
-  * [Opengl32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#opengl)
+  * [Opengl32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/Opengl32/Opengl32Hook.h)
   * [Glu32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#glu)
   * [iDmacDrv32](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Platform/Hooks/iDmacDrv32)
   
@@ -575,6 +575,13 @@ Cerrando conexion
 
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
+</p>
+<p align="center">
+	
+</p>
+
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
@@ -620,6 +627,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/WqaUZi32vf8)
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Intro](https://youtu.be/4bKgXXouCKE)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/WqaUZi32vf8)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Improve FPS](https://youtu.be/k1O7kFDUB1I)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Rotation & Windowed Hack](https://youtu.be/ibgZqxGOmFw)
@@ -783,7 +792,7 @@ SUM:                          1222          45372          93902         470675
 
 # Miscelanea projects
 * [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
-* [Animations](https://github.com/vicboma1/loaderDumpsArcade-media)
+* [Media](https://github.com/vicboma1/loaderDumpsArcade-media)
 * [iDmacDrv dll](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
  
 # About
