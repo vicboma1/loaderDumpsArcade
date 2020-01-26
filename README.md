@@ -549,7 +549,7 @@ Cerrando conexion
 
 <p align="center">
 
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/shiki.gif" width="280" height="250"  />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/shiki_1.gif" width="280" height="250"  />
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/shikij.gif" width="280" height="250"  />
 
 </p>
