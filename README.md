@@ -627,7 +627,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/WqaUZi32vf8)
+* [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Stage 1 & 2](https://youtu.be/-c7bPdWcch8 )
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Intro](https://youtu.be/4bKgXXouCKE)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/WqaUZi32vf8)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Improve FPS](https://youtu.be/k1O7kFDUB1I)
