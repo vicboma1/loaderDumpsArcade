@@ -627,6 +627,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Deathbringer](https://youtu.be/9HuA1mD2umM)
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Ves](https://youtu.be/ou8_gpZTXyg)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Stage 1 & 2](https://youtu.be/-c7bPdWcch8 )
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Intro](https://youtu.be/4bKgXXouCKE)
 * [Shikigami no Shiro III (式神の城III) Arcade (2006) - Taito Type X | Invert Color](https://youtu.be/WqaUZi32vf8)
@@ -806,7 +808,7 @@ This software is provided as-is, and is licensed under the MIT License.
 ```
 MIT License
 
-Copyright (c) 2019 Victor Bolinches
+Copyright (c) 2020 Victor Bolinches
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
