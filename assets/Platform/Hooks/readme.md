@@ -54,6 +54,7 @@
 | WriteFileEx   | kernel32.dll |
 | WriteFileGather   | kernel32.dll |
 | UnlockFileEx   | kernel32.dll |
+| GETOEMCP   | kernel32.dll |
 | timeGetTime   | Winmm.dll |
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
