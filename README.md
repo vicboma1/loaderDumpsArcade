@@ -637,6 +637,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Windowed Hack 60 FPS](https://youtu.be/hzsVMu0YPVk)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Deathbringer 2](https://youtu.be/LlRxCArEw9I )
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Deathbringer](https://youtu.be/9HuA1mD2umM)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Ves](https://youtu.be/ou8_gpZTXyg)
