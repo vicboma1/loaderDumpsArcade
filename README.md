@@ -584,6 +584,14 @@ Cerrando conexion
 	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_3.gif" width="280" height="250" />
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
+</p>
+<p align="center">
+
+</p>
+
+
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
