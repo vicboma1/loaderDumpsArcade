@@ -581,6 +581,7 @@ Cerrando conexion
 </p>
 <p align="center">
 	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_1.gif" width="280" height="250" />
+	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_3.gif" width="280" height="250" />
 </p>
 
 ### NesicaxLive
