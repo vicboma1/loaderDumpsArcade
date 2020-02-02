@@ -588,7 +588,7 @@ Cerrando conexion
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
 </p>
 <p align="center">
-
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/power_1.gif" width="280" height="250" />
 </p>
 
 
