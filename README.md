@@ -589,6 +589,8 @@ Cerrando conexion
 </p>
 <p align="center">
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/power1.gif" width="280" height="250" />
+<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/power2.gif" width="280" height="250" />
+
 </p>
 
 
@@ -603,7 +605,6 @@ Cerrando conexion
 <p align="center">
 
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/rastanSagattx.gif" width="280" height="250" />
-
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/RastanSagaI.gif" width="280" height="250" />
 
 </p>
@@ -615,11 +616,7 @@ Cerrando conexion
 <p align="center">
 	
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoraction.gif" width="280" height="250" />
-
-
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionF.gif" width="280" height="250" />
-
-
 <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionI.gif" width="280" height="250" />
 
 </p>
@@ -637,6 +634,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Fullscreen 60 FPS](https://youtu.be/OpKtf31Aj28)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Windowed Hack 60 FPS](https://youtu.be/hzsVMu0YPVk)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Deathbringer 2](https://youtu.be/LlRxCArEw9I )
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Taito Type x2 | Hack Scaling Players - Deathbringer](https://youtu.be/9HuA1mD2umM)
