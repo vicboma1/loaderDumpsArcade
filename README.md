@@ -32,7 +32,7 @@ Twitter : https://twitter.com/vicboma1
   * [D3D9ex](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3Dx9/D3Dx9Hook.h)
   * [D3D9Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D9/D3D9DeviceHook.h)
   * [Opengl32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/Opengl32/Opengl32Hook.h)
-  * [Glu32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#glu)
+  * [Glu32](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/glu32/glu32Hook.h)
   * [iDmacDrv32](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Platform/Hooks/iDmacDrv32)
   
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
