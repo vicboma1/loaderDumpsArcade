@@ -6,11 +6,6 @@
 //Tetris
 extern HWND TGM3_;
 
-//https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluPerspective.xml
-typedef void(__stdcall *LPgluPerspective)(double fovy, double aspect, double zNear, double zFar);
-static LPgluPerspective __gluPerspective = NULL;
-void __stdcall _H_gluPerspective(double fovy, double aspect, double zNear, double zFar);
-
 //https://docs.microsoft.com/es-es/windows/win32/opengl/glloadidentity
 typedef void(__stdcall *LPglLoadIdentity)(void);
 static LPglLoadIdentity __glLoadIdentity = NULL;
@@ -51,24 +46,9 @@ typedef void(__stdcall *LPglFrustum)(double left, double right, double bottom, d
 static LPglFrustum __glFrustum = NULL;
 void __stdcall _H_glFrustum(double left, double right, double bottom, double top, double nearVal, double farVal);
 
-//https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/gluOrtho2D.xml
-typedef void(__stdcall *LPgluOrtho2D)(double left, double right, double bottom, double top);
-static LPgluOrtho2D __gluOrtho2D = NULL;
-void __stdcall _H_gluOrtho2D(double left, double right, double bottom, double top);
-
 //https://www.khronos.org/registry/OpenGL-Refpages/gl2.1/xhtml/glOrtho.xml
 typedef void(__stdcall *LPglOrtho)(double left, double right, double bottom, double top, double nearVal, double farVal);
 static LPglOrtho __glOrtho = NULL;
 void __stdcall _H_glOrtho(double left, double right, double bottom, double top, double nearVal, double farVal);
-
-//https://www.opengl.org/resources/libraries/glut/spec3/node11.html
-typedef void(__stdcall *LPglutInitWindowSize)(int width, int height);
-static LPglutInitWindowSize __glutInitWindowSize = NULL;
-void __stdcall _H_glutInitWindowSize(int width, int height);
-
-//https://www.opengl.org/resources/libraries/glut/spec3/node11.html
-typedef void(__stdcall *LPglutReshapeWindow)(int width, int height);
-static LPglutReshapeWindow __glutReshapeWindow = NULL;
-void __stdcall _H_glutReshapeWindow(int width, int height);
 
 #endif
