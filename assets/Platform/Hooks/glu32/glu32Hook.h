@@ -1,4 +1,4 @@
-#ifdef _OPENGL_32_
+#ifdef __OPENGL_32_
 
 #ifndef _GLU_32_CREATE_H_
 #define _GLU_32_CREATE_H_
@@ -26,3 +26,5 @@
 	void __stdcall _H_glutReshapeWindow(int width, int height);
 
 #endif
+#endif
+
