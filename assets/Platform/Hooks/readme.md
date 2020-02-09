@@ -59,12 +59,3 @@
 | timeBeginPeriod   | Winmm.dll |
 | timeEndPeriod   | Winmm.dll |
 | joyGetNumDevs | Winmm.dll |
-
-# GLU
-
-| Name | Library |   
-| :-------: | :------: |
-| gluOrtho2D   | glu32.dll|
-| glutReshapeWindow   | glu32.dll |
-| glutInitWindowSize   | glu32.dll |
-| gluPerspective | glu32.dll|
