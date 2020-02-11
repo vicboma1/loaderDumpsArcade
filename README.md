@@ -461,27 +461,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/raiden3_3.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/raiden32.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden3_Light_60_.gif" width="280" height="250"/>
-
-</p>
-
-<p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
-</p>
-
-<p align="center">
-	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_intro_60_.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_gameplay_60_fps2.gif" width="280" height="250"  />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Raiden4_alpha_60_fps.gif" width="280" height="250"  />
-
 </p>
 
 <p align="center">
@@ -489,25 +469,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/homuraL1.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/ezgif-1-5a6971de372c.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/HL1_invert.gif" width="280" height="250"  />
-
-</p>
-
-<p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.png" align="center" height="125" width="300">
-</p>
-
-<p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/CB_HD.gif" width="280" height="250"  />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/CB_I.gif" width="280" height="250"  />
-
 </p>
 
 <p align="center">
@@ -515,21 +477,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/gwg3.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/gwg4.gif" width="280" height="250"  />
-
-</p>
-
-<p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/TGM3.png" align="center" height="200" width="350">
-</p>
-
-<p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/TGM3.gif" width="280" height="250"  />
-
 </p>
 
 <p align="center">
@@ -537,22 +485,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/spicaAdventureArcade.gif" width="280" height="250"  />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/spicaAdventureBoss.gif" width="280" height="250"  />
-
-</p>
-
-<p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
-</p>
-
-<p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/shiki_1.gif" width="280" height="250"  />
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/shikij.gif" width="280" height="250"  />
-
 </p>
 
 ### Taito Type x2
@@ -560,38 +493,13 @@ Cerrando conexion
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
 </p>
-<p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/troubleWitches5.gif" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/brujasHack2_600.gif" width="280" height="250" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/_h2_hd.gif" width="280" height="250"  />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/brujas2hachstretch.gif" width="280" height="250" />
-
-</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
 </p>
-<p align="center">
-	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_1.gif" width="280" height="250" />
-	<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/battle_3.gif" width="280" height="250" />
-</p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
-</p>
-<p align="center">
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/power1.gif" width="280" height="250" />
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/power2.gif" width="280" height="250" />
-
-</p>
 
 
 ### NesicaxLive
@@ -603,33 +511,13 @@ Cerrando conexion
 </p>
 
 <p align="center">
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/rastanSagattx.gif" width="280" height="250" />
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/RastanSagaI.gif" width="280" height="250" />
-
-</p>
-
-<p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
-</p>
-
-<p align="center">
-	
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoraction.gif" width="280" height="250" />
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionF.gif" width="280" height="250" />
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/elevatoractionI.gif" width="280" height="250" />
-
 </p>
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spaceInvaders.png" align="center" height="150" width="400">
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/3646388/72228553-f1289280-35a7-11ea-9447-34f34cea131c.png" width="280" height="250" />
-
-<img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/SpaceInvaders.gif" width="280" height="250" />
-	
 </p>
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
