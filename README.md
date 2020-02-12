@@ -1,5 +1,12 @@
 # Loader Dumps Arcade (wip)
 
+
+
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" >	
+</p>
+
+
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
 Twitter : https://twitter.com/vicboma1
 
