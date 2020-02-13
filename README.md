@@ -529,7 +529,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Testing Game](https://youtu.be/3WdATEJz5RM)
+* [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Elizabeth](https://youtu.be/OptTII5ETQM)
+* [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Ume](https://youtu.be/3WdATEJz5RM)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Invert Color](https://youtu.be/Jh9hDvHNlpo)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Fullscreen 60 FPS](https://youtu.be/OpKtf31Aj28)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Windowed Hack 60 FPS](https://youtu.be/hzsVMu0YPVk)
