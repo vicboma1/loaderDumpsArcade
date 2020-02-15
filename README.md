@@ -404,10 +404,13 @@ Cerrando conexion
  * Primitives to render
  * Rendered entities without alpha
  * Filters in runtime
- * Reverse pixel mode in runtime / Nearest-Point
+ * Reverse pixel mode in runtime / Nearest-Point Sampling
  * Diffuse CyberPunk Lights
  * Spot Light Type
- * Anisotropic Filter
+ * Linear Filter (LF)
+ * Bilinear Filter (BF)
+ * Anisotropic Filter (AF)
+ 
 
 ## Sound
  * Sound Create
