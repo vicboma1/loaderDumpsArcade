@@ -437,6 +437,28 @@ Cerrando conexion
  * Fullscreen (Windowed Magnifier)
  * Fullscreen Native
  
+## Resolutions
+ * 1:1  
+ * 2:1  
+ * 3:2  
+ * 3:4  
+ * 4:1  
+ * 4:3  
+ * 5:3  
+ * 5:4  
+ * 6:5  
+ * 7:9  
+ * 8:3  
+ * 8:7  
+ * 9:16 
+ * 16:9 
+ * 16:10
+ * 16:15
+ * 19:12
+ * 19:14
+ * 30:17
+ * 32:9
+
 ## Rotation Display
  * 0°
  * 90°
@@ -532,6 +554,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Aspect ratio / Resolutions screen](https://youtu.be/fLIUy_9Eqv4)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Elizabeth](https://youtu.be/OptTII5ETQM)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Ume](https://youtu.be/3WdATEJz5RM)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Invert Color](https://youtu.be/Jh9hDvHNlpo)
