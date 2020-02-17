@@ -21,7 +21,27 @@
 # WINDOWED_ROTATION_90
 # WINDOWED_ROTATION_180
 # WINDOWED_ROTATION_270
-######################################
+# FULLSCREEN_1_1  
+# FULLSCREEN_2_1  
+# FULLSCREEN_3_2  
+# FULLSCREEN_3_4  
+# FULLSCREEN_4_1  
+# FULLSCREEN_4_3  
+# FULLSCREEN_5_3  
+# FULLSCREEN_5_4  
+# FULLSCREEN_6_5  
+# FULLSCREEN_7_9  
+# FULLSCREEN_8_3  
+# FULLSCREEN_8_7  
+# FULLSCREEN_9_16 
+# FULLSCREEN_16_9 
+# FULLSCREEN_16_10
+# FULLSCREEN_16_15
+# FULLSCREEN_19_12
+# FULLSCREEN_19_14
+# FULLSCREEN_30_17
+# FULLSCREEN_32_9 
+# #####################################
 RESOLUTION_DISPLAY = WINDOWED
 
 //File with external configuration
@@ -63,7 +83,6 @@ switch (value) {
     }
     break;
     
-  case  FULLSCREEN_NATIVE :
   case FULLSCREEN_NATIVE :
   case FULLSCREEN :
   case WINDOWED :
