@@ -555,7 +555,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Aspect ratio / Resolutions screen](https://youtu.be/fLIUy_9Eqv4)
+* [Aspect ratio / Resolutions screen](https://youtu.be/-OvNY2MhCZk)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Elizabeth](https://youtu.be/OptTII5ETQM)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Ume](https://youtu.be/3WdATEJz5RM)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Invert Color](https://youtu.be/Jh9hDvHNlpo)
