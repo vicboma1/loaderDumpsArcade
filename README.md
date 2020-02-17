@@ -62,7 +62,7 @@ Twitter : https://twitter.com/vicboma1
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
 * [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
-### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#dev-video-devlist-1)
+### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#video-devlist-1)
 ### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
 ### [Highlights](https://github.com/vicboma1/loaderDumpsArcade#highlights-1)
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
