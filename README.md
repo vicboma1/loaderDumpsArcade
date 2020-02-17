@@ -731,6 +731,7 @@ SUM:                          1222          45372          93902         470675
 * [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
 * [Media](https://github.com/vicboma1/loaderDumpsArcade-media)
 * [iDmacDrv dll](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
+* [Aspect Ratio](https://github.com/vicboma1/AspectRatio)
  
 # About
 
