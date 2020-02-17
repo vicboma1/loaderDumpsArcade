@@ -54,6 +54,7 @@ Twitter : https://twitter.com/vicboma1
 ### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
 ### [Cache Storage](https://github.com/vicboma1/loaderDumpsArcade#cache-storage-1)
 ### [Display](https://github.com/vicboma1/loaderDumpsArcade#display-1)
+### [Resolution](https://github.com/vicboma1/loaderDumpsArcade#resolutions)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 ### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui-deprecated)
