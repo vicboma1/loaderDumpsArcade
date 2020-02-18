@@ -442,16 +442,16 @@ Cerrando conexion
  * 1:1  
  * 2:1  
  * 3:2  
- * 3:4  
+ * 3:4  - Vertical
  * 4:1  
  * 4:3  
  * 5:3  
  * 5:4  
  * 6:5  
- * 7:9  
+ * 7:9  - Vertical 
  * 8:3  
  * 8:7  
- * 9:16 
+ * 9:16 - Vertical
  * 16:9 
  * 16:10
  * 16:15
@@ -555,6 +555,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Homura (ほむら) Arcade (2005) - Taito Type x | Vertical Aspect Ratio supported](https://youtu.be/SglzyFcm6bk)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Aspect Ratio 4:3 Fullscreen vs Native](ttps://youtu.be/_1NjWH6Rrqs)
 * [Aspect ratio / Resolutions screen](https://youtu.be/-OvNY2MhCZk)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Test gaming Elizabeth](https://youtu.be/OptTII5ETQM)
