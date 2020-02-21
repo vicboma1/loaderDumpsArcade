@@ -8,4 +8,4 @@
 | game.exe   |  File | 2892 kb |
 | game.inf   | File | 1 kb |
 | gamediskimg.arc   | File | 658.426 kb |
-| user23Debug.xml   | File | 50 kb |
+| nglu_conf.xml   | File | 50 kb |
