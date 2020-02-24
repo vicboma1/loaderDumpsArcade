@@ -558,8 +558,9 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [The King of Fighters (ザ・キング・オブ・ファイターズ) KOF - Taito Type x2 | Pallete Color Hack](https://youtu.be/GSTtkVnlPE4)
-* [The King of Fighters (ザ・キング・オブ・ファイターズ) KOF - Taito Type x2 | Aspect Ratio supported](https://youtu.be/1pzekpRzckI)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | AlphaBlending](https://youtu.be/8z8KhfNBFCQ)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | Pallete Color Hack](https://youtu.be/GSTtkVnlPE4)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | Aspect Ratio supported](https://youtu.be/1pzekpRzckI)
 * [Homura (ほむら) Arcade (2005) - Taito Type x | Vertical Aspect Ratio supported](https://youtu.be/SglzyFcm6bk)
 * [Power Instinct 5 (豪血寺一族) - Taito Type x2 | Aspect Ratio 4:3 Fullscreen vs Native](https://youtu.be/_1NjWH6Rrqs)
 * [Aspect ratio / Resolutions screen](https://youtu.be/-OvNY2MhCZk)
