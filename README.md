@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/logo2020.png" >	
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Logo_enjoy.PNG" >	
 </p>
 
 
