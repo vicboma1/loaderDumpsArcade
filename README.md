@@ -558,6 +558,10 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 3 60 FPS](https://youtu.be/o7Sts2uB-P4)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 2 60 FPS](https://youtu.be/H09leDaoGLM)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 1 60 FPS](https://youtu.be/70riFjWcJu4)
+* [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Intro 60 FPS](https://youtu.be/VDAGzS8UJ0s)
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | AlphaBlending](https://youtu.be/8z8KhfNBFCQ)
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | Pallete Color Hack](https://youtu.be/GSTtkVnlPE4)
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Taito Type x2 | Aspect Ratio supported](https://youtu.be/1pzekpRzckI)
