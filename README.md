@@ -536,7 +536,7 @@ Cerrando conexion
 	
 <p align="center">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
+    	<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
 	</a>
 </p>
 
@@ -546,11 +546,15 @@ Cerrando conexion
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png" >
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-QQly8X8hIWtDHD1_lBUGw">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/rastan.png">
+	</a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9hRJ2UmgKTI01tEIriyCD-">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/elevator.png" align="center" height="150" width="400">
+		</a>
 </p>
 
 <p align="center">
