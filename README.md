@@ -588,7 +588,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 7 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 8 (Final Boss) - 60 FPS](https://youtu.be/hpIgVSNTEUg)
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 7 - 60 FPS](https://youtu.be/gzJ-9fneu34)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 6 - 60 FPS](https://youtu.be/aZtRrhmTgC4)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 5 - 60 FPS](https://youtu.be/2rEDIqAarFc)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 4 - 60 FPS](https://youtu.be/BqFLdHo6bec)
