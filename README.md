@@ -524,15 +524,22 @@ Cerrando conexion
 ### Taito Type x2
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
+    <a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_68bJP1YUUWKTL_2Jfj9t7">
+	    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
+	</a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9MUaKf3QcwJBXgNWR8Vcng">
+    	<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
+	</a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
+	  <a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8dBFPN-_DH0c8JctqD6s8C">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
+	</a>
+</p>
 	
 <p align="center">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
@@ -565,6 +572,13 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 7 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 6 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 5 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 4 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 3 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 2 - 60 FPS]()
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 1 - 60 FPS]()
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 3 60 FPS](https://youtu.be/o7Sts2uB-P4)
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 2 60 FPS](https://youtu.be/H09leDaoGLM)
 * [The King of Fighters XII (ザ・キング・オブ・ファイターズ) KOF XII - Loader Dumps Arcade - Match 1 60 FPS](https://youtu.be/70riFjWcJu4)
