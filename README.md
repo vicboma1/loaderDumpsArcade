@@ -514,19 +514,27 @@ Cerrando conexion
 </p>
 
 <p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_iBnAJoRheIDmQn_edrRJz">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/gigawings.png" align="center" height="125" width="300">
+	</a>
 </p>
 
 <p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8KqNXWie2QK_E4OFFsFQ7Q">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/TGM3.png" align="center" height="200" width="350">
+	</a>
 </p>
 
 <p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8n-p_6HdNnTemI0n9FdjY2">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spica.png" align="center" height="200" width="350">
+	</a>
 </p>
 
 <p align="center">
+	<a href="https://www.youtube.com/watch?v=ibgZqxGOmFw&list=PLNph7ndeSqE_rKEF6IdmXWIqwDTDmsEO_">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
+	</a>
 </p>
 
 ### Taito Type x2
