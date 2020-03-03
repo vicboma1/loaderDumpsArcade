@@ -459,6 +459,10 @@ Cerrando conexion
  * 19:14
  * 30:17
  * 32:9
+ 
+ <p align="center">
+    <img src="https://github.com/vicboma1/AspectRatio/blob/master/aspectRatio.gif">
+</p>
 
 ## Rotation Display
  * 0°
