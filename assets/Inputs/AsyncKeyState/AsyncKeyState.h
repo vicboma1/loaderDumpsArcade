@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 
-static map<std::string, int> mapString2VK_Code = {
+static unordered_map<std::string, int> mapString2VK_Code = {
 {"BACKSPACE"	  ,8},
 {"TAB"	          ,9},
 {"CLEAR"   	  ,12},
