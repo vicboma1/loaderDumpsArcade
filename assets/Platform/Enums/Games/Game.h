@@ -43,7 +43,7 @@ public:
 
 private:
 
-	map<string, CONFIG_GAME_ENUM>  mapStringEnum = {
+	unordered_map<string, CONFIG_GAME_ENUM>  mapStringEnum = {
 	   { CONFIG_GAME_ENUM_STRING[0], HOMURA},
 	   { CONFIG_GAME_ENUM_STRING[1], RAIDEN_III},
 	   { CONFIG_GAME_ENUM_STRING[2], RAIDEN_IV},
