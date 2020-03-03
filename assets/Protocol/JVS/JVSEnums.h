@@ -5,7 +5,7 @@
 
 #pragma once
 
-map<DWORD, const char*> opCodes = {
+unordered_map<DWORD, const char*> opCodes = {
 	{0x00, "Machine Reset (TTXRESET)"},
 	{0x01, "Watchdog Kick (TTXWDTKICKA)"},
 	{0x02, "Unk02(TTXUNK2) - Unknown 02"},
