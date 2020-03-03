@@ -35,7 +35,7 @@ public:
 
 private:
 
-	map<string, CONFIG_SAMPLER_ENUM>  mapStringEnum = {
+	unordered_map<string, CONFIG_SAMPLER_ENUM>  mapStringEnum = {
 	   { CONFIG_SAMPLER_ENUM_STRING[0], LINEAR},
 	   { CONFIG_SAMPLER_ENUM_STRING[1], POINTER},
 	   { CONFIG_SAMPLER_ENUM_STRING[2], ANISOTROPICO},
