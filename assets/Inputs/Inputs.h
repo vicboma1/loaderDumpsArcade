@@ -71,13 +71,13 @@ public:
 
 private:
 
-	map<std::string, INPUT_CONFIG_ENUM>  mapStringEnumInput = {
+	unordered_map<std::string, INPUT_CONFIG_ENUM>  mapStringEnumInput = {
 	   {INPUT_CONFIG_ENUM_STRING[0],  INPUT_ASYNC_KEY_STATE},
 	   {INPUT_CONFIG_ENUM_STRING[1],  INPUT_DIRECT}
 	};
 
 /*
-	map<std::string, INPUT_MANAGER_ENUM>  mapStringEnumInput = {
+	unordered_map<std::string, INPUT_MANAGER_ENUM>  mapStringEnumInput = {
 	   {INPUT_MANAGER_ENUM_STRING[0],  P1_START},
 	   {INPUT_MANAGER_ENUM_STRING[1],  P1_COIN},
 	   {INPUT_MANAGER_ENUM_STRING[2],  P1_SERVICE},
