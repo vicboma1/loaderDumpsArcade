@@ -32,7 +32,7 @@ private:
 
 	CONFIG_ARCADE_BOARD_ENUM _enum;
 
-	map<string, CONFIG_ARCADE_BOARD_ENUM>  mapStringEnum = {
+	unordered_map<string, CONFIG_ARCADE_BOARD_ENUM>  mapStringEnum = {
 	   { CONFIG_ARCADE_BOARD_ENUM_STRING[0], NONE},
 	   { CONFIG_ARCADE_BOARD_ENUM_STRING[1], TAITO},
 	   { CONFIG_ARCADE_BOARD_ENUM_STRING[2], NESICA}
