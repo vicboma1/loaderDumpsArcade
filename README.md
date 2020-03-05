@@ -791,10 +791,13 @@ SUM:                          1222          45372          93902         470675
 
 Loader Dump Arcade is programmed by vicboma1, all this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time.
 
-My development environment is a poor Macbook 2015 
+Development environment
+```
+Poor Macbook 2015 
 Bootcamp Native - Windows 8
 Intel hd graphics 4500
 8gb RAM 
+```
 
 Twitter : https://twitter.com/vicboma1.
 
