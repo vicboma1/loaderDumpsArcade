@@ -432,6 +432,12 @@ Cerrando conexion
  * hiscore.dat
  * game.dat
  
+## Monitor
+ * Clone
+ * Extends
+ * Monitor_1
+ * Monitor_2
+
 ## Display
  * Windowed
  * Windowed Center
@@ -475,14 +481,6 @@ Cerrando conexion
  * Hidden
  * Animation
 
-##  GUI - deprecated
-
-* scratch (Pof with vs2010) (wip)
-
-<p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/GUI_v.0.0.1.gif">
-</p>
-  
 ## Systems/Games Loaders (wip)
 
 ### Taito Type x
