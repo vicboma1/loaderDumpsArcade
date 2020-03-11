@@ -593,8 +593,8 @@ Cerrando conexion
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 * [Loader Dumps Arcade - POC Display 2 control](https://youtu.be/MBm4v4XLjDI )
-* [Loader Dumps Arcade - POC clone monitors](https://youtu.be/Dc41ZHXmIUU )
-* [Loader Dumps Arcade - POC extend display](https://youtu.be/_MOKVRrHO4I )
+* [Loader Dumps Arcade - POC clone monitors](https://youtu.be/46r7MMFhwCA)
+* [Loader Dumps Arcade - POC extend display](https://youtu.be/_MOKVRrHO4I)
 * [Loader Dumps Arcade - Splash v.0.0.7](https://youtu.be/Dc41ZHXmIUU)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 8 (Final Boss) - 60 FPS](https://youtu.be/hpIgVSNTEUg)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia - Loader Dumps Arcade | Match 7 - 60 FPS](https://youtu.be/gzJ-9fneu34)
