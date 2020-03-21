@@ -432,7 +432,7 @@ Cerrando conexion
  * hiscore.dat
  * game.dat
  
-## Monitor
+## Monitor w/restoring config
  * Clone
  * Extends
  * Monitor_1
