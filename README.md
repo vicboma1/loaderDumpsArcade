@@ -561,7 +561,7 @@ Cerrando conexion
 	
 <p align="center">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
-    	<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
 	</a>
 </p>
 
@@ -586,10 +586,16 @@ Cerrando conexion
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE95TSxsXRqrCn3X00aXDHzq">
     		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spaceInvaders.png" align="center" height="150" width="400">
 	</a>
+	
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_DRqbiDCbdwEcrdMz05sRp">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Daemon_Bride.png" align="center" height="150" width="400">
+	</a>
 </p>
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Daemon Bride (デモンブライドが ) NESICAxLive - Windowed Crush | WIP ](https://youtu.be/FyjAED-J5g4)
 * [Loader Dumps Arcade - POC Display 2 control](https://youtu.be/MBm4v4XLjDI )
 * [Loader Dumps Arcade - POC clone monitors](https://youtu.be/46r7MMFhwCA)
 * [Loader Dumps Arcade - POC extend display](https://youtu.be/_MOKVRrHO4I)
