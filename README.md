@@ -595,7 +595,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Daemon Bride (デモンブライドが ) NESICAxLive - Windowed Crash | WIP ](https://youtu.be/FyjAED-J5g4)
+* [Daemon Bride (デモンブライドが ) Additional Gain - NESICAxLive | Decode Video Fixing ](https://www.youtube.com/watch?v=87pvpMQG-OE)
+* [Daemon Bride (デモンブライドが ) Additional Gain - NESICAxLive | Windowed Crash | WIP ](https://youtu.be/FyjAED-J5g4)
 * [Loader Dumps Arcade - POC Display 2 control](https://youtu.be/MBm4v4XLjDI )
 * [Loader Dumps Arcade - POC clone monitors](https://youtu.be/46r7MMFhwCA)
 * [Loader Dumps Arcade - POC extend display](https://youtu.be/_MOKVRrHO4I)
