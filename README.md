@@ -803,7 +803,8 @@ SUM:                          1222          45372          93902         470675
 # Miscelanea projects
 * [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
 * [Media](https://github.com/vicboma1/loaderDumpsArcade-media)
-* [iDmacDrv dll](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
+* [iDmacDrv32 dll using declspec(dllexport)](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
+* [iDmacDrv32 dll using a .def file ](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv32)
 * [Aspect Ratio](https://github.com/vicboma1/AspectRatio)
  
 # About
