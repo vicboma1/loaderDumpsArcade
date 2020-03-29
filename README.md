@@ -571,6 +571,12 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8E6TqqwW-CK-cHi9iD82jj">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/blazBlueCalamityTrigger.png" align="center" height="190" width="410">
+	</a>
+</p>
+
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
