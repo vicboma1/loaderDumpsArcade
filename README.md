@@ -607,6 +607,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [BlazBlue: Calamity Trigger (ブレイブルー カラミティ トリガー BureiBurū: Karamiti Torigā) - Opening extract](https://youtu.be/rnPiaAqiDyg)
 * [BlazBlue: Calamity Trigger (ブレイブルー カラミティ トリガー BureiBurū: Karamiti Torigā) - Filter crash](https://youtu.be/xgyfWPhVoQ4)
 * [BlazBlue: Calamity Trigger (ブレイブルー カラミティ トリガー BureiBurū: Karamiti Torigā) - Opening](https://youtu.be/LfO7W-eIv0g)
 * [Daemon Bride (デモンブライドが ) Additional Gain - NESICAxLive - 60FPS (Cut)](https://youtu.be/b3Vzcen4N5s)
