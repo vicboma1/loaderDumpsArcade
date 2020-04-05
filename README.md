@@ -808,6 +808,7 @@ SUM:                          1222          45372          93902         470675
  * [C++ : Gestión de memoria con std::unique_ptr (Smart Pointers)](https://www.youtube.com/watch?v=MSk__71a41Q)
  * [Game System Requirements](https://github.com/vicboma1/loaderDumpsArcade/tree/master/assets/Documentation/Games)
  * [FAST I/O PCB](https://wiki.arcadeotaku.com/w/JVS#Taito_Fast_I.2FO_PCB)
+ * [Texture shader](http://people.scs.carleton.ca/~nussbaum/courses/COMP3501/notes/texture_shader_oct_2012_%5Bv1%5D.pdf)
 
 # Miscelanea projects
 * [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
