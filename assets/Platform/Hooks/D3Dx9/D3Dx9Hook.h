@@ -3,9 +3,9 @@
 #include "stdafx.h"
 
 //https://docs.microsoft.com/en-us/windows/win32/direct3d9/d3dxcreateeffectpool
-typedef HRESULT(__stdcall *LPD3DXCreateTexture)(_In_  LPDIRECT3DDEVICE9  pDevice, _In_  UINT Width,		_In_  UINT Height, _In_  UINT MipLevels, _In_  DWORD Usage, _In_  D3DFORMAT Format, _In_  D3DPOOL Pool, _Out_ LPDIRECT3DTEXTURE9 *ppTexture);
+typedef HRESULT(__stdcall *LPD3DXCreateTexture)(_In_  LPDIRECT3DDEVICE9  pDevice, _In_  UINT Width, _In_  UINT Height, _In_  UINT MipLevels, _In_  DWORD Usage, _In_  D3DFORMAT Format, _In_  D3DPOOL Pool, _Out_ LPDIRECT3DTEXTURE9 *ppTexture);
 extern LPD3DXCreateTexture __D3DXCreateTexture;
-HRESULT __stdcall Hook_D3DXCreateTexture(_In_  LPDIRECT3DDEVICE9  pDevice, _In_  UINT Width,		_In_  UINT Height, _In_  UINT MipLevels, _In_  DWORD Usage, _In_  D3DFORMAT Format, _In_  D3DPOOL Pool, _Out_ LPDIRECT3DTEXTURE9 *ppTexture);
+HRESULT __stdcall Hook_D3DXCreateTexture(_In_  LPDIRECT3DDEVICE9  pDevice, _In_  UINT Width, _In_  UINT Height, _In_  UINT MipLevels, _In_  DWORD Usage, _In_  D3DFORMAT Format, _In_  D3DPOOL Pool, _Out_ LPDIRECT3DTEXTURE9 *ppTexture);
 
 //https://docs.microsoft.com/en-us/windows/win32/direct3d9/d3dxcreateeffectpool
 typedef HRESULT(__stdcall *LPD3DXCreateEffectPool)(_Out_ LPD3DXEFFECTPOOL *ppPool);
