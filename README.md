@@ -608,6 +608,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [PAUSE - Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive ](https://youtu.be/7njpUYxvA9A)
 * [TAB-Menu - Runtime hacking colors - Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive ](https://youtu.be/bemTj-6xaOM)
 * [TAB-Menu - Attached to the game](https://youtu.be/Q2gBQQ_LG8A)
 * [TAB-Menu - Read properties & save state](https://youtu.be/JcbgNjZyYm0)
