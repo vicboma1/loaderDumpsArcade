@@ -57,7 +57,8 @@ Twitter : https://twitter.com/vicboma1
 ### [Aspect Ratio](https://github.com/vicboma1/loaderDumpsArcade#aspect-ratio-1)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 ### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
-### Tab-Menu
+### Tab-Menu (wip)
+### Pause (wip)
 ### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui-deprecated)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
