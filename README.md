@@ -609,6 +609,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Tab-Menu - Dynamic resolution at runtime -Power Instinct 5 (豪血寺一族) - Taito Type x2](https://youtu.be/4Bs5j_4fmJs)
 * [PAUSE - Power Instinct 5 (豪血寺一族) - Taito Type x2](https://youtu.be/HsS9YMp80h0)
 * [PAUSE - Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive ](https://youtu.be/7njpUYxvA9A)
 * [TAB-Menu - Runtime hacking colors - Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive ](https://youtu.be/bemTj-6xaOM)
