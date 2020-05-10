@@ -57,9 +57,8 @@ Twitter : https://twitter.com/vicboma1
 ### [Aspect Ratio](https://github.com/vicboma1/loaderDumpsArcade#aspect-ratio-1)
 ### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
 ### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
-### Tab-Menu (wip)
-### Pause (wip)
-### [GUI](https://github.com/vicboma1/loaderDumpsArcade#gui-deprecated)
+### [Tab-Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
+### [Pause Mode](https://github.com/vicboma1/loaderDumpsArcade#pause-mode-1)
 ### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
 * [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
 * [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
@@ -482,6 +481,16 @@ Cerrando conexion
  * Show
  * Hidden
  * Animation
+
+## Tab-Menu
+ * Controller
+ * Menu
+ * Video
+ * System
+ 
+## Pause Mode
+ * Classic
+ * Blur Effect w/fullscreen
 
 ## Systems/Games Loaders (wip)
 
