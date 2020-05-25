@@ -589,7 +589,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-	<a href="">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
     		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
 	</a>
 </p>
@@ -623,6 +623,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Opening](https://youtu.be/4Tv4k1ZFHTg)
 * [BlazBlue Calamity Trigger (ブレイブルー カラミティトリガー) 50 FPS - Pause with Blur Effect](https://youtu.be/5_DdWPy4eHI)
 * [Tab-Menu - Dynamic resolution at runtime -Power Instinct 5 (豪血寺一族) - Taito Type x2](https://youtu.be/4Bs5j_4fmJs)
 * [PAUSE - Power Instinct 5 (豪血寺一族) - Taito Type x2](https://youtu.be/HsS9YMp80h0)
