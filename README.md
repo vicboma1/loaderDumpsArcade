@@ -590,8 +590,7 @@ Cerrando conexion
 
 <p align="center">
 	<a href="">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png
-" align="center" height="290" width="410">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
 	</a>
 </p>
 
