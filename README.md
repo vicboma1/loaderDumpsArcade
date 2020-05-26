@@ -9,6 +9,7 @@
 
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
 Twitter : https://twitter.com/vicboma1
+Youtube : https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g
 
 ## Table of Contents (wip)
 
@@ -859,7 +860,8 @@ Intel hd graphics 4500
 8gb RAM 
 ```
 
-Twitter : https://twitter.com/vicboma1.
+Twitter : https://twitter.com/vicboma1
+Youtube : https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g
 
 This software is provided as-is, and is licensed under the MIT License. 
 
