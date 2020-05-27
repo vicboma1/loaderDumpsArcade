@@ -1,4 +1,4 @@
-# Loader Dumps Arcade (wip)
+# Loader Dumps Arcade Emulator (wip)
 
 
 
@@ -625,7 +625,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering](https://youtu.be/uDd40VfvTOI)
+* [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering 2/2](https://youtu.be/SBJlCJrxPWw)
+* [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering 1/2](https://youtu.be/uDd40VfvTOI)
 * [BlazBlue Calamity Trigger (ブレイブルー カラミティトリガー) 60 FPS](https://youtu.be/0laS8oTC5us)
 * [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Opening](https://youtu.be/4Tv4k1ZFHTg)
 * [BlazBlue Calamity Trigger (ブレイブルー カラミティトリガー) 50 FPS - Pause with Blur Effect](https://youtu.be/5_DdWPy4eHI)
