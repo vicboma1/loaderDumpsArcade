@@ -850,7 +850,8 @@ SUM:                          1222          45372          93902         470675
 * [iDmacDrv32 dll using a .def file ](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv32)
 * [Aspect Ratio](https://github.com/vicboma1/AspectRatio)
 * [Tab-Menu](https://www.youtube.com/playlist?list=PLNph7ndeSqE82NCav6F22SzIFj5JHrR3y)
- 
+* [Fix vcruntime100.dll | win10](https://github.com/vicboma1/loaderDumpsArcade-solved-problem-vcruntime100)
+
 # About
 
 Loader Dump Arcade is programmed by vicboma1, all this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time.
