@@ -623,6 +623,13 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Arcana%20Heart%202%20v2.1.png" align="center" height="180" width="400">
+	</a>
+</p>
+
+
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
 * [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering 2/2](https://youtu.be/SBJlCJrxPWw)
