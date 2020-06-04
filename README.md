@@ -624,7 +624,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-	<a href="">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_5a6V99rFRM7gajjiUr5Dr">
     		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Arcana%20Heart%202%20v2.1.png" align="center" height="180" width="400">
 	</a>
 </p>
@@ -632,6 +632,10 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 2/2](https://youtu.be/8fTbs_wUI_A)
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 1/2](https://youtu.be/zuE2VsxjFfY)
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Openning](https://youtu.be/qq-VWwVyAY0)
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive - Windowed Mode & Test Board](https://youtu.be/42PYSOeSo2I)
 * [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering 2/2](https://youtu.be/SBJlCJrxPWw)
 * [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) - Disable Texture Filtering 1/2](https://youtu.be/uDd40VfvTOI)
 * [BlazBlue Calamity Trigger (ブレイブルー カラミティトリガー) 60 FPS](https://youtu.be/0laS8oTC5us)
