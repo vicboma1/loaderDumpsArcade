@@ -183,3 +183,11 @@ int __stdcall _H_iDmacDrvMemoryBufferWrite(int a1, int a2, LPVOID lp, UINT_PTR u
 
 	return res;
 }
+
+int __stdcall _H_iDmacDrvProgramDownload() {
+	LOG_NL_HOOK_FASTIO();
+	auto res = __iDmacDrvProgramDownload();
+	LOG_NL_HOOK_FASTIO();
+	loggerFastIO("*** (result)  -->  %08X\n", res);
+	return res;
+}
