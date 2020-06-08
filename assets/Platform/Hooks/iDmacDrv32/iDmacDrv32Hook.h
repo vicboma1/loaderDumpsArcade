@@ -55,3 +55,7 @@ int __stdcall _H_iDmacDrvMemoryWrite(int a1, DWORD BytesReturned, int a3, LPVOID
 typedef int(__stdcall *LPiDmacDrvMemoryRead)(int a1, DWORD BytesReturned, LPVOID lp, LPVOID a4);
 static LPiDmacDrvMemoryRead __iDmacDrvMemoryRead = NULL;
 int __stdcall _H_iDmacDrvMemoryRead(int a1, DWORD BytesReturned, LPVOID lp, LPVOID a4);
+
+typedef int(__stdcall *LPiDmacDrvProgramDownload)();
+static LPiDmacDrvProgramDownload __iDmacDrvProgramDownload = NULL;
+int __stdcall _H_iDmacDrvProgramDownload();
