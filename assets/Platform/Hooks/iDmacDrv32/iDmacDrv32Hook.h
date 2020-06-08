@@ -56,6 +56,6 @@ typedef int(__stdcall *LPiDmacDrvMemoryRead)(int a1, DWORD BytesReturned, LPVOID
 static LPiDmacDrvMemoryRead __iDmacDrvMemoryRead = NULL;
 int __stdcall _H_iDmacDrvMemoryRead(int a1, DWORD BytesReturned, LPVOID lp, LPVOID a4);
 
-typedef int(__stdcall *LPiDmacDrvProgramDownload)();
+typedef int(__stdcall* LPiDmacDrvProgramDownload)(int a1, void* lp, LPVOID res);
 static LPiDmacDrvProgramDownload __iDmacDrvProgramDownload = NULL;
-int __stdcall _H_iDmacDrvProgramDownload();
+int __stdcall _H__iDmacDrvProgramDownload(int deviceId, void* lp, LPVOID res);
