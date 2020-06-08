@@ -469,10 +469,6 @@ Cerrando conexion
  * 30:17
  * 32:9
  
- <p align="center">
-    <img src="https://github.com/vicboma1/AspectRatio/blob/master/aspectRatio.gif">
-</p>
-
 ## Rotation Display
  * 0°
  * 90°
@@ -632,6 +628,9 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 3/3](https://youtu.be/V5Px5lRriyc)
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 2/3](https://youtu.be/F88-EXPSLtg)
+* [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 1/3](https://youtu.be/NVCb6SbIvjc)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 2/2](https://youtu.be/8fTbs_wUI_A)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 1/2](https://youtu.be/zuE2VsxjFfY)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Openning](https://youtu.be/qq-VWwVyAY0)
