@@ -14,7 +14,7 @@ Youtube : https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g
 
 ## Table of Contents (wip)
 
-### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#systems-1)
+### [Systems](#systems-1)
 ### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
 
 ### Injections
