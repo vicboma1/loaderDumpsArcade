@@ -628,6 +628,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Blazblue Continuum Shift II (ブレイブルーコンティニュアムシフト) - Opening](https://youtu.be/RI7A6DMUwvo)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 3/3](https://youtu.be/V5Px5lRriyc)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 2/3](https://youtu.be/F88-EXPSLtg)
 * [Arcana Heart 2 (すごい! アルカナハート 2) - NESICAxLive Battle 1/3](https://youtu.be/NVCb6SbIvjc)
