@@ -592,6 +592,13 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/bb22.png" align="center" height="290" width="410">
+	</a>
+</p>
+
+
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
