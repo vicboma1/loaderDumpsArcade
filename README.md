@@ -790,7 +790,7 @@ Cerrando conexion
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Mapping input async](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | JVS I/O Error](https://youtu.be/mXoh5oKt39w)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Speed video](https://youtu.be/yyUQgcxYnqA)
-* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Solved JVS I/O ERROR (00)](https://youtu.be/eEW_f5E4UAw)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 | Solved JVS I/O ERROR (00) ](https://youtu.be/eEW_f5E4UAw)
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Windowed size Optimization](https://youtu.be/7OtyeKExRcU)
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | icon set hwnd](https://youtu.be/Rcl8FS5NELs)
 * [Rastan Saga (ラスタンサーガ) Arcade (2014) - NesicaxLive | Windowed screen](https://youtu.be/PjmyWyBUKKs)
@@ -888,7 +888,7 @@ Youtube : https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g
 
 This software is provided as-is, and is licensed under the MIT License. 
 
-```
+``` 
 MIT License
 
 Copyright (c) 2020 Victor Bolinches
