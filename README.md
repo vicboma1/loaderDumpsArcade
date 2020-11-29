@@ -880,10 +880,21 @@ Loader Dump Arcade is programmed by vicboma1, all this is a homebrew development
 
 Development environment
 ```
-Poor Macbook 2015 
+[2017-XXXX]
+Original TTX Arcade System w/Raiden III
+
+[2017-2019]
+Poor Macbook 2015 - CPU 2.2Ghz
 Bootcamp Native - Windows 8
-Intel hd graphics 4500
-8gb RAM 
+Intel HP Graphics 4500 | 2048MB
+8GB RAM 
+
+[2020-XXXX]
+Dell
+Intel Core i5-7200U 
+CPU 2.5Ghz | 2Cores - 4Nucleos
+Intel HP Graphics 620 | 8141MB
+16GB RAM
 ```
 
 Twitter : https://twitter.com/vicboma1
