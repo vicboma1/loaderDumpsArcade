@@ -636,7 +636,7 @@ Cerrando conexion
 </p>
 
 # Compatibility
-| PLATFORM | NAME | MANUFACTURER | YEAR |  GENRE  |  | Intel HP Graphics 4500 | Intel HP Graphics 620 | ATI HD 4770 | AMD RX 580 |
+| PLATFORM | NAME | MANUFACT | YEAR |  GENRE  |  | Intel HP Graphics 4500 | Intel HP Graphics 620 | ATI HD 4770 | AMD RX 580 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | TTX | Chaos Breaker |    Eolith    | 2004 |  Fighter |  | 45FPS | 60FPS | 60FPS | 60FPS |
 | TTX | Giga Wings Generations |    Takumi Corporation    | 2004 |  SHMUP |  | 50FPS | 60FPS | 60FPS | 60FPS |
