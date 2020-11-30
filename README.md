@@ -635,6 +635,12 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="350">
+	</a>
+</p>
+
 # Compatibility
 | PLATFORM | NAME | MANUFACT | YEAR |  GENRE  |  | Intel HP Graphics 4500 | Intel HP Graphics 620 | ATI HD 4770 | AMD RX 580 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
