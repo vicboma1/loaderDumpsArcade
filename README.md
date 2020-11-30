@@ -654,6 +654,7 @@ Cerrando conexion
 | TTX2 | BlazBlue: Continuum Shift 1 |    Arc System Works    | 2009 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
 | TTX2 | BlazBlue: Continuum Shift 2 |    Arc System Works    | 2010 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
 | TTX2 | Trouble Witches AC |    Taito  | 2008 |  Action |  | 60FPS | 60FPS | 60FPS | 60FPS |
+| NESICAxLive | Raiden III |    MOSS    | 2012 |  SHMUP |  | 60FPS | 60FPS | 60FPS | 60FPS |
 | NESICAxLive | Daemon Bride |    Examu    | 2009 |  Fighter |  | 45FPS | 60FPS | 60FPS | 60FPS |
 | NESICAxLive | Elevator Action |    Taito    | 2014 |  Action |  | 60FPS | 60FPS | 60FPS | 60FPS |
 | NESICAxLive | Arcana Heart 2 v2.1 |    Examu    | 2012 |  Fighter |  | 45FPS | 60FPS | 60FPS | 60FPS |
