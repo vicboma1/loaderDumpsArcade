@@ -241,8 +241,8 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   
   
   Example:
-  	      0x08000001 (JoyButton 01)
-  	      0x08000002 (JoyButton 02)
+  	      0x80000001 (Joy 00 Button 01)
+  	      0x80000002 (Joy 00 Button 02)
 	      ..
   
   Joystick    
