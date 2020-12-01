@@ -120,8 +120,8 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
    ```
    
 ## Inputs
-* Taito Type
-* NESICAxLive
+* Windows Native (GetAsyncKeyState)
+* Direct 
 
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
@@ -168,13 +168,6 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
  TEST_TILT3 = 8
  TEST_MODE = T
  EXIT_CODE = ESC
- ```
- 
- * Manual
- ```
- Need for the taito type x game to read the keyboard input 
- 
- ENUM = Ascii code keyboard
  ```
   
 ### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks) | [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
@@ -224,10 +217,8 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   000000000000006C     00       .     Exit
  ```
   
-* Manual  (Reverse Engineering)
- ```
-  Need for the taito type x game to read the GamePad input
-  
+* GamePad Input (Reverse Engineering)
+ ```  
   Is JOY 		= (n & 0x80000000)
   Is JOY AXIS		= (n & 0x000F0000)
   
