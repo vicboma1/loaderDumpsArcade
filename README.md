@@ -121,8 +121,10 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
    
 ## Inputs
 * Windows Native (GetAsyncKeyState)
-* Direct 
-
+* Direct Input 
+	* DYK
+	* GamePad
+	
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
 #### Example | [File.properties](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Inputs/AsyncKeyState/readme.md)
