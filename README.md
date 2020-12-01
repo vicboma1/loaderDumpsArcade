@@ -242,7 +242,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   
   Example:
   	      0x08000001 (JoyButton 01)
-	      0x08000002 (JoyButton 02)
+  	      0x08000002 (JoyButton 02)
 	      ..
   
   Joystick    
@@ -252,7 +252,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
    0xPP        -    AXIS -> 01 (X+) | 11 (X-) | 02 (Y+) | 12 (Y-) | 03 (Z+) | 13 (Z-) 
    0xZ8YA      -    RANGE
    
-  Example:              |  Joy00   |   -Y    |       -1000       |
+  Example:               |  Joy00   |   -Y    |       -1000       |
   	     0x8012FC18 | 1000 0000 0001 0010 1111 1100 0001 1000 ( Joy00 Axis -Y -1000)  
 	     
 	     		|  Joy01   |   +Y    |       +1000       |
