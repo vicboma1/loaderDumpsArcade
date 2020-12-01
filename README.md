@@ -691,8 +691,10 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [Street Fighter IV  (ストリートファイター IV, Sutorīto Faitā Fō) - Taito Opening](https://www.youtube.com/watch?v=fQ9JScq_FpE)
-* [Street Fighter IV  (ストリートファイター IV, Sutorīto Faitā Fō) - Taito JVS i/o error](https://youtu.be/Yo7XYY4kTAQ)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Curiosidades ](https://www.youtube.com/watch?v=-OONsITXN4Q)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Windowed Mode 60FPS](https://www.youtube.com/watch?v=vWyWDvRfatk)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Taito Opening](https://www.youtube.com/watch?v=fQ9JScq_FpE)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Taito JVS i/o error](https://youtu.be/Yo7XYY4kTAQ)
 * [Hyperspin - The King of Fighters XII (ザ・キング・オブ・ファイターズ) 60 FPS ](https://youtu.be/-ukl0qJDPrE)
 * [Hyperspin - BlazBlue Calamity Trigger (ブレイブルー カラミティトリガー) 50 FPS](https://youtu.be/MTiUMaz4Olc)
 * [Blazblue Continuum Shift II (ブレイブルーコンティニュアムシフト) - Opening](https://youtu.be/RI7A6DMUwvo)
