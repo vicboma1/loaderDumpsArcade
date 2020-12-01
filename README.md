@@ -224,9 +224,9 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   000000000000006C     00       .     Exit
  ```
   
-* Manual 
+* Manual  (Reverse Engineering)
  ```
-  Need for the taito type x game to read the GamePad input (Reverse Engineering)
+  Need for the taito type x game to read the GamePad input
   
   Is JOY 		= (n & 0x80000000)
   Is JOY AXIS		= (n & 0x000F0000)
@@ -234,7 +234,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   Buttons      
   0x800000ZZ          
   
-  0x80
+  0x80        -  JOY Enum [00 - 01 - 02 ... ]
   0x00
   0x00
   0xZZ        -  JoyButton [00 - 01 - 02 - 03 - 04 ...] 
@@ -248,7 +248,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   Joystick    
   0x80PPZ8YA       
   
-   0x8X        -    JOY Enum (00 - 01 - 02 ... )
+   0x8X        -    JOY Enum [00 - 01 - 02 ... ]
    0xPP        -    AXIS -> 01 (X+) | 11 (X-) | 02 (Y+) | 12 (Y-) | 03 (Z+) | 13 (Z-) 
    0xZ8YA      -    RANGE
    
