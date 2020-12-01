@@ -601,6 +601,11 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Street_Fighter_IV.png" align="center" height="270" width="380">
+	</a>
+</p>
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
