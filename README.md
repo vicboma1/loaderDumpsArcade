@@ -226,25 +226,48 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   
 * Manual 
  ```
-  Need for the taito type x game to read the keyboard input 
+  Need for the taito type x game to read the GamePad input (Reverse Engineering)
   
-  Keyboard    -  256 (short)
-  0x000000XX     XX     
-    
-  Joystick    -  X[1|2]   -  Axis[+|-][X|Y|Z]   -  256 (btn)
-  0xZXYA0CMN       ZY     -        YA           -    0CMN      
+  Is JOY 		= (n & 0x80000000)
+  Is JOY AXIS		= (n & 0x000F0000)
   
- 
-  Example
+  Buttons      
+  0x800000ZZ          
+  
+  0x80
+  0x00
+  0x00
+  0xZZ        -  JoyButton [00 - 01 - 02 - 03 - 04 ...] 
+  
+  
+  Example:
+  	      0x08000001 (JoyButton 01)
+	      0x08000002 (JoyButton 02)
+	      ..
+  
+  Joystick    
+  0x80PPZ8YA       
+  
+   0x8X        -    JOY Enum (00 - 01 - 02 ... )
+   0xPP        -    AXIS -> 01 (X+) | 11 (X-) | 02 (Y+) | 12 (Y-) | 03 (Z+) | 13 (Z-) 
+   0xZ8YA      -    RANGE
+   
+  Example:              |  Joy00   |   -Y    |       -1000       |
+  	     0x8012FC18 | 1000 0000 0001 0010 1111 1100 0001 1000 ( Joy00 Axis -Y -1000)  
+	     
+	     		|  Joy01   |   +Y    |       +1000       |
+    	     0x810203E8 | 1000 0001 0000 0010 1111 1100 0011 1000 ( Joy01 Axis +Y +1000)  
+
+ Resume:
  
   [Display address]        [Hexa Code]             [Hexa Code]          [Ascii Code]
-  0000000000000000  02 00 00 00 06 00 00 00  06 00 00 00 C8 00 00 00  ................
+  0000000000000000  18 FC 12 80 06 00 00 00  06 00 00 00 C8 00 00 00  ................
   0000000000000010  D0 00 00 00 CB 00 00 00  CD 00 00 00 02 00 00 00  ................
   0000000000000020  03 00 00 00 04 00 00 00  05 00 00 00 06 00 00 00  ................
   0000000000000030  07 00 00 00 32 00 00 00  31 00 00 00 30 00 00 00  ....2...1...0...
   0000000000000040  2F 00 00 00 2E 00 00 00  01 00 00 X1 03 00 00 X1  /...............
   0000000000000050  02 00 00 X1 25 00 00 00  24 00 00 00 23 00 00 00  ........$...#...
-  0000000000000060  22 00 00 00 21 00 00 00  14 00 00 00 01 00 00 00  "...!...........         
+  0000000000000060  22 00 00 00 21 00 00 00  01 00 00 08 02 00 00 08  "...!...........         
  ```
    
 * Input Tool to map output file *.bin
