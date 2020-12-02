@@ -658,7 +658,7 @@ Cerrando conexion
 
 <p align="center">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/RaidenIII_Nesica.png" align="center" height="200" width="350">
 	</a>
 </p>
 
