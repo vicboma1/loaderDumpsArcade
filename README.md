@@ -120,10 +120,10 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
    ```
    
 ## Inputs
-* Windows Native (GetAsyncKeyState)
+* Keyboard Windows Native (GetAsyncKeyState)
 * Direct Input 
-	* DYK
-	* GamePad
+	* Keyboard
+	* GamePad + Keyboard
 	
 ### [GetAsyncKeyState](https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-getasynckeystate) | [OpCodes](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes)
 
