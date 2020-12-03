@@ -692,7 +692,7 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
-* [[Hyperspin - Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō)](https://www.youtube.com/watch?v=dl0iOAR3w34)
+* [Hyperspin - Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō)](https://www.youtube.com/watch?v=dl0iOAR3w34)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Native Resolution](https://www.youtube.com/watch?v=LCNGFpi4LQA)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - GamePad PoC 3](https://www.youtube.com/watch?v=_ETKnmYIpPE)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - GamePad PoC 2](https://www.youtube.com/watch?v=ICKqH0fQ_ak)
