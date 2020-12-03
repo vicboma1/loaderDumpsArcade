@@ -692,6 +692,11 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [[Hyperspin - Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō)](https://www.youtube.com/watch?v=dl0iOAR3w34)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Native Resolution](https://www.youtube.com/watch?v=LCNGFpi4LQA)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - GamePad PoC 3](https://www.youtube.com/watch?v=_ETKnmYIpPE)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - GamePad PoC 2](https://www.youtube.com/watch?v=ICKqH0fQ_ak)
+* [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - GamePad PoC 1](https://www.youtube.com/watch?v=s9w2n1Frs2Q)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Curiosidades ](https://www.youtube.com/watch?v=-OONsITXN4Q)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Windowed Mode 60FPS](https://www.youtube.com/watch?v=vWyWDvRfatk)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Taito Opening](https://www.youtube.com/watch?v=fQ9JScq_FpE)
