@@ -612,7 +612,7 @@ Cerrando conexion
 </p>
 
 <p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-pNcYV1xR1H9V98czmXBTj">
     		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/bb22.png" align="center" height="290" width="410">
 	</a>
 </p>
@@ -679,7 +679,7 @@ Cerrando conexion
 | TTX2 | Battle Fantasia |  Arc System Works    | 2007 |  Fighter |  | -- | 60FPS | WIP | 60FPS |
 | TTX2 | BlazBlue: Calamity Trigger | Arc System Works    | 2008 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
 | TTX2 | BlazBlue: Continuum Shift 1 |    Arc System Works    | 2009 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
-| TTX2 | BlazBlue: Continuum Shift 2 |    Arc System Works    | 2010 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
+| TTX2 | BlazBlue: Continuum Shift 2 |    Arc System Works    | 2010 |  Fighter |  | -- | 55FPS | WIP | 60FPS |
 | TTX2 | Trouble Witches AC |    Taito  | 2008 |  Action |  | 60FPS | 60FPS | 60FPS | 60FPS |
 | TTX2 | Street Fighter IV |    Capcom  | 2008 |  Fighter |  | -- | 55FPS | WIP | 60FPS |
 | NESICAxLive | Raiden III |    MOSS    | 2012 |  SHMUP |  | 60FPS | 60FPS | 60FPS | 60FPS |
