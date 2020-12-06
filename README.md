@@ -692,6 +692,8 @@ Cerrando conexion
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
 
+* [Super Street Fighter IV: Arcade Edition v1.0 (NESYS) | (スーパーストリートファイターIV アーケードエディション) Pair Device](https://youtu.be/NarGqiPI588)
+* [Hyperspin - Super Street Fighter IV: Arcade Edition v1.0 (NESYS) | (スーパーストリートファイターIV アーケードエディション)](https://youtu.be/gQlo2HuXDqc)
 * [Super Street Fighter IV: Arcade Edition v1.0 (NESYS) | (スーパーストリートファイターIV アーケードエディション) ](https://www.youtube.com/watch?v=jVet2j6Azo8&t=4s)
 * [Hyperspin - Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō)](https://www.youtube.com/watch?v=dl0iOAR3w34)
 * [Street Fighter IV (ストリートファイター IV, Sutorīto Faitā Fō) - Native Resolution](https://www.youtube.com/watch?v=LCNGFpi4LQA)
