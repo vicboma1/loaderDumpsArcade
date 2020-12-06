@@ -623,6 +623,13 @@ Cerrando conexion
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys).png" align="center" height="220" width="320">
+	</a>
+</p>
+
+
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
 * [Puzzle Bobble - 301200 ]() - Inputs (WIP)
