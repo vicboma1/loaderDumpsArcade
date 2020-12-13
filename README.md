@@ -558,60 +558,46 @@ Cerrando conexion
 
 ### Taito Type x2
 
-<p align="center">
-    <a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_68bJP1YUUWKTL_2Jfj9t7">
-	    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
-	</a>
-</p>
+<table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_68bJP1YUUWKTL_2Jfj9t7">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/troublewitches.png" align="center" height="150" width="400">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9MUaKf3QcwJBXgNWR8Vcng">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8dBFPN-_DH0c8JctqD6s8C">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
+       </a></td>
+  </tr>
+ </table>
+ 
+<table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8E6TqqwW-CK-cHi9iD82jj">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/blazBlueCalamityTrigger.png" align="center" height="190" width="410">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
+	</a></td>
+  </tr>
+ </table>
 
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9MUaKf3QcwJBXgNWR8Vcng">
-    	<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/battleFantasia.png" align="center" height="150" width="400">
-	</a>
-</p>
-
-<p align="center">
-	  <a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8dBFPN-_DH0c8JctqD6s8C">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/powerinstinct5.png" align="center" height="180" width="400">
-	</a>
-</p>
-	
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center" height="180" width="400">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8E6TqqwW-CK-cHi9iD82jj">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/blazBlueCalamityTrigger.png" align="center" height="190" width="410">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png" align="center" height="290" width="410">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-pNcYV1xR1H9V98czmXBTj">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/bb22.png" align="center" height="290" width="410">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Street_Fighter_IV.png" align="center" height="270" width="380">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
-    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys).png" align="center" height="220" width="320">
-	</a>
-</p>
-
+<table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-pNcYV1xR1H9V98czmXBTj">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/bb22.png" align="center" height="180" width="410">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Street_Fighter_IV.png" align="center" height="180" width="380">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
+    		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys).png" align="center" height="180" width="320"></td>
+  </tr>
+ </table>
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
