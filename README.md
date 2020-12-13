@@ -514,27 +514,21 @@ Cerrando conexion
 
 ### Taito Type x
 
-<p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/mahjong.png" >
-</p>
-
-* [Cosplay 3D Mahjong - 706]() - Working Video | Inputs (WIP)
-
-<p align="center">
+<p align="left">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="150" width="150">
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3Export.png" align="center" height="200" width="350">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3Export.png" align="center" height="150" width="150">
 	</a>
 </p>
 
-<p align="center">
+<p align="right">
 	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="450">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="150">
 	</a>
 </p>
 
