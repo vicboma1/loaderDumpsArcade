@@ -514,59 +514,47 @@ Cerrando conexion
 
 ### Taito Type x
 
-<p align="left">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="150" width="150">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3Export.png" align="center" height="150" width="150">
-	</a>
-</p>
-
-<p align="right">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="150">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-TtnJQxQj2pWGjMsIpb8jc">
+<table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3.png" align="center" height="200" width="300">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-wY8D8cIlpQJ4cVMEThrhm">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden3Export.png" align="center" height="200" width="300">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9Dtq5gqllBOdRElYEQfLrr">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/raiden4.png" align="center" height="150" width="300">
+	</a></td>
+  </tr>
+ </table>
+ 
+ <table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-TtnJQxQj2pWGjMsIpb8jc">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/homura.png" align="center" height="100" width="300">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9BHgWBH5V7_zmCa8WIBGR2">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9BHgWBH5V7_zmCa8WIBGR2">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/chaosBreaker.png" align="center" height="125" width="300">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_iBnAJoRheIDmQn_edrRJz">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_iBnAJoRheIDmQn_edrRJz">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/gigawings.png" align="center" height="125" width="300">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8KqNXWie2QK_E4OFFsFQ7Q">
+	</a></td>
+  </tr>
+ </table>
+ 
+  <table>
+   <tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8KqNXWie2QK_E4OFFsFQ7Q">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/TGM3.png" align="center" height="200" width="350">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8n-p_6HdNnTemI0n9FdjY2">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8n-p_6HdNnTemI0n9FdjY2">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/spica.png" align="center" height="200" width="350">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=ibgZqxGOmFw&list=PLNph7ndeSqE_rKEF6IdmXWIqwDTDmsEO_">
+	</a></td>
+    <td><a href="https://www.youtube.com/watch?v=ibgZqxGOmFw&list=PLNph7ndeSqE_rKEF6IdmXWIqwDTDmsEO_">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/shikigame_no_shiro_3.png" align="center" height="200" width="350">
-	</a>
-</p>
+	</a></td>
+  </tr>
+ </table>
 
 ### Taito Type x2
 
