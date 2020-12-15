@@ -574,23 +574,20 @@ Cerrando conexion
  
 <table>
    <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center"  height="200" width="350">
-	</a></td>
     <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE8E6TqqwW-CK-cHi9iD82jj">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/blazBlueCalamityTrigger.png" align="center"  height="200" width="350">
 	</a></td>
     <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9G_UJuClPPMNfaCfZQHLaV">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/BlazBlue-_CS1.png" align="center"  height="200" width="350">
 	</a></td>
-  </tr>
- </table>
-
-<table>
-   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE-pNcYV1xR1H9V98czmXBTj">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/bb22.png" align="center"  height="200" width="350">
 	</a></td>
+   </tr>
+ </table>
+
+<table>
+   </tr>
     <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE_-AE18nKwmlToWkKPbTiCk">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Street_Fighter_IV.png" align="center"  height="200" width="350">
 	</a></td>
@@ -598,6 +595,20 @@ Cerrando conexion
     		<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys).png" align="center"  height="200" width="350"></td>
   </tr>
  </table>
+
+<table>
+  </tr>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9O34CTDVw5XlnOcaYK2xIo">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/kof_12.png" align="center"  height="200" width="350">
+	</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLNph7ndeSqE9UlgOchMgvfOLsI6KSfqih">
+    	<img src="https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel/blob/master/wheel/King%20of%20Fighters%20Maximum%20Impact%20Regulation%20A.png" align="center"  	height="200" width="350"></td>
+  </tr>
+ </table>
+ 
+
+	 
+
 
 ### NesicaxLive
 * [Cosplay 3D Mahjong - 401300]() - Video (WIP)
