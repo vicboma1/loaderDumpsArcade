@@ -1,4 +1,4 @@
-# Street Fighter IV
+# King of fighters maximum impact Regulation A
 
 | Name | Folder/File | size |
 | :-------: | :------: | :------: |
