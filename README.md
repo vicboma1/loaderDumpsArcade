@@ -937,16 +937,16 @@ Development environment
 Original TTX Arcade System w/Raiden III
 
 [2017-2019]
-Poor Macbook 2015 - CPU 2.2Ghz
+Macbook 2015 - CPU 2.2Ghz
 Bootcamp Native - Windows 8
-Intel HP Graphics 4500 | 2048MB
+Intel HP Graphics 4500 | ---
 8GB RAM 
 
 [2020-XXXX]
 Dell
 Intel Core i5-7200U 
 CPU 2.5Ghz | 2Cores - 4Nucleos
-Intel HP Graphics 620 | 8141MB
+Intel HP Graphics 620 | ---
 16GB RAM
 ```
 
