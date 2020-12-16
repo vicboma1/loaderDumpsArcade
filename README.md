@@ -654,16 +654,17 @@ Cerrando conexion
 | TTX | Raiden IV |    MOSS    | 2005 |  SHMUP |  | 50FPS | 60FPS | 60FPS | 60FPS |
 | TTX | Spica Adventure |    Taito  | 2005 |  Platform |  | 60FPS | 60FPS | 60FPS | 60FPS |
 | TTX | Tetris The Grand Master 3 Terror Instinct |    Arika  | 2005 |  Puzzle |  | 60FPS | 60FPS | 60FPS | 60FPS |
-| TTX | Shikigami no Shiro III |    Alfa System, Skonec, Barnhouse Effect  | 2006 |  SHMUP |  | 45FPS | 60FPS | WIP | 60FPS |
-| TTX2 | The King of Fighters XII |    SNK Playmore    | 2012 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
+| TTX | Shikigami no Shiro III |    Alfa System, Skonec, Barnhouse Effect  | 2006 |  SHMUP |  | 45FPS | 60FPS | WIP | 60FPS | 
+| TTX2 | Battle Fantasia |  Arc System Works    | 2007 |  Fighter |  | -- | 60FPS | 50FPS | 60FPS |
+| TTX2 | BlazBlue: Calamity Trigger | Arc System Works    | 2008 |  Fighter |  | -- | 50FPS | 45FPS | 60FPS |
+| TTX2 | BlazBlue: Continuum Shift 1 |    Arc System Works    | 2009 |  Fighter |  | -- | 50FPS | 40FPS | 60FPS |
+| TTX2 | BlazBlue: Continuum Shift 2 |    Arc System Works    | 2010 |  Fighter |  | -- | 55FPS | 50FPS | 60FPS |
+| TTX2 | King of Fighters Maximum Impact Regulation A |    SNK Playmore    | 2007 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
 | TTX2 | Power Instinct 5 Matrimelee 2: Goketsuji Ichizoku Matsuri Senzo Kuyou |    Atlus and Noise Factory    | 2009 |  Fighter |  | 45FPS | 60FPS | 60FPS | 60FPS |
-| TTX2 | Battle Fantasia |  Arc System Works    | 2007 |  Fighter |  | -- | 60FPS | WIP | 60FPS |
-| TTX2 | BlazBlue: Calamity Trigger | Arc System Works    | 2008 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
-| TTX2 | BlazBlue: Continuum Shift 1 |    Arc System Works    | 2009 |  Fighter |  | -- | 50FPS | WIP | 60FPS |
-| TTX2 | BlazBlue: Continuum Shift 2 |    Arc System Works    | 2010 |  Fighter |  | -- | 55FPS | WIP | 60FPS |
+| TTX2 | The King of Fighters XII |    SNK Playmore    | 2012 |  Fighter |  | -- | 55FPS | 45FPS | 60FPS |
 | TTX2 | Trouble Witches AC |    Taito  | 2008 |  Action |  | 60FPS | 60FPS | 60FPS | 60FPS |
-| TTX2 | Street Fighter IV |    Capcom  | 2008 |  Fighter |  | -- | 55FPS | WIP | 60FPS |
-| TTX2 | Super Street Fighter IV Arcade Edition (NESYS) |    Capcom  | 2010 |  Fighter |  | -- | 55FPS | WIP | 60FPS |
+| TTX2 | Street Fighter IV |    Capcom  | 2008 |  Fighter |  | -- | 55FPS | 40FPS | 60FPS |
+| TTX2 | Super Street Fighter IV Arcade Edition (NESYS) |    Capcom  | 2010 |  Fighter |  | -- | 55FPS | 40 FPS | 60FPS |
 | NESICAxLive | Raiden III |    MOSS    | 2012 |  SHMUP |  | 60FPS | 60FPS | 60FPS | 60FPS |
 | NESICAxLive | Daemon Bride |    Examu    | 2009 |  Fighter |  | 45FPS | 60FPS | 60FPS | 60FPS |
 | NESICAxLive | Elevator Action |    Taito    | 2014 |  Action |  | 60FPS | 60FPS | 60FPS | 60FPS |
