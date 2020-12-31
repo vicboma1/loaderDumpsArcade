@@ -75,7 +75,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
 ### [Miscelanea Projects](https://github.com/vicboma1/loaderDumpsArcade#miscelanea-projects-1)
 ### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
-### [Software requirements](https://github.com/vicboma1/loaderDumpsArcade#software-requeriments-1)
+### [Software requirements](https://github.com/vicboma1/loaderDumpsArcade#software-requirements-1)
 
 
 ## Systems
