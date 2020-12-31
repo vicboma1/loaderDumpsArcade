@@ -75,7 +75,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
 ### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
 ### [Miscelanea Projects](https://github.com/vicboma1/loaderDumpsArcade#miscelanea-projects-1)
 ### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
-
+### [Software requirements](https://github.com/vicboma1/loaderDumpsArcade#software-requeriments-1)
 
 
 ## Systems
@@ -919,13 +919,13 @@ SUM:                          1222          45372          93902         470675
  * [Calculate CRC32 online](https://emn178.github.io/online-tools/crc32_checksum.html)
 
 # Miscelanea projects
-* [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
-* [Media](https://github.com/vicboma1/loaderDumpsArcade-media)
-* [iDmacDrv32 dll using declspec(dllexport)](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
-* [iDmacDrv32 dll using a .def file ](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv32)
-* [Aspect Ratio](https://github.com/vicboma1/AspectRatio)
-* [Tab-Menu](https://www.youtube.com/playlist?list=PLNph7ndeSqE82NCav6F22SzIFj5JHrR3y)
-* [Fix vcruntime100.dll | win10](https://github.com/vicboma1/loaderDumpsArcade-solved-problem-vcruntime100)
+ * [Hyperspin wheels](https://github.com/vicboma1/loaderDumpsArcade-hyperspin-wheel)
+ * [Media](https://github.com/vicboma1/loaderDumpsArcade-media)
+ * [iDmacDrv32 dll using declspec(dllexport)](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv)
+ * [iDmacDrv32 dll using a .def file ](https://github.com/vicboma1/loaderDumpsArcade-iDmacDrv32)
+ * [Aspect Ratio](https://github.com/vicboma1/AspectRatio)
+ * [Tab-Menu](https://www.youtube.com/playlist?list=PLNph7ndeSqE82NCav6F22SzIFj5JHrR3y)
+ * [Fix vcruntime100.dll | win10](https://github.com/vicboma1/loaderDumpsArcade-solved-problem-vcruntime100)
 
 # About
 
@@ -979,5 +979,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+# Software requirements
+ * [DirectX 9.0c - Runtime 2007](https://www.microsoft.com/en-US/download/details.aspx?id=34429)
+ * [DirectX 9.29 - Runtime 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+ * [Microsoft Visual C++ Pack v5.2 Repack](https://www.mirrored.to/files/MJXVGFM0/Microsoft_Visual_C___Pack_v5.2_Repack.zip_links)
 
 # No roms, no games, no dumps! 
