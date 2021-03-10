@@ -34,6 +34,7 @@ Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
   * [Api Windows](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#windows)
   * [Api Native NTxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-nt)
   * [Api Native ZWxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-zw)
+  * [Crypto](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/Crypto/CryptoHook.h)
   * [DDraw](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DDraw/DirectDrawHook.h)
   * [D3D8](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D8/D3D8Hook.h)
   * [D3D8Device](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D8/D3D8DeviceHook.h)
