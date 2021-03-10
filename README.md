@@ -8,11 +8,8 @@
 
 
 #### All this is a homebrew development with reverse engineering, non official technical documentation and a lot of personal time. 
-Twitter : https://twitter.com/vicboma1
-
-Youtube : https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g
-
-Instagram : https://www.instagram.com/loader_dumps_arcade_emulator/
+[Twitter](https://twitter.com/vicboma1) - [Youtube](https://www.youtube.com/channel/UCIyHFDfIyH2Z7FUQBiUxs4g/playlists?view=50&sort=dd&shelf_id=3) - 
+[Instagram](https://www.instagram.com/loader_dumps_arcade_emulator/)
 
 ## Table of Contents (wip)
 
