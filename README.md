@@ -980,6 +980,6 @@ SOFTWARE.
 # Software requirements
  * [DirectX 9.0c - Runtime 2007](https://www.microsoft.com/en-US/download/details.aspx?id=34429)
  * [DirectX 9.29 - Runtime 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
- * [Microsoft Visual C++ Pack v5.2 Repack](https://www.mirrored.to/files/MJXVGFM0/Microsoft_Visual_C___Pack_v5.2_Repack.zip_links)
+ * [Microsoft Visual C++ Pack v5.2 Repack](https://drive.google.com/u/0/uc?id=1JFrma0GuFeOShbqHA0-k1BBaCyZuA4-b&export=download)
 
 # No roms, no games, no dumps! 
