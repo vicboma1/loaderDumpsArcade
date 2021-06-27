@@ -672,6 +672,8 @@ Cerrando conexion
 
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+* [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 |
+15Khz CRT Gameplay](https://youtu.be/pb3rfJY5lQM) 
 * [Loader Dumps Arcade Emulator Snap in Sega Astro City Cabinet - (アストロシティ - ASUTOROSHITI) CRT 15 Khz](https://www.youtube.com/watch?v=jH6XPKAx5kk)
 * [King of Fighter Maximum Impact A | (ケーオーエフ マキシマムインパクト) Taito Type X2 - Pad-controller)](https://youtu.be/hvboiDFyvTI)
 * [King of Fighter Maximum Impact A | (ケーオーエフ マキシマムインパクト) Taito Type X2 - Improving Emulation](https://youtu.be/rlTNsyrFXiY)
