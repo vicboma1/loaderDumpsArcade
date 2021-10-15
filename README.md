@@ -980,7 +980,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 # Software requirements
- * [DirectX 9.0c - Runtime 2007](https://www.microsoft.com/en-US/download/details.aspx?id=34429)
+ * [DirectX 9.0c - Runtime 2007](http://falconfly.3dfx.pl/downloads/DirectX-90c-x86-x86_64-Nov2007.zip)
  * [DirectX 9.29 - Runtime 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
  * [Microsoft Visual C++ Repack](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
