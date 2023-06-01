@@ -672,7 +672,8 @@ Cerrando conexion
 
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
-* [Battle Fantasia (バトルファンタジア) Batoru Fantajia | 1cc](https://youtu.be/FMftjF8YXsg)
+* [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) | 15Khz CRT Gameplay](https://www.youtube.com/watch?v=pQq8UxVQrdk)
+* [Battle Fantasia (バトルファンタジア) Batoru Fantajia | 1cc 15Khz CRT Gameplay](https://youtu.be/FMftjF8YXsg)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 |
 15Khz CRT Gameplay](https://youtu.be/pb3rfJY5lQM) 
 * [Loader Dumps Arcade Emulator Snap in Sega Astro City Cabinet - (アストロシティ - ASUTOROSHITI) CRT 15 Khz](https://www.youtube.com/watch?v=jH6XPKAx5kk)
