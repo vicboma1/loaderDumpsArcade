@@ -672,6 +672,7 @@ Cerrando conexion
 
 
 # [Video DevList](https://www.youtube.com/playlist?list=PLNph7ndeSqE-ipUjV17uCQ-ZMGs9VC7CH)
+* [Homura (ほむら) Arcade (2005) | Widely mode](https://youtu.be/z1sK6dzTs_4)
 * [Blazblue Continuum Shift I (ブレイブルーコンティニュアムシフト) | 15Khz CRT Gameplay](https://www.youtube.com/watch?v=pQq8UxVQrdk)
 * [Battle Fantasia (バトルファンタジア) Batoru Fantajia | 1cc 15Khz CRT Gameplay](https://youtu.be/FMftjF8YXsg)
 * [Trouble Witches AC (トラブル☆ウィッチーズＡＣ) Arcade (2008) - Taito Type x2 |
