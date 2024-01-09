@@ -1,4 +1,4 @@
-# Loader Dumps Arcade Emulator (wip)
+?tab=readme-ov-file# Loader Dumps Arcade Emulator (wip)
 
 
 
@@ -13,11 +13,11 @@
 
 ## Table of Contents (wip)
 
-### [Systems](#systems-1)
-### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#loader--based-on-injections)
+### [Systems](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md?tab=readme-ov-file#systems-1)
+### [Loader](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md?tab=readme-ov-file#loader--based-on-injections)
 
 ### Injections
-#### [Process](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#process)
+#### [Process](https://github.com/vicboma1/Inject-DLL/blob/master/README.md?tab=readme-ov-file#process)
   * CreateProcess and OpenProcess
   * CreateRemoteThread and LoadLibrary
   * Portable Execute
@@ -27,10 +27,10 @@
   * Vectored Exception Handling
   * Trampoline/Columpio
   * DetourFunction
-#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#hooks)
-  * [Api Windows](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#windows)
-  * [Api Native NTxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-nt)
-  * [Api Native ZWxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md#api-native-zw)
+#### [Hooks](https://github.com/vicboma1/Inject-DLL/blob/master/README.md?tab=readme-ov-file#hooks)
+  * [Api Windows](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md?tab=readme-ov-file#windows)
+  * [Api Native NTxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md?tab=readme-ov-file#api-native-nt)
+  * [Api Native ZWxxx](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/readme.md?tab=readme-ov-file#api-native-zw)
   * [Crypto](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/Crypto/CryptoHook.h)
   * [DDraw](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/DDraw/DirectDrawHook.h)
   * [D3D8](https://github.com/vicboma1/loaderDumpsArcade/blob/master/assets/Platform/Hooks/D3D8/D3D8Hook.h)
@@ -48,32 +48,32 @@
  #### [Segmentation memory](https://github.com/vicboma1/Inject-DLL/blob/master/README.md#segmentation-memory)
   * Addressing
 
-### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md#inputs-1)
-### [Emulators](https://github.com/vicboma1/loaderDumpsArcade#emulators-1)
-* [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade#jvs-io)
-* [FAST I/O](https://github.com/vicboma1/loaderDumpsArcade#fast-io)
-### [Graphics](https://github.com/vicboma1/loaderDumpsArcade#graphics-1)
-### [Sound](https://github.com/vicboma1/loaderDumpsArcade#sound-1)
-### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade#virtual-storage-1)
-### [Cache Storage](https://github.com/vicboma1/loaderDumpsArcade#cache-storage-1)
-### [Display](https://github.com/vicboma1/loaderDumpsArcade#display-1)
-### [Aspect Ratio](https://github.com/vicboma1/loaderDumpsArcade#aspect-ratio-1)
-### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade#rotation-display-1)
-### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
-### [Tab-Menu](https://github.com/vicboma1/loaderDumpsArcade#taskbar-menu-1)
-### [Pause Mode](https://github.com/vicboma1/loaderDumpsArcade#pause-mode-1)
-### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade#systemsgames-loaders-wip)
-* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x-1)
-* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade#taito-type-x2-1)
-* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade#nesicaxlive-1)
-### [Compatibility](https://github.com/vicboma1/loaderDumpsArcade#compatibility-1)
-### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade#video-devlist-1)
-### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade#code-ratio)
-### [Highlights](https://github.com/vicboma1/loaderDumpsArcade#highlights-1)
-### [References](https://github.com/vicboma1/loaderDumpsArcade#references-1)
-### [Miscelanea Projects](https://github.com/vicboma1/loaderDumpsArcade#miscelanea-projects-1)
-### [About](https://github.com/vicboma1/loaderDumpsArcade#about-1)
-### [Software requirements](https://github.com/vicboma1/loaderDumpsArcade#software-requirements-1)
+### [Inputs](https://github.com/vicboma1/loaderDumpsArcade/blob/master/README.md?tab=readme-ov-file#inputs-1)
+### [Emulators](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#emulators-1)
+* [JVS I/O](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#jvs-io)
+* [FAST I/O](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#fast-io)
+### [Graphics](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#graphics-1)
+### [Sound](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#sound-1)
+### [Virtual Storage](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#virtual-storage-1)
+### [Cache Storage](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#cache-storage-1)
+### [Display](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#display-1)
+### [Aspect Ratio](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#aspect-ratio-1)
+### [Rotation Display](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#rotation-display-1)
+### [TaskBar Menu](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#taskbar-menu-1)
+### [Tab-Menu](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#taskbar-menu-1)
+### [Pause Mode](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#pause-mode-1)
+### [Systems/Games Loaders](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#systemsgames-loaders-wip)
+* [Taito Type x](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#taito-type-x-1)
+* [Taito Type x2](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#taito-type-x2-1)
+* [NESiCAxLive](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#nesicaxlive-1)
+### [Compatibility](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#compatibility-1)
+### [Video DevList](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#video-devlist-1)
+### [Code Ratio](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#code-ratio)
+### [Highlights](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#highlights-1)
+### [References](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#references-1)
+### [Miscelanea Projects](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#miscelanea-projects-1)
+### [About](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#about-1)
+### [Software requirements](https://github.com/vicboma1/loaderDumpsArcade?tab=readme-ov-file#software-requirements-1)
 
 
 ## Systems
@@ -102,7 +102,7 @@
     Run w/ Taito Type X, X2, X Zero, X3 and X4
   ```
   
-## Loader | [Based on Injection's](https://github.com/vicboma1/Inject-DLL#process)
+## Loader | [Based on Injection's](https://github.com/vicboma1/Inject-DLL?tab=readme-ov-file?tab=readme-ov-file#process)
    ```C
    Boolean isLoaded { get; }
    Boolean isActive();
@@ -117,7 +117,6 @@
    List<IntPtr> ResumeAllThreads();
    Boolean Terminate();
    ```
-   
 ## Inputs
 * Keyboard Windows Native (GetAsyncKeyState)
 * Direct Input 
@@ -171,7 +170,7 @@
  EXIT_CODE = ESC
  ```
   
-### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL#hooks) | [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
+### Direct Input | [Based on Hook's](https://github.com/vicboma1/Inject-DLL?tab=readme-ov-file#hooks) | [DIKCodes](http://www.flint.jp/misc/?q=dik&lang=en)
  
 #### Example | File.bin
 
