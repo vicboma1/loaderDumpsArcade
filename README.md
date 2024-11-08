@@ -1,6 +1,4 @@
-?tab=readme-ov-file# Loader Dumps Arcade Emulator (wip)
-
-
+## Loader Dumps Arcade Emulator (wip)
 
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Images/Logo_enjoy.PNG" >	
